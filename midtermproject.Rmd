@@ -16,12 +16,13 @@ library(wordcloud2)
 library(ggplot2)
 library(tidyr)
 library(scales)
-=======
-```{r message=FALSE, warning=FALSE} 
+```
+
+
+```{r message=FALSE, warning=FALSE}
 packages = c("dplyr", "tidytext", "stringr", "wordcloud2","tidyverse",'knitr','kableExtra', "ggplot2",'readr','data.table','reshape2','wordcloud','tidyr','scales','jiebaR','sentimentr','htmltools')
 existing = as.character(installed.packages()[,1])
 for(pkg in packages[!(packages %in% existing)]) install.packages(pkg)
->>>>>>> 01ed421c2226839154d0ae3573564f0c09b0a67b
 ```
 
 ```{r message=FALSE, warning=FALSE} 
@@ -200,9 +201,56 @@ plot_date
 
 ```{r}
 jieba_tokenizer <- worker(user="user_dict.txt", stop_word = "stop_words.txt")
-segment(article$artContent, jieba_tokenizer)
+clean = function(txt) {
+  txt = gsub("B\\w+", "", txt) #去除@或#後有數字,字母,底線 (標記人名或hashtag)
+  txt = gsub("(http|https)://.*", "", txt) #去除網址
+  txt = gsub("[ \t]{2,}", "", txt) #去除兩個以上空格或tab
+  txt = gsub("\\n"," ",txt) #去除換行
+  txt = gsub("\\s+"," ",txt) #去除一個或多個空格
+  txt = gsub("^\\s+|\\s+$","",txt) #去除前後一個或多個空格
+  txt = gsub("&.*;","",txt) #去除html特殊字元編碼
+  txt = gsub("[a-zA-Z0-9?!. ']","",txt) #除了字母,數字 ?!. ,空白的都去掉
+  txt }
 
+tokenizer <- function(t) {
+  lapply(t, function(x) {
+    tokens <- segment(x, jieba_tokenizer)
+    return(tokens)
+  })
+}
+artilce_tokens <- article %>% 
+  unnest_tokens(word, artContent, token=tokenizer)
+artilce_tokens$word = clean(artilce_tokens$word)
+artilce_tokens = artilce_tokens %>%
+  filter(!word == "")
 
-
+comment_tokens <- comment %>% 
+  unnest_tokens(word, artContent, token=tokenizer)
+comment_tokens$word = clean(comment_tokens$word)
+comment_tokens = comment_tokens %>%
+  filter(!word == "")
 ```
+# 文字雲
+```{r}
+# 計算詞彙的出現次數，如果詞彙只有一個字則不列入計算
+article_tokens_count <- artilce_tokens %>% 
+  filter(nchar(.$word)>1) %>%
+  group_by(word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum))
+comment_tokens_count <- comment_tokens %>% 
+  filter(nchar(.$word)>1) %>%
+  group_by(word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum))
+# 印出最常見的20個詞彙
+head(article_tokens_count, 20)
+head(comment_tokens_count, 20)
+article_tokens_count %>% wordcloud2()
+
+comment_tokens_count %>% wordcloud2()
+```
+
 
