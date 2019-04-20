@@ -5,9 +5,10 @@ date: "2019年4月19日"
 output: html_document
 ---
 load library
-```{r}
-library(data.table)
-library(dplyr)
+```{r message=FALSE, warning=FALSE} 
+packages = c("dplyr", "tidytext", "stringr", "wordcloud2","tidyverse",'knitr','kableExtra', "ggplot2",'readr','data.table','reshape2','wordcloud','tidyr','scales','jiebaR','sentimentr','htmltools')
+existing = as.character(installed.packages()[,1])
+for(pkg in packages[!(packages %in% existing)]) install.packages(pkg)
 ```
 
 
@@ -18,7 +19,7 @@ nuk_data =fread("my_csv_nuk.csv",encoding = 'UTF-8')
 exam_data =fread("my_csv_exam.csv",encoding = 'UTF-8')
 ptt_data =fread("ptt.csv",encoding = 'UTF-8')
 nsysu_comment =fread("comment_nsysu.csv",encoding = 'UTF-8') #552
-nuk_comment =fread("comment_nuk_.csv",encoding = 'UTF-8') #818
+nuk_comment =fread("comment_nuk.csv",encoding = 'UTF-8') #818
 ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
 exam_comment =fread("comment_exam.csv",encoding = 'UTF-8') #1024
 # apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
