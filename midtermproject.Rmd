@@ -1,0 +1,69 @@
+---
+title: "SMA"
+author: "Bolun Lin"
+date: "2019年4月19日"
+output: html_document
+---
+load library
+```{r}
+library(data.table)
+library(dplyr)
+```
+
+
+# load the dcard data
+```{r}
+nsysu_data = fread("my_csv_nsysu.csv",encoding = 'UTF-8')
+nuk_data =fread("my_csv_nuk.csv",encoding = 'UTF-8')
+exam_data =fread("my_csv_exam.csv",encoding = 'UTF-8')
+ptt_data =fread("merge_articleMetaData.csv",encoding = 'UTF-8')
+# apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
+```
+
+```{r}
+nsysu = nsysu_data %>%
+  filter(grepl("高大|併校|合併|合校|高雄大學|公聽會",content)|grepl("高大|併校|合併|合校|高雄大學|公聽會",title))
+# nsysu_comment = nsysu %>%
+#   select(comments) %>%
+#   filter(grepl("中山|併校|合併|合校|中山大學|公聽會",comments))  
+
+ nuk = nuk_data %>%
+   filter(grepl("中山|併校|合併|合校|中山大學|公聽會",content)|grepl("中山|併校|合併|合校|中山大學|公聽會",title)) 
+exam = exam_data %>%
+   filter(grepl("併校|合併|合校|公聽會",content)|grepl("併校|合併|合校|公聽會",title)) %>%
+   filter(grepl("高大|中山|高雄大學",content)|grepl("高大|中山|高雄大學",title)) 
+ptt = ptt_data %>%
+   filter(grepl("併校|合併|合校|公聽會",artTitle)|grepl("併校|合併|合校|公聽會",sentence)) %>%
+   filter(grepl("高大|中山|高雄大學",artTitle)|grepl("高大|中山|高雄大學",sentence)) 
+
+
+```
+
+
+```{r}
+nsysu_id =nsysu %>%
+  select(id)
+write.csv(nsysu, file = "nsysu_id.csv")
+nuk_id =nuk %>%
+  select(id)
+write.csv(nuk, file = "nuk_id.csv")
+```
+
+```{r}
+nsysu_comment =fread("comment_nsysu_.csv",encoding = 'UTF-8') #552
+nuk_comment =fread("comment_nuk_.csv",encoding = 'UTF-8') #818
+```
+
+```{r}
+nsysu_comment = nsysu_comment %>%
+  filter(nchar(nsysu_comment$content)>10) #481
+ nuk_comment = nuk_comment %>%
+  filter(nchar(nuk_comment$content)>10) #639
+```
+#編碼
+```{r}
+pttcomment =fread("user4.merge.csv",encoding = 'UTF-8') #818
+pttcomment$artComments
+
+```
+
