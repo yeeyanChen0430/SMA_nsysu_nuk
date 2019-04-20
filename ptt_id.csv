@@ -1,0 +1,875 @@
+"","V1","InsertDate","_id","artCat","artComments","artContent","artDate","artIsValid","artPoster","artTitle","artUrl","dataSource","e_ip"
+"1",11,"2019-04-18T17:04:45.344Z","5cb8ae2da525820c30ec0267","Gossiping","[{'cmtStatus': '噓', 'cmtPoster': 'r30385', 'cmtContent': ':...', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'waijr', 'cmtContent': ':南台灣大學南台大', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'WeAntiTVBS', 'cmtContent': ':台中亞歷山大學？？？？？？？', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gsmzxcvbnm', 'cmtContent': ':太遠了吧', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'aaabbb111', 'cmtContent': ':台大南霸天', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'cliff860429', 'cmtContent': ':洗洗睡啦', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'fuhaho', 'cmtContent': ':開始各種抱大腿', 'cmtDate': '2018-10-10 03:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'lolic', 'cmtContent': ':廢物校不要自抬身價好不好', 'cmtDate': '2018-10-10 03:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'waijr', 'cmtContent': ':高雄就不能有台灣大學嗎?不要歧視南部人', 'cmtDate': '2018-10-10 03:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'serrier', 'cmtContent': ':全部都合併成台大好囉', 'cmtDate': '2018-10-10 03:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'CCY0927', 'cmtContent': ':癡人說夢', 'cmtDate': '2018-10-10 03:43:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bybe', 'cmtContent': ':太遠了吧', 'cmtDate': '2018-10-10 03:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'blue999', 'cmtContent': ':想太多了吧==台大', 'cmtDate': '2018-10-10 03:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'blue999', 'cmtContent': ':能先跟成大清大這一些就不錯了', 'cmtDate': '2018-10-10 03:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'uytqazescf', 'cmtContent': ':從南到北', 'cmtDate': '2018-10-10 03:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'KEYSOLIDER', 'cmtContent': ':南部台大', 'cmtDate': '2018-10-10 03:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Okonkwo', 'cmtContent': ':改成台吱大', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'xampp', 'cmtContent': ':台大不是該跟台科大併?就在隔壁而已乾脆併', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':南部糞校自抬身價', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'elle', 'cmtContent': ':...', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'xampp', 'cmtContent': ':一併', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yoyodiy', 'cmtContent': ':這個比較對等科系都類似有醫有理工有文法', 'cmtDate': '2018-10-10 03:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'yuponkimo', 'cmtContent': ':台大先跟師大併', 'cmtDate': '2018-10-10 03:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ams9', 'cmtContent': ':支持所有國立大學併校', 'cmtDate': '2018-10-10 03:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yoyodiy', 'cmtContent': ':不像陽明交大醫學院併理工學校', 'cmtDate': '2018-10-10 03:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'waijr', 'cmtContent': ':不要答應學歷貶值', 'cmtDate': '2018-10-10 03:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kenro', 'cmtContent': ':想被併了，其實一直不知道中山到底在幹嘛', 'cmtDate': '2018-10-10 03:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'olaqe', 'cmtContent': ':台灣大學西子灣校區?聽起來很威', 'cmtDate': '2018-10-10 03:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gn00399745', 'cmtContent': ':併校本來就是以科系互補為考量吧，y', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gn00399745', 'cmtContent': ':o叔說的反而是相反的', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'bandwandbenz', 'cmtContent': ':提升高校競爭力就是把廢物學校直接', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bandwandbenz', 'cmtContent': ':廢掉', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gn00399745', 'cmtContent': ':兩校合併如果科系都一樣光吵經費就', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gn00399745', 'cmtContent': ':吵不完了', 'cmtDate': '2018-10-10 03:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'konanno1', 'cmtContent': ':併校名為台灣猴子大學，台猴大學', 'cmtDate': '2018-10-10 03:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bandwandbenz', 'cmtContent': ':指考平均無法及格的唸三小大學沒', 'cmtDate': '2018-10-10 03:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bandwandbenz', 'cmtContent': ':拿頂標談什麼專業', 'cmtDate': '2018-10-10 03:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mimikillua', 'cmtContent': ':看吧大學太多間自己都想整併退場了', 'cmtDate': '2018-10-10 03:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yoyodiy', 'cmtContent': ':真的指考連平均60都拿不到真的不該念大學', 'cmtDate': '2018-10-10 03:53:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'sbflight', 'cmtContent': ':蘿莉控大學', 'cmtDate': '2018-10-10 03:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'haru97724', 'cmtContent': ':乾不要噢', 'cmtDate': '2018-10-10 03:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yoyodiy', 'cmtContent': ':連午淡江都有平均62分了不及格是啥感覺', 'cmtDate': '2018-10-10 03:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Spinner3', 'cmtContent': ':還不如高雄的大學併一間', 'cmtDate': '2018-10-10 03:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kmt520', 'cmtContent': ':不是啊指考平均60也只有學店能念啊', 'cmtDate': '2018-10-10 03:57:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'alfiema', 'cmtContent': ':為什麼不乾脆跟哈佛談合併', 'cmtDate': '2018-10-10 03:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kmt520', 'cmtContent': ':標準太低了吧？', 'cmtDate': '2018-10-10 03:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'm19issmart', 'cmtContent': ':併高大啦中山大學楠梓校區', 'cmtDate': '2018-10-10 03:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'oaoa0123', 'cmtContent': ':中山大學有醫學系，這下真的屌打清交', 'cmtDate': '2018-10-10 03:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Tristanh', 'cmtContent': ':中山這種黨國校名消失也好', 'cmtDate': '2018-10-10 03:59:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yoyodiy', 'cmtContent': ':中山大本來就有醫科併不併沒太大差別', 'cmtDate': '2018-10-10 03:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yoyodiy', 'cmtContent': ':是其他理工法商學院比較爽', 'cmtDate': '2018-10-10 04:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'doggie175', 'cmtContent': ':台中大學？', 'cmtDate': '2018-10-10 04:02:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'silomin', 'cmtContent': ':是不是很多人不知道中山和中山醫不同', 'cmtDate': '2018-10-10 04:04:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'qazzaq3977', 'cmtContent': ':台灣只需要一個大學', 'cmtDate': '2018-10-10 04:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cynric717', 'cmtContent': ':哇，會不會太遠', 'cmtDate': '2018-10-10 04:05:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'MartianIT', 'cmtContent': ':早就說台灣只有三間大學：', 'cmtDate': '2018-10-10 04:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pita30', 'cmtContent': ':全台灣合併成一間台灣大學就好就沒學店生', 'cmtDate': '2018-10-10 04:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'MartianIT', 'cmtContent': ':台大其它公立大學私立大學', 'cmtDate': '2018-10-10 04:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nadleeh', 'cmtContent': ':學店合併', 'cmtDate': '2018-10-10 04:07:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'cwind07', 'cmtContent': ':直接變台大算盤打的真精', 'cmtDate': '2018-10-10 04:08:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'eric830204', 'cmtContent': ':可不可以有自覺', 'cmtDate': '2018-10-10 04:10:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'z1231002', 'cmtContent': ':中山哪間學店', 'cmtDate': '2018-10-10 04:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nightjoker', 'cmtContent': ':差太多了吃屎吧', 'cmtDate': '2018-10-10 04:13:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'hoberg', 'cmtContent': ':有意？？？？', 'cmtDate': '2018-10-10 04:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'changbsd', 'cmtContent': ':中山大學有醫科？平行世界嗎？', 'cmtDate': '2018-10-10 04:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'g5637128', 'cmtContent': ':也太遠', 'cmtDate': '2018-10-10 04:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ma4wanderer', 'cmtContent': ':重複科系那麼多併個屁', 'cmtDate': '2018-10-10 04:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ma4wanderer', 'cmtContent': ':清大竹教重複一個科系開個課從學', 'cmtDate': '2018-10-10 04:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ma4wanderer', 'cmtContent': ':期初戰到學期末', 'cmtDate': '2018-10-10 04:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'c2578910', 'cmtContent': ':中山哪時有醬料了yo叔反串？', 'cmtDate': '2018-10-10 04:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Ed860227', 'cmtContent': ':中山醫在台中是要北中南三校合併嗎', 'cmtDate': '2018-10-10 04:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Ed860227', 'cmtContent': ':？', 'cmtDate': '2018-10-10 04:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'filla', 'cmtContent': ':台大跟台科哪裡對等?台科是技職體系', 'cmtDate': '2018-10-10 04:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'este1a', 'cmtContent': ':垃圾糞校幹你娘', 'cmtDate': '2018-10-10 04:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'filla', 'cmtContent': ':根本就是台大某些教授的農場', 'cmtDate': '2018-10-10 04:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'filla', 'cmtContent': ':台大沒缺先去台科洗一下經驗之後再回台大', 'cmtDate': '2018-10-10 04:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ajemtw', 'cmtContent': ':三中合一比較實際吧', 'cmtDate': '2018-10-10 04:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'F100', 'cmtContent': ':我看以後就台清交成政五間大學，其它改分校', 'cmtDate': '2018-10-10 04:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ajemtw', 'cmtContent': ':北中南各一間，完美', 'cmtDate': '2018-10-10 04:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'fundoshi', 'cmtContent': ':我覺得可以跟麻省理工併校欸豪不豪', 'cmtDate': '2018-10-10 04:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ajemtw', 'cmtContent': ':三中合一就叫中大大學，再也不會搞錯', 'cmtDate': '2018-10-10 04:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'stardriver21', 'cmtContent': ':就叫台中大吧', 'cmtDate': '2018-10-10 04:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mecca', 'cmtContent': ':蠢了吧台大不需要和任何學校合併', 'cmtDate': '2018-10-10 04:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cyclohexane', 'cmtContent': ':一個南一個北合個屁', 'cmtDate': '2018-10-10 04:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'L1ON', 'cmtContent': ':喔幹台大學店化', 'cmtDate': '2018-10-10 04:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tsming', 'cmtContent': ':抱腿', 'cmtDate': '2018-10-10 04:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'exceedMyself', 'cmtContent': ':一中一台', 'cmtDate': '2018-10-10 04:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'skhten', 'cmtContent': ':有夢最美', 'cmtDate': '2018-10-10 04:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Lovemail5566', 'cmtContent': ':全部都是台大', 'cmtDate': '2018-10-10 04:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shorn', 'cmtContent': ':乾脆全台灣的大學全部併成一個學校好了。這', 'cmtDate': '2018-10-10 05:09:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shorn', 'cmtContent': ':樣會不會直接點', 'cmtDate': '2018-10-10 05:09:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yo30110', 'cmtContent': ':北漂學校？', 'cmtDate': '2018-10-10 05:11:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gunies1111', 'cmtContent': ':你有的台大都有還比你高10分南部人', 'cmtDate': '2018-10-10 05:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gunies1111', 'cmtContent': ':哪來的自信', 'cmtDate': '2018-10-10 05:27:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'mickey21', 'cmtContent': ':別來', 'cmtDate': '2018-10-10 06:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ccharles', 'cmtContent': ':台中大學或灣山大學？', 'cmtDate': '2018-10-10 06:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rabbit2233', 'cmtContent': ':南部糞校潘什麼大腿', 'cmtDate': '2018-10-10 06:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Tonyx599026', 'cmtContent': ':中山大學哪來的醫科別鬧了', 'cmtDate': '2018-10-10 06:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'skyprayer', 'cmtContent': ':併校救高教？病急亂投醫', 'cmtDate': '2018-10-10 07:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wulaw5566', 'cmtContent': ':做夢嗎', 'cmtDate': '2018-10-10 07:41:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ppc', 'cmtContent': ':做夢', 'cmtDate': '2018-10-10 08:37:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ggglu', 'cmtContent': ':抱腿==?', 'cmtDate': '2018-10-10 09:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gn00508891', 'cmtContent': ':南北大學啊', 'cmtDate': '2018-10-10 09:38:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'donis12345', 'cmtContent': ':==', 'cmtDate': '2018-10-11 07:03:00+00:00'}]","獨／高教競爭不能等 中山大學有意與台大談合校
+
+2018-10-10 10:42聯合報 記者馮靖惠╱即時報導
+
+陽明大學近期通過合校決議，清華大學、交通大學競相爭取，近日中山大學也傳出有意與
+台灣大學合校，以提升高教競爭力。
+
+中山大學於上月26日行政會議上決議，有關該校與台大合校的可行性，將組成工作小組，
+現階段宜優先盤點中山的資源特色、彙整校務重點後，再適時詢問台大的意向，朝合校的
+相關程序進行後續作業。
+
+中山大學副校長蔡秀芬表示，其實中山跟台大的合校，在十幾年前就討論過了，而且兩校
+也已經坐下來談，雙方面都有意願，也都報教育部，但最後未獲核准。
+
+蔡秀芬指出，中山一直有在跟高雄醫學大學進行合作上的討論，但仍限於在地性的，而且
+兩校一個公立一個私立，有些法規面上一直無法突破。
+
+「高教競爭不能等」，蔡秀芬表示，高教議題要放眼全世界，不能只聚焦區域性的討論，
+因此在日前的行政會議上，討論到學校的整體發展，想大範圍地跟更多學校談緊密合作，
+包括要跟哪些學校合作、合併、聯盟等等。
+
+蔡秀芬指出，目前與台大的合校案討論，仍是在很初期的階段，只是先進行校內資源和校
+務重點的「亮點」盤點，也還未跟台大談過。
+
+台大主秘李心予則說，目前還未接獲中山要談合校的消息。
+https://udn.com/news/story/7266/3413779","2018-10-09T19:41:55.000Z",0,"qweewqq","[新聞]高教競爭不能等中山大學有意與台大談合","https://www.ptt.cc/bbs/Gossiping/M.1539143277.A.A64.html","ptt","140.112.73.89"
+"2",12,"2019-04-18T17:04:45.344Z","5cb8ae2da525820c30ec0268","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'greentea1205', 'cmtContent': ':中山去跟猴子合併吧垃圾猴子幹', 'cmtDate': '2018-10-10 04:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'greentea1205', 'cmtContent': ':馬的還我食物啦襙', 'cmtDate': '2018-10-10 04:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gino0717', 'cmtContent': ':全部殯起來改叫中聯大', 'cmtDate': '2018-10-10 04:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Tchachavsky', 'cmtContent': ':四中合併雙串大學', 'cmtDate': '2018-10-10 04:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kmt520', 'cmtContent': ':推串串大學', 'cmtDate': '2018-10-10 04:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'g5637128', 'cmtContent': ':四中合併啦', 'cmtDate': '2018-10-10 05:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'marke18', 'cmtContent': ':串串大學可以唷XD', 'cmtDate': '2018-10-10 05:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'april4966', 'cmtContent': ':串串不錯阿，以後就不用搶中大了。', 'cmtDate': '2018-10-10 07:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'skyprayer', 'cmtContent': ':推串串大學', 'cmtDate': '2018-10-10 07:47:00+00:00'}]","若四中
+中央 中山 中興 中正大學 想要與其他學校合併
+
+會跟哪些學校阿?
+
+中央-有點偏僻 不知道要跟誰合併
+
+中山-好像有想跟高醫大併 但併私立很困難
+
+中興-中教大?(清都跟竹教大合 這個可能吧
+
+中正-？？
+","2018-10-09T20:43:19.000Z",0,"flower42","[問卦]四中分別可以跟哪些學校合併?","https://www.ptt.cc/bbs/Gossiping/M.1539146962.A.C0C.html","ptt","223.141.2.190"
+"3",15,"2019-04-18T17:04:45.344Z","5cb8ae2da525820c30ec026b","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'VVizZ', 'cmtContent': ':台大不需要南部的猴子', 'cmtDate': '2018-10-11 08:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'qazxc1156892', 'cmtContent': ':高攀？', 'cmtDate': '2018-10-11 08:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kenny60710', 'cmtContent': ':學店還想併', 'cmtDate': '2018-10-11 08:00:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'zephyr105', 'cmtContent': ':同質學校是併啥R', 'cmtDate': '2018-10-11 08:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'saw6904', 'cmtContent': ':臺灣中山大學，有莫斯科中山大學的fu~', 'cmtDate': '2018-10-11 08:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rainf', 'cmtContent': ':南部經驗就鎖在南部就好別來北部帶壞學生', 'cmtDate': '2018-10-11 08:02:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ams9', 'cmtContent': ':還不如廢校國立剩台清成就夠了', 'cmtDate': '2018-10-11 08:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kill78941', 'cmtContent': ':台中大學喔', 'cmtDate': '2018-10-11 08:04:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'soarling', 'cmtContent': ':中山怎麼不先統一南台灣？', 'cmtDate': '2018-10-11 08:06:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'lee85313xd', 'cmtContent': ':我認為大學只要兩間大葉和台大', 'cmtDate': '2018-10-11 08:08:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Hfy0920', 'cmtContent': ':海邊的應該找山上的中正吧', 'cmtDate': '2018-10-11 08:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'c00jsw00', 'cmtContent': ':是無法理解因為中山這一任校長找不到錢', 'cmtDate': '2018-10-11 08:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mrschiu', 'cmtContent': ':中字大連鎖還能併到中興法商...', 'cmtDate': '2018-10-11 08:25:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'delvan', 'cmtContent': ':李玉公公', 'cmtDate': '2018-10-11 08:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mrschiu', 'cmtContent': ':簡稱台中大...', 'cmtDate': '2018-10-11 08:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Beccaria', 'cmtContent': ':誰要幸福城市的吱吱', 'cmtDate': '2018-10-11 08:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bkyu', 'cmtContent': ':換湯不換藥', 'cmtDate': '2018-10-11 08:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'STerry1986', 'cmtContent': ':中山台灣大學', 'cmtDate': '2018-10-11 08:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hsuaba', 'cmtContent': ':老師素質沒差太多學生素質就不一樣了', 'cmtDate': '2018-10-11 09:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'noidforme', 'cmtContent': ':帝國中山大學，簡稱國中大', 'cmtDate': '2018-10-11 09:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'myvoice', 'cmtContent': ':台大自己資源那麼多哪裡需要跟你合併...', 'cmtDate': '2018-10-11 09:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'aiguo', 'cmtContent': ':中山？拜託台大不要', 'cmtDate': '2018-10-11 09:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'buslover', 'cmtContent': ':中山大學想跟台灣大學結婚有問過對方', 'cmtDate': '2018-10-11 09:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'buslover', 'cmtContent': ':想不想嗎？不是你想結就能結好嗎？', 'cmtDate': '2018-10-11 09:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'manaitu5566', 'cmtContent': ':沒想到秀芬已經是副校長惹', 'cmtDate': '2018-10-11 10:53:00+00:00'}]","1.媒體來源:
+udn 聯合新聞網
+
+2.完整新聞標題:
+高教掀公公併 中山大學想找台大
+
+3.完整新聞內文:
+受少子化影響，高教界再度展開「公公併」熱潮，陽明大學近期通過合校決議，清華、交
+大競相爭取。中山大學上月廿六日行政會議通過組成工作小組，盤點學校的優勢及特色，
+擬推動與包括台大等校的合校計畫等，提升競爭力。
+
+中山大學副校長蔡秀芬說，行政會議上，討論到學校的整體未來發展，為提升競爭力，想
+大範圍跟更多學校談合作，合作形式包括合校、聯盟等。與台大的合校案，仍是初步討論
+，並未跟台大談過。
+
+「高教競爭不能等」，蔡秀芬說，中山持續跟高雄醫學大學合作，但仍限於在地性，且一
+個公立一個私立，若要更進一步，在法規上無法突破。台大主秘李心予則回應，還未接獲
+中山要談合校的消息。
+
+目前共有七組公校整併成功，「進行式」的學校有陽明大學，正在跟交大及清大談合併。
+
+高教工會組織部主任林柏儀分析，從公眾利益角度來看，國立大學優先該做的是讓教育資
+源能向大眾開放共享，若再只做「排他的公公併」，將只是讓教育資源排除外界師生使用
+，對整體高等教育發展的進步性相當有限。
+
+4.完整新聞連結 (或短網址):
+https://goo.gl/HHKH5o
+5.備註:
+
+有117的鄉民可以說明一下現在貴校的狀況嗎
+我個人認為117不至於要找別的學校合併
+不過高教深耕計畫的經費竟然拿的比高科、北科、臺科還低，不知道是不是因為校務基金
+短缺才有這個念頭
+還是只是想搭上合併順風車刷存在感
+","2018-10-10T23:59:44.000Z",0,"willschlafen","[新聞]高教掀公公併中山大學想找台大","https://www.ptt.cc/bbs/Gossiping/M.1539245147.A.546.html","ptt","140.114.123.135"
+"4",42,"2019-04-18T17:04:45.507Z","5cb8ae2da525820c30ec0286","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'jorden', 'cmtContent': ':高雄把重工業這火車頭趕出去找不到動力', 'cmtDate': '2018-10-23 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jorden', 'cmtContent': ':跟台灣目前的縮影很像沒有其他核心產業', 'cmtDate': '2018-10-23 08:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ogisun', 'cmtContent': ':痾..其實高雄已經有很多商業投資案了', 'cmtDate': '2018-10-23 08:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'pinkowa', 'cmtContent': ':作夢連日本人都不想來', 'cmtDate': '2018-10-23 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jorden', 'cmtContent': ':拉抬經濟一直不上去', 'cmtDate': '2018-10-23 08:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'data1728', 'cmtContent': ':我中央畢業的，現在在高雄工作', 'cmtDate': '2018-10-23 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'andyher', 'cmtContent': ':你說中央在中部，昏倒', 'cmtDate': '2018-10-23 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ckk007', 'cmtContent': ':想的到不代表做的到', 'cmtDate': '2018-10-23 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ogisun', 'cmtContent': ':這兩年各大建設陸續完工民間也開始動作了', 'cmtDate': '2018-10-23 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ji394xu3', 'cmtContent': ':高雄市有5所國立(中山/高師/高雄/高科大', 'cmtDate': '2018-10-23 08:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ji394xu3', 'cmtContent': ':/高雄餐旅大學)。', 'cmtDate': '2018-10-23 08:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ogisun', 'cmtContent': ':土地早就不夠用了不過前陣子又有新土地了', 'cmtDate': '2018-10-23 08:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':你給外商免稅又有人要獸貧富差距了', 'cmtDate': '2018-10-23 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ji394xu3', 'cmtContent': ':不過私立的高醫大/義守/文藻也算還可', 'cmtDate': '2018-10-23 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':你給外商免稅又有人要哭貧富差距了', 'cmtDate': '2018-10-23 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Lyon9', 'cmtContent': ':高教體系的高雄大學表示', 'cmtDate': '2018-10-23 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':然後一堆官商勾結討好日本等攻擊吃到飽', 'cmtDate': '2018-10-23 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':減稅產生的負債繼續打到你倒地不起', 'cmtDate': '2018-10-23 08:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Nfox', 'cmtContent': ':上酒店需要很有錢嗎', 'cmtDate': '2018-10-23 08:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':大家只會問:你有錢為何不扶植地方產業?', 'cmtDate': '2018-10-23 08:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':支援傳產轉型吸引青年創業這比外商重要吧', 'cmtDate': '2018-10-23 08:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':企業升級讓他們在國際更有競爭力更重要吧', 'cmtDate': '2018-10-23 08:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'colawei', 'cmtContent': ':錢送外資最後地方能獲利多少?', 'cmtDate': '2018-10-23 08:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'qwertyuioplk', 'cmtContent': ':推', 'cmtDate': '2018-10-23 08:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'VOLK11', 'cmtContent': ':這篇算台肯', 'cmtDate': '2018-10-23 09:03:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':反正就是要活絡高雄新的產業', 'cmtDate': '2018-10-23 09:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':除了重工業之外，就產業轉型', 'cmtDate': '2018-10-23 09:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':個人覺得觀光業可以好好做', 'cmtDate': '2018-10-23 09:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':比較沒污染', 'cmtDate': '2018-10-23 09:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':但是冥進洞還是留下弊端，個人無法諒解五', 'cmtDate': '2018-10-23 09:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'VOLK11', 'cmtContent': ':千個洞，反正全民日後要加強監督縣市首長', 'cmtDate': '2018-10-23 09:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zzzzaaaa', 'cmtContent': ':行政立法院遷到高雄就能平衡了，首都也', 'cmtDate': '2018-10-23 09:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zzzzaaaa', 'cmtContent': ':可以減壓，結果執政者還是不願意做', 'cmtDate': '2018-10-23 09:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ogisun', 'cmtContent': ':哪有放空空專給大車走的替代道路一直都有', 'cmtDate': '2018-10-23 09:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ogisun', 'cmtContent': ':在做還有一條國七卡在環團無腦擋', 'cmtDate': '2018-10-23 09:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'martintp6', 'cmtContent': ':認真推可惜這只剩無腦刷推文的', 'cmtDate': '2018-10-23 09:40:00+00:00'}]","說穿了 高雄又老又窮是一個感覺
+
+但理性去分析
+
+確實年輕的 / PR值較中段以前的 高雄人念大學 絕大部分會北漂
+
+因為高雄只有
+
+兩間國立大學 （中山 高師） 跟 一間國立科大（還兩間 忘記高科 高應 高大合併沒）
+
+私立前段＋上國立 95%的高雄學子 全部北上
+
+基本上這四年 很大一部分會決定將來人生落腳處
+
+中部中字輩（中興 中正） 逢甲 靜宜...等 會在被吸往台中都會區發展
+
+北部台政清交 中央 中原 元智 ...等一票老私立 加國立
+
+不是在新竹桃園 就是去台北 新北
+
+高雄呢？成大都吸不太到了...更不用說嘉義的
+
+
+
+
+再來，高雄的職業組成，因為之前的都市分配
+
+高雄幾乎都是工/軍人子弟居多，加工出口出/港務/中鋼中船中油/軍港/前鎮工業區...etc
+
+簡單說吧，台灣經濟奇蹟高雄功不可沒 但是...數鈔票的辦公室/企業總部都在台北
+
+你不能怪高雄人怨 想像一下
+
+你上班幹得要死搶到大案子 但是晚上上酒店的是老闆的感受（歪
+
+
+
+好不容易民進黨執政，努力把高雄變得比較漂亮 沒有工業城市的味道了
+
+但是，因為都市發展 硬體本來就應該走在軟體前面
+
+等到軟體趕上了 硬體發展會變得
+
+1. 成本高 （你看台北蓋一條捷運 先不算中央補助成本 跟 高雄比應該貴很多）
+
+2. 難以發展 （地都房子蓋好了 你要發展土地怎麼收？怎麼談？）
+
+
+
+高雄現在最大的問題是，
+
+雖然距離大型商業都市還遠遠不足，但目前硬體已經超前現階段所需了，
+
+缺乏核心產業進來，就這樣。
+
+
+最簡單方式：
+
+1. 政治中心拉來高雄
+
+   （不過執行上有難度就是了，但是非不可能。）
+
+2. 把企業總部拉來高雄
+
+   民進黨政府不是跟日本很好嗎？直接跟日本在台協會談，
+
+   開一片市中心區域，把日商全部拉來高雄，
+
+   給予稅務 租地 辦公室 水電 甚至是高鐵車票的補助...etc 的減免
+
+   人/公司只要拉下來 工作機會就會下來 經濟相對就會活絡
+
+   日本，也可以套入美國，或他國外商...都是辦法
+
+就看民進黨政府，有沒有辦法想到了．
+","2018-10-23T00:31:35.000Z",0,"gsggsda","Re:[新聞]高雄又老又窮？中山副教授製圖打臉韓","https://www.ptt.cc/bbs/Gossiping/M.1540283859.A.A72.html","ptt","203.132.70.2"
+"5",60,"2019-04-18T17:04:45.547Z","5cb8ae2da525820c30ec0298","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 's155260', 'cmtContent': ':債務多了', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'rttlac', 'cmtContent': ':睡菊', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'OscarActor', 'cmtContent': ':怪東怪西', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Kunoichi', 'cmtContent': ':你們打從第一天就這樣選舉哪會苦戰?', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Rrrxddd', 'cmtContent': ':再臉蕭威啊睡菊', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ej2000', 'cmtContent': ':相信高雄挺致中救其邁!', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Hitimothy', 'cmtContent': ':票投資進黨高雄繼續幸福', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 't71296b7', 'cmtContent': ':高雄欠高雄耶穌跟瑪麗亞一個公道', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ABA0525', 'cmtContent': ':沉菊可是老胡拿更少的錢卻屌打你也', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'verdant', 'cmtContent': ':陳菊在高雄做得不錯只是黑了', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 's72005ming', 'cmtContent': ':……', 'cmtDate': '2018-11-09 08:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hmt17', 'cmtContent': ':不合併在該合併了也在該噁噁噁噁', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 's6210603', 'cmtContent': ':結果人口還是輸台中', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'JT0624', 'cmtContent': ':一堆中央全額補助的建設有算進去嗎？到底', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'okgod', 'cmtContent': ':縣市合併的地方都要面對的問題，加油', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'JT0624', 'cmtContent': ':是出來幫忙還是倒票的啊', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'superjim', 'cmtContent': ':舉債三千億怪中央真夠噁心的', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'OscarActor', 'cmtContent': ':什麼時候要下跪？', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'gx9900824', 'cmtContent': ':死胖子你花最多錢好嗎', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'STi2011', 'cmtContent': ':台中：？', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'superjim', 'cmtContent': ':一堆花而不實又貴也沒意義的蚊子建設', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'LianD', 'cmtContent': ':台北市最沒資格該該叫', 'cmtDate': '2018-11-09 08:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DIDIMIN', 'cmtContent': ':結果就是放爛整個縣區', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'macery', 'cmtContent': ':噓', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'snoopyboy123', 'cmtContent': ':大決起手式都是他們的錯...XD', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ej2000', 'cmtContent': ':奧步操盤手:陳菊邁#1124幸福永續', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'exceedMyself', 'cmtContent': ':花媽升官去補助進的來高雄發大財', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'lug0391', 'cmtContent': ':對呀官商勾結,把道路鋪成5000個坑洞,反', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kioh', 'cmtContent': ':先說借的錢都去哪了', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'spring53287', 'cmtContent': ':就是在怪2010年馬囧弄她啦', 'cmtDate': '2018-11-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'lug0391', 'cmtContent': ':正没下豪雨,跟本不會有人知道', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'skyringcha', 'cmtContent': ':高雄負債第一名中央還民進黨洗得共啥', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'rriver', 'cmtContent': ':中央八成', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'erc', 'cmtContent': ':推啦推啦我們偉大的花媽開示了高雄好棒棒其', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'erc', 'cmtContent': ':邁穩到不行台獨萬歲', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'jwph', 'cmtContent': ':現在中央是誰?柯P?', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'jackie5678', 'cmtContent': ':這時候為啥不B嘴嫌票太多?', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'linceass', 'cmtContent': ':中央十成', 'cmtDate': '2018-11-09 08:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'eko112', 'cmtContent': ':所以這兩年中央在幹嘛???', 'cmtDate': '2018-11-09 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':這幾年升格好幾個縣市，你拿錢繳出的', 'cmtDate': '2018-11-09 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'rriver', 'cmtContent': ':所以現在中央是國民黨???????????????????', 'cmtDate': '2018-11-09 08:36:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'lsps40803', 'cmtContent': ':2010的事你現在拿出來靠北????????????', 'cmtDate': '2018-11-09 08:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':成績不理想，還要無條件霸佔次於台北', 'cmtDate': '2018-11-09 08:36:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ispy03532003', 'cmtContent': ':這樣好了以後高雄市收歸中央市長', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ispy03532003', 'cmtContent': ':官派這樣中央就可以100%負責了ww', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':的資源嗎，真的是拿錢來成績中央別管', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'eko112', 'cmtContent': ':是不是2020年後中央換人又要說中央八成了', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Keigo0415', 'cmtContent': ':給再多的錢也只是建更多的蚊子館', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':嗎', 'cmtDate': '2018-11-09 08:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Hitimothy', 'cmtContent': ':要繼續延續花媽的幸福理念票投其邁', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ispy03532003', 'cmtContent': ':省得我們還要花時間去投票選一個理', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ispy03532003', 'cmtContent': ':由婆來跟我們講我們早就聽到耳朵長', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'steve17', 'cmtContent': ':挖操講得好像合併之後妳有建設高雄縣一', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ispy03532003', 'cmtContent': ':繭的那套哩供賀母賀呀ww', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'taotzu', 'cmtContent': ':??????????所以DPP執政補助還會變少?', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'steve17', 'cmtContent': ':路斷了八年沒修阿路燈也不換阿', 'cmtDate': '2018-11-09 08:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':我沒覺得高雄有KMT講的那麼糟，但肯定', 'cmtDate': '2018-11-09 08:39:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':是沒繳出該拿出的成績的', 'cmtDate': '2018-11-09 08:39:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kenro', 'cmtContent': ':所以中央八成嘞?', 'cmtDate': '2018-11-09 08:39:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'chaitomaster', 'cmtContent': ':無上限最好啦', 'cmtDate': '2018-11-09 08:40:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'straxus', 'cmtContent': ':中央八成，建議高雄市長改官派', 'cmtDate': '2018-11-09 08:40:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'rriver', 'cmtContent': ':請問台中補助多少???????????????', 'cmtDate': '2018-11-09 08:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'machiusheng', 'cmtContent': ':支持78中央十成', 'cmtDate': '2018-11-09 08:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DORAQMON', 'cmtContent': ':媽的，敗家女', 'cmtDate': '2018-11-09 08:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DORAQMON', 'cmtContent': ':1124查高雄查花媽', 'cmtDate': '2018-11-09 08:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'erc', 'cmtContent': ':邁粉都看花媽照片打手槍噁心韓粉滾去旁邊休', 'cmtDate': '2018-11-09 08:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'erc', 'cmtContent': ':得無禮', 'cmtDate': '2018-11-09 08:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cheetahspeed', 'cmtContent': ':垃圾台北人欠高雄800億', 'cmtDate': '2018-11-09 08:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jimhall', 'cmtContent': ':中央不就你民進黨的，去跟你老闆講啊', 'cmtDate': '2018-11-09 08:41:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'chenker', 'cmtContent': ':這招屢用不爽', 'cmtDate': '2018-11-09 08:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'asya116', 'cmtContent': ':哇靠還好意思出來講', 'cmtDate': '2018-11-09 08:42:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'longkiss0618', 'cmtContent': ':FB被噓爆', 'cmtDate': '2018-11-09 08:42:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'XOXOXOXO', 'cmtContent': ':請給我更多錢', 'cmtDate': '2018-11-09 08:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'asukaseen', 'cmtContent': ':死胖子又在牽拖！？', 'cmtDate': '2018-11-09 08:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':不合併，在現在六都情況，高雄連用人', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':口基數要錢要資源的資格都沒有，以為', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Noxus', 'cmtContent': ':債務倒是沒有', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'mack860120', 'cmtContent': ':藉口一堆', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':真的可以只拿錢爽不扛責任喔', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'acandar', 'cmtContent': ':怎沒說可以賣的地也變多了', 'cmtDate': '2018-11-09 08:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'snoopyboy123', 'cmtContent': ':Showmethemoney', 'cmtDate': '2018-11-09 08:44:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'GambitCT', 'cmtContent': ':完全執政兩年還在怪別人？死母豬', 'cmtDate': '2018-11-09 08:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':如果高雄有野心，那合併一定是有更多', 'cmtDate': '2018-11-09 08:45:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'narcissus03', 'cmtContent': ':又來了', 'cmtDate': '2018-11-09 08:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nakayamayyt', 'cmtContent': ':中央十成', 'cmtDate': '2018-11-09 08:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':發展空間，肥婆因為拿不出成績，所以', 'cmtDate': '2018-11-09 08:45:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'tedium', 'cmtContent': ':妳還有臉說錢不夠！', 'cmtDate': '2018-11-09 08:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':把高雄縣當拖油瓶，但沒想過已經不是', 'cmtDate': '2018-11-09 08:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'zego41', 'cmtContent': ':空汙基金都能拿來辦演唱會，暈倒', 'cmtDate': '2018-11-09 08:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':北高雙直轄市時代，你要拿什麼跟中央', 'cmtDate': '2018-11-09 08:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':要錢要資源', 'cmtDate': '2018-11-09 08:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'likeilike', 'cmtContent': ':中央八成高雄人的選擇', 'cmtDate': '2018-11-09 08:47:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'NT500', 'cmtContent': ':肚子扁扁也要投阿扁！', 'cmtDate': '2018-11-09 08:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'mr955258', 'cmtContent': ':去跟你老闆拍桌子講啊', 'cmtDate': '2018-11-09 08:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'yannicklatte', 'cmtContent': ':中央八成', 'cmtDate': '2018-11-09 08:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'g8330330', 'cmtContent': ':真噁心言論', 'cmtDate': '2018-11-09 08:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':肥婆還活在北高兩個直轄市時代，覺得', 'cmtDate': '2018-11-09 08:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Marty', 'cmtContent': ':陳菊的意思是那瑪夏也要蓋捷運才公平??', 'cmtDate': '2018-11-09 08:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KGarnett05', 'cmtContent': ':自己不用拿成績，理應拿這麼多資源', 'cmtDate': '2018-11-09 08:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Marty', 'cmtContent': ':你高雄縣有多少山地阿拜託這樣也可以扯', 'cmtDate': '2018-11-09 08:50:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'CruiseTom', 'cmtContent': ':超多理由', 'cmtDate': '2018-11-09 08:51:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'renmin', 'cmtContent': ':落跑的還有臉在那邊說三道四?', 'cmtDate': '2018-11-09 08:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Marty', 'cmtContent': ':台北市光陽明山就佔了快一半的地了耶', 'cmtDate': '2018-11-09 08:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Marty', 'cmtContent': ':從來也沒有聽台北市敢用面積來吵的', 'cmtDate': '2018-11-09 08:51:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'whiteflora6', 'cmtContent': ':口袋沒錢又想買名牌？', 'cmtDate': '2018-11-09 08:53:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ozjucka', 'cmtContent': ':ZZZZ', 'cmtDate': '2018-11-09 08:53:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'JER2725', 'cmtContent': ':ZZZzzz...', 'cmtDate': '2018-11-09 08:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'JER2725', 'cmtContent': ':宜蘭人閉嘴啦！', 'cmtDate': '2018-11-09 08:54:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'qsxwdc', 'cmtContent': ':廠工幹你娘，雞掰', 'cmtDate': '2018-11-09 08:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 's6210603', 'cmtContent': ':你越講其邁噴越多票', 'cmtDate': '2018-11-09 08:57:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'darkholy', 'cmtContent': ':陳菊幹你馬的，當年執政人口才多少還有', 'cmtDate': '2018-11-09 08:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'darkholy', 'cmtContent': ':臉噴', 'cmtDate': '2018-11-09 08:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'darkholy', 'cmtContent': ':操，陳菊你一定下地獄！', 'cmtDate': '2018-11-09 08:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'GOGOMTK', 'cmtContent': ':睡菊還有臉出來吠真不要臉', 'cmtDate': '2018-11-09 08:58:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'bluemmb', 'cmtContent': ':不敢講高捷中央政府出資多少？', 'cmtDate': '2018-11-09 09:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hardwork', 'cmtContent': ':噓的有病嗎？', 'cmtDate': '2018-11-09 09:05:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'a29976137', 'cmtContent': ':如果敗選，她要負很大責任', 'cmtDate': '2018-11-09 09:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'shermantan', 'cmtContent': ':!', 'cmtDate': '2018-11-09 09:08:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'piece1', 'cmtContent': ':補助變少那妳的體重怎麼增加這麼多??', 'cmtDate': '2018-11-09 09:10:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'timeaftime', 'cmtContent': ':怪東怪西幹', 'cmtDate': '2018-11-09 09:12:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'asecw', 'cmtContent': ':陳菊天天罵中央，現在進去怎麼沒幫高雄拿瘴', 'cmtDate': '2018-11-09 09:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'asecw', 'cmtContent': ':錢', 'cmtDate': '2018-11-09 09:13:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Cha23Cha', 'cmtContent': ':白癡', 'cmtDate': '2018-11-09 09:14:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'rockman73', 'cmtContent': ':北漂市長大撒幣囉全台灣的納稅錢', 'cmtDate': '2018-11-09 09:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'rockman73', 'cmtContent': ':全部拿來幫DPP選舉丟給高雄5000洞', 'cmtDate': '2018-11-09 09:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'daniel1344', 'cmtContent': ':怪東怪西大肥菊', 'cmtDate': '2018-11-09 09:16:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'senhsiang', 'cmtContent': ':@zzzzzzzz', 'cmtDate': '2018-11-09 09:17:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Breeze39', 'cmtContent': ':錢太少只好多借個三千億壓壓驚', 'cmtDate': '2018-11-09 09:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'momo3921d', 'cmtContent': ':縣市合併後補助反而變少，馬政府不出面', 'cmtDate': '2018-11-09 09:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'momo3921d', 'cmtContent': ':向花媽道歉嗎？', 'cmtDate': '2018-11-09 09:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'momo3921d', 'cmtContent': ':高雄面積超大所以錢也要拿超多才對。', 'cmtDate': '2018-11-09 09:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mmm851010', 'cmtContent': ':事實推', 'cmtDate': '2018-11-09 09:25:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'abs7862604', 'cmtContent': ':好多426', 'cmtDate': '2018-11-09 09:28:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'countryair', 'cmtContent': ':全國拿第二多然後在哭窮', 'cmtDate': '2018-11-09 09:32:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'm50205811', 'cmtContent': ':高雄會丟就是因為你拉結果陳78替你扛', 'cmtDate': '2018-11-09 09:32:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'shpongle', 'cmtContent': ':難道高雄縣預算沒給妳用嗎還敢要錢', 'cmtDate': '2018-11-09 09:35:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'mow1982', 'cmtContent': ':台中資源更少，不是首都，屌打高雄', 'cmtDate': '2018-11-09 09:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'scoop', 'cmtContent': ':貪', 'cmtDate': '2018-11-09 09:55:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'catteamiren', 'cmtContent': ':哩騙肖高雄縣一堆山面積當然變大', 'cmtDate': '2018-11-09 09:57:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'aleny', 'cmtContent': ':睡菊不是假的，只要重北輕高雄就可以了', 'cmtDate': '2018-11-09 10:02:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'D49361128', 'cmtContent': ':.........', 'cmtDate': '2018-11-09 10:16:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'shiaobai', 'cmtContent': ':感謝幫韓總助選', 'cmtDate': '2018-11-09 10:39:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'light20735', 'cmtContent': ':怎不比人口？整天哭窮跟乞丐一樣。', 'cmtDate': '2018-11-09 11:22:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'roisac', 'cmtContent': ':補你媽雞巴', 'cmtDate': '2018-11-09 11:41:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'huihuihui', 'cmtContent': ':合併後才發現喔？當初幹嘛跟風？', 'cmtDate': '2018-11-09 11:43:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'RAY1203', 'cmtContent': ':對國民黨下台', 'cmtDate': '2018-11-09 12:23:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'speedup', 'cmtContent': ':肥菊都表示了\u3000自己口袋錢少了\u3000還不進貢', 'cmtDate': '2018-11-09 13:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bobocats', 'cmtContent': ':管線有獎項肯定？那高雄氣爆呢？', 'cmtDate': '2018-11-09 17:08:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bobocats', 'cmtContent': ':提到管線就有氣', 'cmtDate': '2018-11-09 17:09:00+00:00'}]","ＦＢ卦點說明：
+中央政府給的補助太少!
+高雄縣市合併後，面積增加18倍!
+但中央補助卻少了818億!
+對縣市的發展不對等也不公平!!!!
+
+ＦＢ連結：
+https://reurl.cc/yEZ2l
+ＦＢ內容：
+雖然，
+，但是我們的責任就是要幫大高雄未來的發
+展打好基礎，為了世世代代的幸福，再艱難都必須堅持下去。
+
+所以，雖然幕僚告訴我這些是看不見的建設，我還是堅持要做好汙水下水道接管，因為這
+攸關市民健康、環境品質。因為大家的支持，原縣區汙水下水道接管普及率從不到26%，
+大幅提升到41%，市府更連續兩年得到獎項肯定。所以，雖然在地朋友告訴我岡山的中山
+公園周邊違建占用不好處理，我還是完成整建，還給市民優質的休閒空間。
+
+每一個鄉鎮都有特色，每一個特色都應該被充分發揮。八年來，我們傾聽在地鄉親的期待
+，我們拆解一個比一個更困難的問題，用行動來證明決心。
+
+雖然還是做的不夠，雖然還有很多必須做，但是我們努力做、用心做，只希望高雄繼續大
+步向前走!
+
+Wecarekaohsiung
+#我們都是高雄人
+","2018-11-09T00:31:11.000Z",0,"skizard","[ＦＢ]花媽:高雄縣市合併後，中央補助少了","https://www.ptt.cc/bbs/Gossiping/M.1541752633.A.41D.html","ptt","101.9.18.249"
+"6",70,"2019-04-18T17:04:45.547Z","5cb8ae2da525820c30ec02a2","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'yoiverson', 'cmtContent': ':唉好可惜', 'cmtDate': '2018-11-28 06:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'aaaba', 'cmtContent': ':上環先擱置也沒什麼不好，其他部分', 'cmtDate': '2018-11-28 06:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'aaaba', 'cmtContent': ':都差不多了', 'cmtDate': '2018-11-28 06:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dead11', 'cmtContent': ':沙鹿26,784(55.63%)20,835(43.27%)', 'cmtDate': '2018-11-28 06:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dead11', 'cmtContent': ':沙鹿人告訴你不需要下去吧', 'cmtDate': '2018-11-28 06:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'googlo', 'cmtContent': ':一堆腦包在那邊說坐一圈2小時，有', 'cmtDate': '2018-11-28 06:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'googlo', 'cmtContent': ':誰沒事會去坐一圈？上環中路會每次', 'cmtDate': '2018-11-28 06:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'googlo', 'cmtContent': ':都繞一圈嗎？', 'cmtDate': '2018-11-28 06:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mirage0709', 'cmtContent': ':唉唉...有夠無言', 'cmtDate': '2018-11-28 06:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mirage0709', 'cmtContent': ':這篇能借轉八卦嗎?', 'cmtDate': '2018-11-28 06:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':沙鹿到台中火車站26分鐘，呵呵', 'cmtDate': '2018-11-28 06:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'goodid520', 'cmtContent': ':綠+藍線以及山手線', 'cmtDate': '2018-11-28 06:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yaya', 'cmtContent': ':台中人越想越不對勁', 'cmtDate': '2018-11-28 06:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'letmepass', 'cmtContent': ':不好意思喔盧秀燕不要了', 'cmtDate': '2018-11-28 06:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'danorken', 'cmtContent': ':笑死台中要不要這麼三心二意', 'cmtDate': '2018-11-28 06:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Bokolo', 'cmtContent': ':自己四年內沒蓋完', 'cmtDate': '2018-11-28 06:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'auj33996260', 'cmtContent': ':四年了連環評都沒開始還再嘴，等到二十年也蓋不出來', 'cmtDate': '2018-11-28 06:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'auj33996260', 'cmtContent': ':，回家檢討吧！', 'cmtDate': '2018-11-28 06:49:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'visa9527', 'cmtContent': ':這本來就垃圾，你叫沙鹿人坐一圈繞大甲后里豐原到台中?', 'cmtDate': '2018-11-28 06:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'drea', 'cmtContent': ':烏日人永遠活在被鐵路分割的破碎區域裡吧', 'cmtDate': '2018-11-28 06:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'garli318', 'cmtContent': ':老胡13年又蓋完了什麼', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':山首線是要配合捷運藍線的，誰跟你坐到大甲后里豐原到台中', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'williehsuan', 'cmtContent': ':甚麼山手線，根本沒人會搭', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chirex', 'cmtContent': ':沙鹿坐公車就可以直達台中了啦。林佳龍推動的啦', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':這關烏日屁事，成功到追分本來就有直通', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chirex', 'cmtContent': ':我坐過好幾次了好不好？', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 's9321312', 'cmtContent': ':超白癡的政策提這種建設林迷好意思笑盧草包林根本廢', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'm21423', 'cmtContent': ':真正的山手線一下子就繞完一圈啦', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 's9321312', 'cmtContent': ':料', 'cmtDate': '2018-11-28 06:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': """":還在問'蓋完了什麼'是不懂高雄這次輸成這樣的原因嗎"""", 'cmtDate': '2018-11-28 06:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'spzper', 'cmtContent': ':配合藍線，原來藍線通車了...', 'cmtDate': '2018-11-28 06:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':佳龍想幫烏日人把鐵路高架，烏日人用選票拒絕了', 'cmtDate': '2018-11-28 06:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':藍線關山手線屁事，山手線要花幾百億從大甲蓋到后里', 'cmtDate': '2018-11-28 06:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':烏日人比較喜歡活在被鐵路切割的破碎區域裡', 'cmtDate': '2018-11-28 06:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sonyabear', 'cmtContent': ':真正的山手線看來有人沒坐過在賣弄無知呢', 'cmtDate': '2018-11-28 06:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Bokolo', 'cmtContent': ':不是幫吧，市長做事是應該的', 'cmtDate': '2018-11-28 06:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':還在講鐵路高架的去看一下新宿車站是高架還是地面好嗎', 'cmtDate': '2018-11-28 06:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Bokolo', 'cmtContent': ':不要用到幫這個字，謝謝', 'cmtDate': '2018-11-28 06:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 's9321312', 'cmtContent': ':烏日人不是喜歡活在破碎區域裡就單純討厭沒料的林廢料', 'cmtDate': '2018-11-28 06:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':到晴空塔上看一下東京市區被鐵路切割成什麼樣子', 'cmtDate': '2018-11-28 06:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tarutaru', 'cmtContent': ':真的有人上74會先繞一圈才去目的地嗎？', 'cmtDate': '2018-11-28 06:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':台中要放射狀軌道，結果它弄個郊區外環鐵道，搞笑嗎', 'cmtDate': '2018-11-28 06:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':山手線也是要幫烏日的鐵路高架化。烏日人不要', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':要高架化自己獨立開案就好，綁什麼山手線', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':山手線本來就要配合藍線，可以服務更多的人', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'XJY13', 'cmtContent': ':台中人需要的是錢跟槍', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':台中市區高架化有綁山手線?', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wayneho', 'cmtContent': """":一定要叫'山手線'嗎？"""", 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'nolimits', 'cmtContent': ':台中車站到沙鹿26分超快的，現在公車至少跑50分鐘', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ericisfish', 'cmtContent': ':放射狀軌道XDXD', 'cmtDate': '2018-11-28 06:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'alanveoyo', 'cmtContent': ':山手線很適合台中啊有些人根本為反而反', 'cmtDate': '2018-11-28 06:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':你去叫燕子獨立開案呀，笑死', 'cmtDate': '2018-11-28 06:55:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'nobody741', 'cmtContent': ':各種崩潰', 'cmtDate': '2018-11-28 06:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'alanveoyo', 'cmtContent': ':台中如果真的不需要老胡會提山海環線?怎麼不嘴一下', 'cmtDate': '2018-11-28 06:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':所以老胡下台啦，爽', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':本來中央都核定給錢了，烏日鐵路高架原本以為十拿九穩', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'alanveoyo', 'cmtContent': ':老胡下台可不是因為山海環線董?', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ericisfish', 'cmtContent': ':燕粉最常說的老胡自己都提了一個類似的了最好是沒用', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'drea', 'cmtContent': ':結果烏日人自己補自己刀。', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bbalabababa', 'cmtContent': ':可惜', 'cmtDate': '2018-11-28 06:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nolimits', 'cmtContent': ':台中車站到沙鹿現在公車單程至少50分鐘好不好', 'cmtDate': '2018-11-28 06:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'alanveoyo', 'cmtContent': ':不是下台後就什麼政策都是錯好嗎', 'cmtDate': '2018-11-28 06:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'verydolungbe', 'cmtContent': ':請問遶一圈回到原地那幹嘛搭？', 'cmtDate': '2018-11-28 06:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'alanveoyo', 'cmtContent': ':BRT當年會被罵爆是因選舉急就章山手線可是喊了十幾年', 'cmtDate': '2018-11-28 06:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ericisfish', 'cmtContent': ':誰會直接繞一圈阿', 'cmtDate': '2018-11-28 06:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'visa9527', 'cmtContent': ':烏日高架就林佳龍去幫建商站台背書當然要高架，炒房啊', 'cmtDate': '2018-11-28 06:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':東京都一堆平面鐵路，人家比烏日熱鬧多了', 'cmtDate': '2018-11-28 06:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'visa9527', 'cmtContent': ':要高架自己另案啦，不要綁山手線這種笑死人的東西', 'cmtDate': '2018-11-28 06:59:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'drea', 'cmtContent': ':烏日人比較喜歡活在被鐵路切割的破碎區域裡,龍粉別來鬧', 'cmtDate': '2018-11-28 07:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'watameki', 'cmtContent': ':沙鹿人要藍線，誰跟你山手線', 'cmtDate': '2018-11-28 07:02:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'a12582002', 'cmtContent': ':還在那邊繞一圈回原地台鐵也繞一圈啊怎麼不廢', 'cmtDate': '2018-11-28 07:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dovepacket', 'cmtContent': ':問為何繞一圈的你知道中間有個快4000公尺的中央山脈', 'cmtDate': '2018-11-28 07:09:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tr920', 'cmtContent': ':搞不懂為何要吹捧山手線，你能想像台北都會區當初建捷運，', 'cmtDate': '2018-11-28 07:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tr920', 'cmtContent': ':如果不循序漸進先建棋盤式路線，直接建一條環狀線是什麼概', 'cmtDate': '2018-11-28 07:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tr920', 'cmtContent': ':念嗎？就是蛋白區之間（新北之間）有捷運，但真正重要的往', 'cmtDate': '2018-11-28 07:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tr920', 'cmtContent': ':蛋黃（臺北）沒有捷運，這不是非常奇怪嗎？', 'cmtDate': '2018-11-28 07:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'vvvi', 'cmtContent': ':沒錯環狀是解決輻射路線遠端連接的問題', 'cmtDate': '2018-11-28 07:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'vvvi', 'cmtContent': ':都還沒輻射路網就蓋環狀不會有運量何況還是超大環', 'cmtDate': '2018-11-28 07:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wjes30325', 'cmtContent': ':拎杯烏日人投＋ln啦媽的', 'cmtDate': '2018-11-28 07:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Diew', 'cmtContent': ':有交通建設不要然後去補助花博我看不懂', 'cmtDate': '2018-11-28 07:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'sam682097', 'cmtContent': ':台中人要的是發錢還有黑道議會', 'cmtDate': '2018-11-28 07:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rbki3', 'cmtContent': ':烏日人很爽好嗎?房價狂漲又有高鐵捷運', 'cmtDate': '2018-11-28 07:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'YuCnL', 'cmtContent': ':林佳龍可以繼續深蹲永遠~', 'cmtDate': '2018-11-28 07:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'night957', 'cmtContent': ':老人用不到健保免費比較重要', 'cmtDate': '2018-11-28 07:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ss835658', 'cmtContent': ':烏日不需要鐵路好嗎？龍粉滾', 'cmtDate': '2018-11-28 07:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mryf', 'cmtContent': ':...白痴辯論時說不好後來要攬功又說是顏寬恒幫爭取', 'cmtDate': '2018-11-28 08:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ymx3xc', 'cmtContent': ':可憐的台中人短視近利', 'cmtDate': '2018-11-28 08:10:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'neddyuang', 'cmtContent': ':人民要的不是啥鬼山手線我們要的是中國台北啦', 'cmtDate': '2018-11-28 08:44:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'kingkiller', 'cmtContent': ':老人為了健保免費換掉施政滿意度最高的市長該說啥?', 'cmtDate': '2018-11-28 09:00:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'carcinoma123', 'cmtContent': ':身為台中人覺得可恥', 'cmtDate': '2018-11-28 09:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'demitri', 'cmtContent': ':台中人越想越不對勁', 'cmtDate': '2018-11-28 09:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ak5618', 'cmtContent': ':人民要的是健保補助跟花博免費，鐵路我是有分到錢嗎?', 'cmtDate': '2018-11-28 09:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DeadKaster', 'cmtContent': ':免費仔的高譚市哪需要這些些建設開放槍枝合法化才是', 'cmtDate': '2018-11-28 11:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DeadKaster', 'cmtContent': ':高譚市人民心聲', 'cmtDate': '2018-11-28 11:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hakuei1030', 'cmtContent': ':v大好好笑邏輯好錯亂哦', 'cmtDate': '2018-11-28 12:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'lee7911444', 'cmtContent': ':希望大台中山手線的交通建設能持續下去', 'cmtDate': '2018-11-28 12:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'max93765', 'cmtContent': ':幹梧棲要捷運連三井outlet啦', 'cmtDate': '2018-11-28 14:30:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'david0605', 'cmtContent': ':林把老胡的規劃全取消的時候有想到這一天會降臨到自己', 'cmtDate': '2018-11-30 08:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'david0605', 'cmtContent': ':身上嗎?', 'cmtDate': '2018-11-30 09:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rayonwu', 'cmtContent': ':高調', 'cmtDate': '2018-12-01 01:51:00+00:00'}]","作者: game1991321 (巧克力X雞蛋) 看板: TaichungBun
+標題: [ＦＢ] 林佳龍 大台中山手線
+時間: Wed Nov 28 14:46:37 2018
+
+林佳龍從2005年第一次選就提大台中山手線了
+
+那時候還被老胡笑，結果後來老胡也推一個類似的
+
+這是林佳龍發展縣區交通跟經濟的第一步
+
+現在看起來，真的不勝唏噓
+https://i.imgur.com/4nXZ8xY.jpg
+https://www.facebook.com/forpeople/posts/1973351416056066
+『他就一直講一直講，堅持就是他啦…』
+　
+說這句話的人，是工策會總幹事蔡世寅，認識十幾年，他也聽我講十幾年「大台中山手線
+」。這句話，無非是想抱怨我的無趣，但我知道他跟我一樣感動，因為山手線在這份堅持
+之下，明年首段下環線要完工了。
+　
+2005年我第一次選台中市長，那時我提出用「大台中山手線」打造區域交通網絡的概念。
+當時縣市尚未合併，我被對手陣營笑說「林佳龍搞錯了，他是要去選台中縣長啦」。他們
+說，我是要把火車開到台中縣的「憨人」。
+　
+但在後來的十年間，我一樣繼續推、繼續修改、繼續構想，然後越來越多人加入討論，進
+而認同這個理念，比起很多人，我覺得自己很幸運。現在，大台中山手線不但獲納前瞻基
+礎建設，捷運綠線也確定延伸到彰化、捷運藍線更「起死回生」。
+　
+山手線包含大甲到后里的上環彩虹線、大甲到追分海線雙軌高架化、大慶到烏日下環「微
+笑線」高架延伸，追分成功雙軌化，全線78.9公里，其中追分成功雙軌化已經在去年動工
+，明年就能完工，山手線完工後，會跟東京的山手線一樣，成為一個環城的鐵路系統，未
+來從台中車站到沙鹿，只要26分鐘。
+　
+我所描繪的藍圖，是想為台中奠基下個百年。「無趣」也好「憨人」也罷，我知道不能一
+步登天，但是我會持續堅持，逐步落實，做對的事，把事做對，延續「進步台中」。
+　
+#佳龍的12句真心話
+#系列12篇之2
+#大台中山手線
+","2018-11-27T22:47:32.000Z",0,"mirage0709","Fw:[ＦＢ]林佳龍大台中山手線","https://www.ptt.cc/bbs/Gossiping/M.1543388014.A.F68.html","ptt","42.76.86.226"
+"7",76,"2019-04-18T17:04:45.547Z","5cb8ae2da525820c30ec02a8","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'Overmind', 'cmtContent': ':敬業點好嗎，簽名檔字都歪了', 'cmtDate': '2018-11-29 02:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mikemagic88', 'cmtContent': ':台中本來就只能往市區擠郊區佑沒有東西', 'cmtDate': '2018-11-29 02:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'koebel0521', 'cmtContent': ':吱障崩潰', 'cmtDate': '2018-11-29 02:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hugh509', 'cmtContent': ':....所以你覺得北環線超棒??呵呵', 'cmtDate': '2018-11-29 02:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'belmontc', 'cmtContent': ':台中縣民比較喜歡當邊緣人你不懂', 'cmtDate': '2018-11-29 02:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'homway', 'cmtContent': ':藍線就可以連接海線和市區經過的地方還更精華', 'cmtDate': '2018-11-29 02:58:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'shakila1226', 'cmtContent': ':台中都會區多擠？以前說空屋一堆', 'cmtDate': '2018-11-29 02:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':現在要弄山手說市區人多到住不下？', 'cmtDate': '2018-11-29 02:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'belmontc', 'cmtContent': ':有人問都會區多擠喔?從黎明中港一路塞到市區看過沒有?', 'cmtDate': '2018-11-29 02:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':所以先弄藍線橘線問題再哪？', 'cmtDate': '2018-11-29 02:59:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Overmind', 'cmtContent': ':因為你會回啊，嘻嘻', 'cmtDate': '2018-11-29 02:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jimmy885', 'cmtContent': ':不用講藍線啦，誰敢真的蓋捷運', 'cmtDate': '2018-11-29 02:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'belmontc', 'cmtContent': ':你先告訴我台74那邊有多不塞拜託?', 'cmtDate': '2018-11-29 02:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zz71', 'cmtContent': ':彰化南投的鄉下人不要來台中市區擠', 'cmtDate': '2018-11-29 03:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jacvky', 'cmtContent': ':是沒台北擠..但是人集中是事實..平衡區域發展方向是正確的', 'cmtDate': '2018-11-29 03:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':所以山手弄下去大家就不開車進市區？', 'cmtDate': '2018-11-29 03:00:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'sbeman', 'cmtContent': ':74號線內，現在空地還一堆好嗎？要是塞爆，還會出現聲音', 'cmtDate': '2018-11-29 03:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':說台中捷運會賺不回來的問題嗎？', 'cmtDate': '2018-11-29 03:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':你覺得這樣你信，你開心就好', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'disbc80158', 'cmtContent': ':滿同意你的論點', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'winnietslock', 'cmtContent': ':空屋是中區，那邊路擠，已沒辦法當作台中交通樞紐，', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'winnietslock', 'cmtContent': ':發生很多事又讓中區落沒，產權複雜重劃更新困難', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'r89556', 'cmtContent': ':有新莊/板橋擠嗎', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jimmy885', 'cmtContent': ':藍線一開挖就是災難，哪個市長有魄力呢', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'watameki', 'cmtContent': ':你告訴我，大甲人要怎麼搭山手線到七期或勤美？', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wholmes', 'cmtContent': ':沒差吧反正說穿了就只是沒錢而已還有就是可能不能說的', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'belmontc', 'cmtContent': ':幹妳媽空地是能開上去膩?塞車問題難道可以強徵私有空地?', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'skizard', 'cmtContent': ':一日三千多旅次的路線是要平衡啥', 'cmtDate': '2018-11-29 03:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'skizard', 'cmtContent': ':要平衡那佔地面積最大的和平區要不要蓋', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'belmontc', 'cmtContent': ':他媽講一堆根本鬼扯的屁話還在那邊裝台中人幹', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':開車進城市根本假議題啊！那這樣說台北不就根本不要蓋這', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wholmes', 'cmtContent': ':何必粗話呢這就只是沒錢而已', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':麼多條線，早就應該先把捷運延伸到桃園，桃園人都是開車', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'shakila1226', 'cmtContent': ':所以蓋山手線可以解決74塞車？你台', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':往台北上班耶', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':中人嗎？', 'cmtDate': '2018-11-29 03:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'segio', 'cmtContent': ':高雄市區不擠啊.科科.', 'cmtDate': '2018-11-29 03:03:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jimmy885', 'cmtContent': ':然後一條藍線還搞上上下下，高架又地下，當雲霄飛車喔', 'cmtDate': '2018-11-29 03:03:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shakila1226', 'cmtContent': ':山手線蓋下去大家會搬到縣區住？', 'cmtDate': '2018-11-29 03:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hydra6716', 'cmtContent': ':簡單說你也知道這外圍的環狀路，這跟紓解市區', 'cmtDate': '2018-11-29 03:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wholmes', 'cmtContent': ':不過中央如果有核定經費了不花也是中央就收回去', 'cmtDate': '2018-11-29 03:04:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hydra6716', 'cmtContent': ':人口根本沒影響。難道縣區來市區工作的', 'cmtDate': '2018-11-29 03:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hydra6716', 'cmtContent': ':會因為這東西回縣區工作？', 'cmtDate': '2018-11-29 03:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wholmes', 'cmtContent': ':也不會把錢讓你去弄橘線', 'cmtDate': '2018-11-29 03:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Joker3', 'cmtContent': ':台中市區比台北市區更不利於開車有夠塞的', 'cmtDate': '2018-11-29 03:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Arashi0731', 'cmtContent': ':台中市區真的很擠，但郊區的房價也慢慢起來就是', 'cmtDate': '2018-11-29 03:07:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hydra6716', 'cmtContent': ':中央經費是補助多少自籌多少？', 'cmtDate': '2018-11-29 03:07:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'CHRISTINAYEN', 'cmtContent': ':捷運比鐵路?', 'cmtDate': '2018-11-29 03:07:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'watameki', 'cmtContent': ':所以呢？出了台中火車站我要怎麼到七期？還不是靠藍線', 'cmtDate': '2018-11-29 03:07:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wholmes', 'cmtContent': ':可能就像你猜的啊補助少啊所以盧不要也可能盧也不知道', 'cmtDate': '2018-11-29 03:08:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'homway', 'cmtContent': ':大甲不管怎麼搭鐵路到台中車站離七期勤美都還有距離耶XD', 'cmtDate': '2018-11-29 03:08:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'CHRISTINAYEN', 'cmtContent': ':后里房價炒翻天甲后路透天6年前600萬現在1800萬', 'cmtDate': '2018-11-29 03:10:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'skizard', 'cmtContent': ':那要從后里或大甲去榮總或是市府請問要怎麼搭比較順', 'cmtDate': '2018-11-29 03:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Joker3', 'cmtContent': ':台中火車站到勤美不就走中港路就好搭公車啊那麼多班', 'cmtDate': '2018-11-29 03:12:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'homway', 'cmtContent': ':樓上乖乖搭公車吧我朋友大甲人都搭公車去榮總上班XD', 'cmtDate': '2018-11-29 03:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Joker3', 'cmtContent': ':比起用后里來嘴怎不乾脆用東勢來嘴更快？', 'cmtDate': '2018-11-29 03:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tonyselina', 'cmtContent': ':講的好像藍線作完似的真的是平行世界', 'cmtDate': '2018-11-29 03:12:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'watameki', 'cmtContent': ':所以就是公車比山手線實用，答案就是這麼明顯', 'cmtDate': '2018-11-29 03:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'homway', 'cmtContent': ':現在台灣大道的公車走專用道其實滿好搭的上下班微擠就是', 'cmtDate': '2018-11-29 03:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'xxx741789', 'cmtContent': ':大里老胡的時候就發展起來了吧', 'cmtDate': '2018-11-29 03:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':賣鬧，中港路上下班搭搭看公車，尤其是河南路到黎明路這', 'cmtDate': '2018-11-29 03:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sbeman', 'cmtContent': ':段，說順的是平行時空嗎？', 'cmtDate': '2018-11-29 03:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DAPAWWEN', 'cmtContent': ':台中市民用比較貴的代價買房，優先想用建設臭了嗎？', 'cmtDate': '2018-11-29 03:56:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'dovepacket', 'cmtContent': ':大甲有直達台中車站的區間車?', 'cmtDate': '2018-11-29 04:15:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'adort', 'cmtContent': ':看三鶯線就知道什麼有需求能減少汽車才能蓋根本廢話', 'cmtDate': '2018-11-29 04:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'loveapple33', 'cmtContent': ':曾經，從國道1號下中港，要到火車站，塞了兩個小時..', 'cmtDate': '2018-11-29 04:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'loveapple33', 'cmtContent': ':...從此不趕下中港！', 'cmtDate': '2018-11-29 04:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'homway', 'cmtContent': ':就大家都知道的問題啊沒專用道的區間就很慘阿呵呵', 'cmtDate': '2018-11-29 04:38:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'jp1203', 'cmtContent': ':大里太平人口增加是林功勞？你是台中人嗎？', 'cmtDate': '2018-11-29 05:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jp1203', 'cmtContent': ':這兩個地方在縣市未合併前就一直在增加', 'cmtDate': '2018-11-29 05:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jp1203', 'cmtContent': ':74在林上任前都通車幾年了反倒是林四年來給這兩個地方什', 'cmtDate': '2018-11-29 05:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jp1203', 'cmtContent': ':麼？捷運砍光光藍線太平段砍掉橘線停止計畫', 'cmtDate': '2018-11-29 05:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mooto', 'cmtContent': ':大里太平在10幾年人口就超過豐原了', 'cmtDate': '2018-11-29 06:54:00+00:00'}]","因為你是把台北市拿來跟台中市比啊。
+
+如果今天台中市還沒有縣市合併，
+
+那你這樣比還有話講。
+
+
+但今天的台中市是縣市合併，
+
+就等同今天如果台北跟新北合併，
+
+柯文哲會放著舊台北縣區發展不管，
+
+全力先顧舊市區嗎？
+
+現在的台中市可是台北+新北那麼大喔!!!
+
+
+林佳龍要做山手縣的目地就是為了平衡台中舊縣市的發展。
+
+不要讓所有的台中人都只會往舊市區擠，
+
+所以舊市區才要作捷運，舊縣區做山線，
+
+然後一外一內，中間的空間先用公車補強，
+
+之後再逐漸捷運延伸，而不是一味的由蛋黃區延到蛋白區。
+
+這樣到時候大家都往都會區擠好擠滿了啊。
+
+
+
+不過台中市民不領情的話，
+
+那也沒有用。
+
+真的啦，台中市都會區已經很擠了。
+
+中彰投的人都往台中擠，
+
+如果不分點壓力給週圍舊縣區的話，
+
+就是塞爆~~~
+
+林佳龍任內為了兼顧發展，所以現在太平、大里、霧峰都有
+
+逐步發展抒壓分流的驅勢。
+
+
+請不要一味的只會以舊台中市的眼光看台中好嗎？
+
+雖然我也是台中西區人啦
+","2018-11-28T18:55:57.000Z",0,"chirex","Re:[新聞]停建台中山手線？盧秀燕：沒說不蓋，但","https://www.ptt.cc/bbs/Gossiping/M.1543460521.A.8E0.html","ptt","59.125.46.247"
+"8",77,"2019-04-18T17:04:45.547Z","5cb8ae2da525820c30ec02a9","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'jonathan8032', 'cmtContent': ':洪姐推', 'cmtDate': '2018-11-29 05:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'intafan', 'cmtContent': ':妳誰啊？', 'cmtDate': '2018-11-29 05:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kingrichman', 'cmtContent': ':山手線會讓台鐵虧更大', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'n16482003', 'cmtContent': ':妳嫌台鐵司機太多？', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kingrichman', 'cmtContent': ':且台中需要更先進的鐵道系統，我認為山手線不應該用', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'PCW2960', 'cmtContent': ':好酒不見', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zeumax', 'cmtContent': ':藍線應該更重要吧', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'arumi416', 'cmtContent': ':中國台中人喜歡騎山豬不行膩', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'frank01', 'cmtContent': ':反正妳也連任不了，不干妳事了...', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'realmd', 'cmtContent': ':二個鄉下地方蓋山手線，真是錢太多，要不要高鐵全國繞一圈', 'cmtDate': '2018-11-29 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'anoreader', 'cmtContent': ':有洪選區的鄉民嗎?她下次選舉穩不穩啊?', 'cmtDate': '2018-11-29 05:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zpeople', 'cmtContent': ':13個月後，回家專心帶小孩', 'cmtDate': '2018-11-29 05:45:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'nottodo', 'cmtContent': ':潭雅神最優質的選擇', 'cmtDate': '2018-11-29 05:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kingrichman', 'cmtContent': ':台鐵牛速在那邊繞，台中能進步?', 'cmtDate': '2018-11-29 05:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'if2', 'cmtContent': ':他沒空軍票輸定了阿楊瓊瓔陸軍很強', 'cmtDate': '2018-11-29 05:45:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Murasaki0110', 'cmtContent': ':鳥地方浪費錢', 'cmtDate': '2018-11-29 05:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'h9602b', 'cmtContent': ':疑這位不是台中高雄新北三位一體的在地媳婦嗎?', 'cmtDate': '2018-11-29 05:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Isveia', 'cmtContent': ':其實她立委做到現在到底有什麼成績，我還真的完全不清楚..', 'cmtDate': '2018-11-29 05:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'kingrichman', 'cmtContent': ':先通捷運，未來把山手線改環狀線，速度提升', 'cmtDate': '2018-11-29 05:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'cisyong', 'cmtContent': ':山手線沒老人健保重要，窮酸之地蓋了也沒用', 'cmtDate': '2018-11-29 05:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kingrichman', 'cmtContent': ':台鐵系統真的可以不要新增，別害台鐵', 'cmtDate': '2018-11-29 05:49:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'firl', 'cmtContent': ':用台鐵蓋環狀線才叫政治考量吧', 'cmtDate': '2018-11-29 05:50:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ptychodera', 'cmtContent': ':拋開政治考量就更沒沒必要蓋啊', 'cmtDate': '2018-11-29 05:50:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'watameki', 'cmtContent': ':台鐵人力不足了還凹人家開新線', 'cmtDate': '2018-11-29 05:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'james2266', 'cmtContent': ':后里到的大甲的公車運量先出來再來說要蓋軌道運輸好嗎', 'cmtDate': '2018-11-29 05:55:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'kiwi03', 'cmtContent': ':選完你又出現了', 'cmtDate': '2018-11-29 05:56:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'cwind07', 'cmtContent': ':快去安胎吧你立委做沒三年就攀上權貴結婚生龍胎了', 'cmtDate': '2018-11-29 06:13:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'auj33996260', 'cmtContent': ':廷廷都失業還不幫忙', 'cmtDate': '2018-11-29 06:15:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'stopcandy', 'cmtContent': ':我比較想要捷運', 'cmtDate': '2018-11-29 06:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'stopcandy', 'cmtContent': ':山手線才是政治考量運量低', 'cmtDate': '2018-11-29 06:41:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'Strokes', 'cmtContent': ':QQ', 'cmtDate': '2018-11-29 06:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mklistwso', 'cmtContent': ':地方派系出來放風聲，洪慈庸要落選啦，你說危不危險？', 'cmtDate': '2018-11-29 06:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'timeaftime', 'cmtContent': ':捷運藍橘兩線線優先於台鐵山手線是正確的', 'cmtDate': '2018-11-29 07:09:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'timeaftime', 'cmtContent': ':這點盧沒說錯', 'cmtDate': '2018-11-29 07:10:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ppn', 'cmtContent': ':橘線vs山手絕對先選橘線使用人數差太多了', 'cmtDate': '2018-11-29 07:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gidapops', 'cmtContent': ':自己政治還說別人', 'cmtDate': '2018-11-29 11:29:00+00:00'}]","1.媒體來源:
+聯合
+
+2.完整新聞標題:
+台中山手線生變？洪慈庸籲「拋開政治考量」
+
+3.完整新聞內文:
+台中市長當選人盧秀燕拋出「山手線目前我不會做」後，掀起地方討論。時代力量立委洪
+慈庸在臉書發文，台中正在快速轉大人，沒時間反反覆覆等來等去了，山手線不是連成一
+圈這麼表面，能縮短城鄉差距，請新市府拋開政治考量為台中努力。
+
+山手線是台中市長林佳龍的核心政見，他從2004年開始提倡，今年全線獲得中央核定，不
+過盧秀燕當選後，傳出山手線可能生變。盧秀燕說，她抱持開放態度、尊重民意，但從財
+務考量來看，山手線不是當務之急。
+
+洪慈庸說，台中正在快速轉大人，城鄉差距的縮短才正要開始，沒有時間反反覆覆、等來
+等去；山手線不是一任市長的情，早在13年前林佳龍提出，胡志強在縣市合併後也有類似
+概念，許多立委也在國會共同爭取。
+
+洪慈庸說，「一圈快要2小時太久」的說法，無法說服正在等待的海線、山城鄉親，因為
+山手線不只是連成一圈這麼表面，最重要的能拉近山城、海線的距離、以雙軌化、高架立
+體化強化雙向的軌道交通。
+
+她強調，鄉親對縮短城鄉差距的等待，不能用一句話來推翻，山手線骨幹已出現，下環線
+明年完工、捷運綠線後年試運轉、捷運藍線包含延伸台中港的部分，都已通過行政院核定
+。
+
+洪慈庸說，台中準備好了，請問新市府，決定權就在你手上，還要再緩嗎？能不能拋開立
+場跟政治考量，為台中一起努力？
+
+
+4.完整新聞連結 (或短網址):
+https://udn.com/news/story/6656/3508427?from=udn-ch1_breaknews-1-0-news
+5.備註:
+被刪或自刪也算額度內
+超貼者水桶
+海線大哥想要發展沙鹿 誰管你大甲后里有沒有連接
+","2018-11-28T21:43:10.000Z",0,"vetyiting","[新聞]台中山手線生變？洪慈庸籲「拋開政治考量","https://www.ptt.cc/bbs/Gossiping/M.1543470554.A.934.html","ptt","111.82.59.52"
+"9",85,"2019-04-18T17:04:45.612Z","5cb8ae2da525820c30ec02b1","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'elfria', 'cmtContent': ':中央一下要全額補，現在又不補。。。', 'cmtDate': '2018-12-03 08:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'sonyabear', 'cmtContent': ':黑骨燕粉會噓，幫補', 'cmtDate': '2018-12-03 08:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gidapops', 'cmtContent': ':你當大家都不會查嗎', 'cmtDate': '2018-12-03 08:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'elfria', 'cmtContent': ':你貼這新聞正好證實，林佳龍當市長，中央就全額補助', 'cmtDate': '2018-12-03 08:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'elfria', 'cmtContent': ':換人當就叫你自己想辦法。。沒辦法就不要蓋', 'cmtDate': '2018-12-03 08:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bybe', 'cmtContent': ':三樓崩潰爽', 'cmtDate': '2018-12-03 08:18:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'uyrmb47', 'cmtContent': ':首部曲痾請問眼睛還好嗎', 'cmtDate': '2018-12-03 08:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'elfria', 'cmtContent': ':當年胡志強蓋BRT還不就是因為中央不蓋台中捷運的替代方案', 'cmtDate': '2018-12-03 08:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mealoop', 'cmtContent': ':一直都全額補助啊低能草包要1000億不知道是在補殺洨', 'cmtDate': '2018-12-03 08:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jorden', 'cmtContent': ':首部曲全額補助其他也要自己想辦法', 'cmtDate': '2018-12-03 08:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'uglyfinger', 'cmtContent': ':人家的意思是要錢要經手顏家才給你蓋好嗎==', 'cmtDate': '2018-12-03 08:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uglyfinger', 'cmtContent': ':阿你說給顏和燕蓋下去品質怎樣大家就看著辦囉', 'cmtDate': '2018-12-03 08:21:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'noangel0286', 'cmtContent': ':笑死預算是盧當立委時擋的好嗎', 'cmtDate': '2018-12-03 08:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'noangel0286', 'cmtContent': ':現在的意思就是要收過路費啦懂？', 'cmtDate': '2018-12-03 08:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gidapops', 'cmtContent': ':馬對綠真的好一堆都全部中央買單造成舉債又被綠罵', 'cmtDate': '2018-12-03 08:22:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'cht211', 'cmtContent': ':老胡在的時候還是國民黨執政中央不蓋?怪誰', 'cmtDate': '2018-12-03 08:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uglyfinger', 'cmtContent': ':高雄氣爆時不曉得馬政府說了啥幹話看來有人失憶症惹', 'cmtDate': '2018-12-03 08:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomo1026', 'cmtContent': ':當然怪阿扁扁維拉下台！', 'cmtDate': '2018-12-03 08:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'adort', 'cmtContent': ':反正跟中央喊showmethemomey就對了沒有錢都是中央的錯', 'cmtDate': '2018-12-03 08:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'adort', 'cmtContent': ':要教訓中央', 'cmtDate': '2018-12-03 08:58:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'notmine', 'cmtContent': ':補助15億跟補助1000億差超多的好嗎', 'cmtDate': '2018-12-03 08:59:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'notmine', 'cmtContent': ':15eandthen1000e?!驚悚的補助法', 'cmtDate': '2018-12-03 09:00:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'watameki', 'cmtContent': ':這是成追線好嗎？', 'cmtDate': '2018-12-03 09:10:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomo1026', 'cmtContent': ':我的看法啦山手線地方負擔10年274億真是太重了不如換', 'cmtDate': '2018-12-03 09:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomo1026', 'cmtContent': ':成老人健保再100%加碼10年再多150億撥到老人健保剩下1', 'cmtDate': '2018-12-03 09:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomo1026', 'cmtContent': ':20億我們來等沒影的橘線山線海線老人最需要的就是開心', 'cmtDate': '2018-12-03 09:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomo1026', 'cmtContent': ':領錢了安捏干后～', 'cmtDate': '2018-12-03 09:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tku9527', 'cmtContent': ':選前說沒用選後髮夾彎', 'cmtDate': '2018-12-03 10:19:00+00:00'}]","https://fairmedia.com.tw/%E8%A6%81%E8%81%9E/7790
+大台中山手線首部曲 總經費獲中央全額負擔
+2016年10月04日
+台中 / 方敬為
+
+【記者方敬為／台中報導】大台中山手線「下環」成功到追分段鐵路雙軌化，確定獲得國
+家發展委員會同意匡列預算，由中央負擔興建所需15.4億經費，預計2020年完工，中市交
+通局表示，運量可望提升1倍以上。
+
+　中市府「大台中山手線」計畫，其中成功、追分段雙軌化工程，路線總長度2.2公里，
+經評估規劃設計、工程建造費總計約15.4億元，2017年即可開始進行工程規劃設計，2018
+年中進場施作，預計2020年完工。
+
+　中市交通局長王義川表示，成功、追分段雙軌化完工後，山手線「下環」的鐵路容量，
+可從現行每日雙向22班次，增加至48班次，較目前海線成追線到台中的運量則可增118%，
+並與台中捷運綠線搭配達成鐵路「捷運化」功能，提高海線居民轉乘高鐵的便利性。
+國發會指出，該計畫將會讓成功追分線路線容量提升 1倍，帶來效益包括每年縮短旅行
+時間1295萬元、每年提升列車準點效益2331萬元、每年提高海線居民轉乘高鐵便利性 221
+萬元、每年節省行車成本3億8600萬元、每年減少CO2排放的效益248萬元等，計畫效益相
+當顯著，因此同意匡列15.4億，促成
+https://fairmedia.com.tw/%E8%A6%81%E8%81%9E/7790
+http://news.ltn.com.tw/news/politics/breakingnews/1928922
+大台中山手線 大甲后里「彩虹線」獲政院支持
+
+2016-12-26 18:16
+〔記者黃鐘山／台中報導〕市長林佳龍力推的「大台中山手線環狀鐵路計畫」再下一城，
+他今日在市政會議上說，除已獲核准的下環微笑線外，大甲后里「彩虹線」也獲行政院支
+持，海線鐵路則將強化財務計畫，再和中央尋求共識，務必推動雙軌高架化。
+
+市府指出，山手線的主要工程項目分別是海線大甲與山線后里新建串聯鐵路（上環彩虹線
+）、成功到追分雙軌化（下環微笑線）、海線鐵路雙軌高架化、山線鐵路高架化大慶延伸
+至烏日站，其中下環微笑線已由中央編列15.4億元經費推動中。
+
+林佳龍今日在市政會議說，上環彩虹線也已獲行政院支持，至於海線雙軌高架化部分，因
+為涉及財務計畫，確定會進行雙軌化，而海線鐵路高架化也有其必要性，因此市府將再強
+化財務計畫說明，務必推動海線雙軌高架化。
+
+他表示，山線鐵路高架化延伸到烏日站，將會影響到烏日都市計畫調整與副都心的整體發
+展，若完成高架化，原本被鐵路分隔的兩側，可以相互連結，同時讓烏日車站與高鐵站串
+聯。至於正積極推動的捷運綠線延伸至彰化市，不僅是中彰合作的優先項目，也獲得中央
+的高度支持，應該列為優先推動的項目。
+
+立法院副院長蔡其昌強調，海線雙軌高架化是「翻轉區域、海線重生」最重要的項目之一
+，尤其縣市合併後，能藉由大眾運輸系統將都市縫合，並縮短大台中的城鄉差距。因此，
+期盼行政院能在市府補強相關計畫後繼續給予支持，尤其在中央、地方都十分重視海線雙
+港未來的發展下，「大台中山手線」計畫更不能獨缺海線，將會持續在中央發聲爭取。
+
+
+==
+
+盧媽現在是在吵啥？
+
+不是一堆盧粉說甲后線不用蓋嗎？
+
+怎麼現在又說需要了？
+","2018-12-03T00:16:18.000Z",0,"chirex","Re:[新聞]大台中山手線經費盧秀燕呼籲中央全額補","https://www.ptt.cc/bbs/Gossiping/M.1543825341.A.ABA.html","ptt","59.125.46.247"
+"10",113,"2019-04-18T17:04:45.666Z","5cb8ae2da525820c30ec02cd","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'Sixigma', 'cmtContent': ':說得好，清大>港中大>>>>>>台大', 'cmtDate': '2018-12-25 12:27:00+00:00'}]","1     清華大學（北京）  11      北京師範大學            21     澳門科大
+2     北京大學          12      香港科技大學            22     武漢大學
+3
+清華大學
+（含竹教）13      香港城市大學            23     西安交大
+4     香港中文大學      14
+（新竹）        24     哈爾濱工大
+5     浙江大學          15      南京大學                25
+成功大學
+6     中國科學技術大學  16      中山大學（廣州）        26     同濟大學
+7     上海交通大學      17      華中科技大學            27     北京航空
+8     香港大學          18      中國醫藥大學            28     中央大學
+9     台灣大學          19      陽明大學                29     東南大學
+10    復旦大學          20      香港理工大學            30     天津大學
+
+上上周最新出爐的上海交大2018兩岸排名, 最新的版本已經包含竹師應該最準
+有點好奇跟這位鄉民說得不太一樣... (甩清交好幾條街)
+
+印象中成大 有醫學院這
+超級外掛
+已經數十年了
+因為規模大錢也拿得多
+不應該會輸清交才對? 還請教育專家板友指導箇中原委....
+
+還有陽明也排成大前面, 選企業最愛但排名卻後面的合併   有何好處呢
+","2018-12-25T03:05:01.000Z",0,"stherapy","Re:[新聞]與清大或交大合校？陽明大學明會議拍板","https://www.ptt.cc/bbs/Gossiping/M.1545736263.A.C87.html","ptt","77.111.247.248"
+"11",115,"2019-04-18T17:04:45.666Z","5cb8ae2da525820c30ec02cf","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'XXXX30', 'cmtContent': ':清大有竹教陽明不要去被拉低素質', 'cmtDate': '2018-12-25 15:32:45+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'whiteadam', 'cmtContent': ':手動智底', 'cmtDate': '2018-12-25 15:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'pikakami', 'cmtContent': ':手動置底', 'cmtDate': '2018-12-25 15:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BambooGrove', 'cmtContent': ':媽的一堆老師都垃圾誤人子弟也都這個體系出來的', 'cmtDate': '2018-12-25 15:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'pikakami', 'cmtContent': ':回想一下國小老師真的恐怖==', 'cmtDate': '2018-12-25 15:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'pikakami', 'cmtContent': ':我阿罵住師院那邊是有房子在收租啦但我還是要噓', 'cmtDate': '2018-12-25 15:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gamania0515', 'cmtContent': ':ㄤㄤ有我耶', 'cmtDate': '2018-12-25 15:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':知道我為何每次有竹教就噓嗎?', 'cmtDate': '2018-12-25 15:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':高中榜單竹教放在清華上', 'cmtDate': '2018-12-25 15:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':同學一副自己清華分數進去的服氣嗎', 'cmtDate': '2018-12-25 15:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':---------------', 'cmtDate': '2018-12-25 15:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':呃所以幹嘛標記我?', 'cmtDate': '2018-12-25 15:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':如果查出我有說師範教育體系不好歡迎引用', 'cmtDate': '2018-12-25 15:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':但我平時噓竹教正好就是身邊同學的現況呀', 'cmtDate': '2018-12-25 15:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'pikakami', 'cmtContent': ':還好我身邊只有114沒竹教大', 'cmtDate': '2018-12-25 15:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':每個進去都是想混清華大學四個字', 'cmtDate': '2018-12-25 15:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':-------', 'cmtDate': '2018-12-25 15:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':感謝配合', 'cmtDate': '2018-12-25 15:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': """":麻煩整行修掉''''"""", 'cmtDate': '2018-12-25 15:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gamania0515', 'cmtContent': ':--------------', 'cmtDate': '2018-12-25 15:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':站在還會跑教育方面的角度當然歡迎併入', 'cmtDate': '2018-12-25 15:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gamania0515', 'cmtContent': ':但只是想混,洗還一副優越樣真的不齒', 'cmtDate': '2018-12-25 15:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'orzkk88', 'cmtContent': ':推樓上一堆想轉科管院的看了就賭爛', 'cmtDate': '2018-12-25 15:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gamania0515', 'cmtContent': ':對的觀念正確推推', 'cmtDate': '2018-12-25 16:15:00+00:00'}]","1     清華大學（北京）  11      北京師範大學            21     澳門科大
+2     北京大學          12      香港科技大學            22     武漢大學
+3
+清華大學
+（含竹教）13      香港城市大學            23     西安交大
+4     香港中文大學      14
+（新竹）        24     哈爾濱工大
+5     浙江大學          15      南京大學                25
+成功大學
+6     中國科學技術大學  16      中山大學（廣州）        26     同濟大學
+7     上海交通大學      17      華中科技大學            27     北京航空
+8     香港大學          18      中國醫藥大學            28     中央大學
+9     台灣大學          19      陽明大學                29     東南大學
+10    復旦大學          20      香港理工大學            30     天津大學
+
+挑上上周最新出爐的上海交大兩岸排名, 最新的版本已經包含竹師應該最準
+這家的重視平均指標 包含人才培養35% 研究35%  師資25%  學校資源5%
+其實竹師合校後也還在那邊
+所以除非台灣清華是要跟排更前面北京清華  北大合校
+不然邏輯上沒有會拖累任何一所大學的道理
+
+竹師也被戰太跨張  隨著時代變遷教育大學本來就會走入歷史
+
+想想自己成長過程中  有多少照顧過自己的老師都是該體系培養
+再者何況
+今年起入學的清大竹師學院  聯考分數應該就是屌打絕大部分人了
+
+還是尊重台灣教育史上在各偏鄉的這群傳道授業解惑培養體系吧
+","2018-12-25T07:32:45.000Z",0,"stherapy","Re:[新聞]與清大或交大合校？陽明大學明會議拍板","https://www.ptt.cc/bbs/Gossiping/M.1545752327.A.1F8.html","ptt","77.111.247.248"
+"12",208,"2019-04-18T17:05:57.494Z","5cb8ae75a525820c30ec032c","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'Mradult', 'cmtContent': ':簡稱高中大學', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'somoskylin', 'cmtContent': ':私立變公立好爽', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wang53', 'cmtContent': ':中山已經有醫學院了還想併啊', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kobe9527', 'cmtContent': ':之前才有聽說要跟高雄大學合併', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pengxiaolun', 'cmtContent': ':爽變國立醫科', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Spinner3', 'cmtContent': ':併成後就是山央興正了', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Nevhir', 'cmtContent': ':高醫吃中山還差不多中山想吃高醫?ZZZ', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'alen0303', 'cmtContent': ':高完大', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tonica', 'cmtContent': ':果然韓國瑜上任高雄開始起飛', 'cmtDate': '2019-03-01 13:28:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'kobe9527', 'cmtContent': ':好像要他們的法學院', 'cmtDate': '2019-03-01 13:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tonica', 'cmtContent': ':反觀民進黨空轉高雄數十年', 'cmtDate': '2019-03-01 13:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'maple0425', 'cmtContent': ':中山高是高速公路欸', 'cmtDate': '2019-03-01 13:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'darkdogoblin', 'cmtContent': ':中山大學高雄醫學院', 'cmtDate': '2019-03-01 13:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 't9404080', 'cmtContent': ':山高大', 'cmtDate': '2019-03-01 13:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zephyr105', 'cmtContent': ':高醫併中山我才呵呵', 'cmtDate': '2019-03-01 13:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'clamperni', 'cmtContent': ':誰要跟你併==', 'cmtDate': '2019-03-01 13:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'nchrist', 'cmtContent': ':記得之前中山想跟台大併XD', 'cmtDate': '2019-03-01 13:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 't81511270', 'cmtContent': ':原來高醫是私立唷', 'cmtDate': '2019-03-01 13:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'davidrockcom', 'cmtContent': ':陳家的野望，到時候被吞的不是高醫，而是中山啊', 'cmtDate': '2019-03-01 13:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'noname78531', 'cmtContent': ':中山高速公路醫學大學', 'cmtDate': '2019-03-01 13:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'awomkjmn', 'cmtContent': ':搞清楚誰併誰啊！？', 'cmtDate': '2019-03-01 13:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'icehunter', 'cmtContent': ':我是校友希望可以台大併中山', 'cmtDate': '2019-03-01 13:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tetsu2008', 'cmtContent': ':中山高！', 'cmtDate': '2019-03-01 13:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'brad001', 'cmtContent': ':高醫之前不是有一些黑幕嗎那些董事...', 'cmtDate': '2019-03-01 13:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YSJ543', 'cmtContent': ':韓流發威', 'cmtDate': '2019-03-01 13:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'henrylin8086', 'cmtContent': ':高醫是私立啊......', 'cmtDate': '2019-03-01 13:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'gn0331', 'cmtContent': ':高醫分數高很多', 'cmtDate': '2019-03-01 13:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kcbill', 'cmtContent': ':高醫北醫都私立啊', 'cmtDate': '2019-03-01 13:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'shakesper', 'cmtContent': ':應該由義守來併才對', 'cmtDate': '2019-03-01 13:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'SHINJO575', 'cmtContent': ':台灣只能夠有一個中山醫', 'cmtDate': '2019-03-01 13:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jympin', 'cmtContent': ':跟中山醫併阿', 'cmtDate': '2019-03-01 13:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zackl852l', 'cmtContent': ':那中興就跟中山醫併一併吧', 'cmtDate': '2019-03-01 13:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Diaw19', 'cmtContent': ':高醫是私立，但是人家有醫學系', 'cmtDate': '2019-03-01 14:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kbten', 'cmtContent': ':高醫就高雄陳家', 'cmtDate': '2019-03-01 14:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'reexamor', 'cmtContent': ':我想併中山女高(≧▽≦)', 'cmtDate': '2019-03-01 14:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bye2007', 'cmtContent': ':高醫併中山還差不多', 'cmtDate': '2019-03-01 14:38:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'LoveFood', 'cmtContent': ':之前中山想當台大高雄分校阿，被拒絕', 'cmtDate': '2019-03-01 14:39:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'jason985', 'cmtContent': ':為甚麼會一直有人覺得是高醫併中山', 'cmtDate': '2019-03-01 14:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jason985', 'cmtContent': ':雖然高醫大概不會給併但要併的話肯定是中山併高醫阿', 'cmtDate': '2019-03-01 14:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'opple', 'cmtContent': ':有人有扣掉醫牙的平均分統計嗎', 'cmtDate': '2019-03-01 14:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'opple', 'cmtContent': ':看網路排名高醫加上醫牙也是在四中之下', 'cmtDate': '2019-03-01 14:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ims531', 'cmtContent': ':現在就學分互相承認了但意義不大', 'cmtDate': '2019-03-01 14:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'YHTNIMK', 'cmtContent': ':那些在嗆的是醫學系校友嗎XD', 'cmtDate': '2019-03-01 15:09:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'snsdakb48', 'cmtContent': ':中山高', 'cmtDate': '2019-03-01 15:11:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':中山到底哪裡有本錢認為比高醫強啊，隨便一個執照爛', 'cmtDate': '2019-03-01 15:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':系都六十五級分以上，除非你想比社工公衛那種低分系', 'cmtDate': '2019-03-01 15:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':啦', 'cmtDate': '2019-03-01 15:24:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':高醫非執照的系略低於中山冷門系，執照系跟中山差不', 'cmtDate': '2019-03-01 15:28:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':多，醫牙屌打中山', 'cmtDate': '2019-03-01 15:28:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':四中真的很愛膨脹，看到人家是私立就自以為自己比人', 'cmtDate': '2019-03-01 15:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':家好zzz', 'cmtDate': '2019-03-01 15:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'offstage', 'cmtContent': ':四中大學', 'cmtDate': '2019-03-01 15:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'offstage', 'cmtContent': ':台灣所有大學合併為台灣聯合大學簡稱台聯', 'cmtDate': '2019-03-01 15:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chungkai', 'cmtContent': ':非執照雜魚系略低於中山?現中山這麼慘?', 'cmtDate': '2019-03-01 16:08:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'k44754', 'cmtContent': ':操你馬，猴子校滾啦', 'cmtDate': '2019-03-01 17:24:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':痾你以為雜魚系分數多低57.58左右才能上的，中山冷', 'cmtDate': '2019-03-01 18:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':門系可能60', 'cmtDate': '2019-03-01 18:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':不知道為什麼你們覺得進高醫非醫牙都很爛的感覺？？', 'cmtDate': '2019-03-01 18:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':？因為是私立', 'cmtDate': '2019-03-01 18:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ksxo', 'cmtContent': ':正統中山醫出現', 'cmtDate': '2019-03-01 18:17:00+00:00'}]","媒體來源：udn新聞
+
+公私併校第一例？中山大學校長：高醫是併校第一順位
+
+中山大學、高雄醫學大學合併有譜？今天出刊的「大學評鑑雙月刊」上中山大學校長鄭英
+耀表示，教育部曾調查國內沒有超過一萬名學生的大學校院，請各校評估合作及合併的可
+能對象，中山大學校內行政會議、校務會議（曾針對合併案）討論過，第一順位就是高醫
+。
+
+近年多所公立大學合併案在討論，包括清華大學與新竹教育大學、東華大學與花蓮師院等
+，近日交通大學也要與陽明大學合併，但未觸及公私合併。教育部前次長姚立德出席大學
+校長會議時曾表示，將推動公私併校，包括私校董事會一半讓公校代表參與、或是將來國
+立大學法人化後都是可以的方向。
+
+鄭英耀表示，目前與（高醫的）初步是從合作、從攻頂聯盟開始，兩個學校目前有組成一
+些工作圈，中山校內行政會議、校務會議也討論過，第一順位就是高醫。
+
+鄭英耀說，中山和高醫合作的非常好，也許高醫校友跟董事會之間有一些不同的一些看法
+，但認為這並不影響兩校的合作。他也感謝教育部支持「跨校轉系」視同「校內轉系」的
+政策，過去教育部規定學生轉入及轉出都受到限制，但後來在法令適度的調整，這對建立
+更多開創性的合併機制很有幫助。
+
+鄭英耀也說，中山與高醫也逐步的思考一些合作的模式，例如兩個學校可以互相選修通識
+課程，上學期開始讓國家講座、教學傑出獎教授去開一些專門的科目，透過視訊，讓兩校
+學生可以一起上課。另一方面正計畫尋求市政府的認可和支持，希望能開辦兩校之間的區
+間公車，讓師生在研究、教學或學習更方便。
+
+目前法規上有何困難？鄭英耀指出，雖然法律上沒有明文規範不行，但因為一個是公立學
+校，現在還沒法人化，另一個卻是私法人。另外，他覺得教育部可以更具開創性，讓大學
+在人事、主計、法令有更大的彈性，不要再用公務預算來規範校務基金。他建議，民意代
+表多關心大學辦學要辦理什麼特色，少對一些個案做過度關心。
+
+「我常說紅線設在那裡，誰誤踩紅線，該依法究責」，鄭英耀說，否則就該給他更寬廣的
+空間。若能如此，或許台灣的高等教育可以走得更快，更有開創性及創新性，這都是人才
+培育上所殷切期待的事。
+
+4.完整新聞連結 (或短網址):
+https://udn.com/news/story/6928/3671298?from=udn-ch1_breaknews-1-cate12-news
+5.備註:
+被刪或自刪也算額度內
+超貼者水桶","2019-03-01T05:26:44.000Z",0,"asd245438","[新聞]公私併校第一例？中山大學校長：高醫是","https://www.ptt.cc/bbs/Gossiping/M.1551447171.A.C6C.html","ptt","61.227.14.136"
+"13",209,"2019-04-18T17:05:57.494Z","5cb8ae75a525820c30ec032d","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'godbar', 'cmtContent': ':全部併在一起變成國際第一大高雄大學', 'cmtDate': '2019-03-01 15:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'a3899200', 'cmtContent': ':中山高大併校進行中，各系所老師也有會面過了，我猜這新', 'cmtDate': '2019-03-01 15:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'a3899200', 'cmtContent': ':聞是中山想併但併不到在放消息', 'cmtDate': '2019-03-01 15:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bgp895405', 'cmtContent': ':幾乎確定跟高大併了', 'cmtDate': '2019-03-01 15:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'r51211214', 'cmtContent': ':b站的殘美都被砍光啦', 'cmtDate': '2019-03-01 15:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'atpx', 'cmtContent': ':吃高雄大學幹嘛?不論學生素質跟學術聲望都屌輸', 'cmtDate': '2019-03-01 15:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nchrist', 'cmtContent': ':以資管系來說，高大老師怎麼跟中山比...', 'cmtDate': '2019-03-01 15:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nchrist', 'cmtContent': ':可能都要降等吧差太多了', 'cmtDate': '2019-03-01 15:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'WanCa', 'cmtContent': ':中山不知道會不會遷校有聽說', 'cmtDate': '2019-03-01 17:45:00+00:00'}]","看到這則新聞R
+
+讓我想到
+
+我的一個朋友因為在追
+乃木坂46
+的最新恐怖連續劇
+""""ザンビ(殘美)""""
+追到晚上都沒睡好
+
+跟他出去玩還會打瞌睡
+
+像今天跟他去夢時代逛
+
+午餐吃著吃著打起瞌睡時就突然在那邊說夢話
+
+說是
+
+他們公司尾牙的時候R
+
+公司好像有邀請一位民進黨籍的劉姓女立委來
+
+並讓她上台跟大家說說話
+
+內容除了國艦國造、武器自主開發案之類的等等等外要仰賴台下們正在吃尾牙的研究精英外呢
+
+還說了中山大學跟高雄大學的合併案
+
+已經通過校務會議討論然後也送教育部惹
+
+說到這邊
+
+他就哭醒來說：嗚嗚嗚，我沒抽到Misa的Solo Live票
+
+
+
+怎麼
+
+現在又蹦出一個要跟高醫合併的消息呢???
+
+這叫未來的中山大學楠梓校區
+
+該何去何從呢???
+
+","2019-03-01T07:09:10.000Z",0,"QBRoboT","Re:[新聞]公私併校第一例？中山大學校長：高醫是","https://www.ptt.cc/bbs/Gossiping/M.1551453315.A.027.html","ptt","59.127.200.69"
+"14",214,"2019-04-18T17:05:57.529Z","5cb8ae75a525820c30ec0332","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'CS5566', 'cmtContent': ':這應該會超越中大', 'cmtDate': '2019-03-05 10:12:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 's72005ming', 'cmtContent': ':大醫學時代', 'cmtDate': '2019-03-05 10:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'azytjr', 'cmtContent': ':中山醫表示我們不是有醫學系了？？？', 'cmtDate': '2019-03-05 10:12:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'lolic', 'cmtContent': ':高雄中山要超越台大了', 'cmtDate': '2019-03-05 10:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kris4588', 'cmtContent': ':要跟中山醫輸贏了', 'cmtDate': '2019-03-05 10:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YLTYY', 'cmtContent': ':多點醫生，就不會這麼累了', 'cmtDate': '2019-03-05 10:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'RTA', 'cmtContent': ':這學校是瘋了嗎', 'cmtDate': '2019-03-05 10:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'pikakami', 'cmtContent': ':（中山醫混亂中）', 'cmtDate': '2019-03-05 10:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kvn6933630', 'cmtContent': ':真楔中s醫', 'cmtDate': '2019-03-05 10:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'HwaSIn', 'cmtContent': ':學士後醫也有補習班', 'cmtDate': '2019-03-05 10:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'tfhkrt', 'cmtContent': ':117站出來', 'cmtDate': '2019-03-05 10:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'banislolz', 'cmtContent': ':中山醫vs中山醫', 'cmtDate': '2019-03-05 10:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'doro0202', 'cmtContent': ':一個高雄需要這麼多後醫班喔==?', 'cmtDate': '2019-03-05 10:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'LaplaceDemon', 'cmtContent': ':高醫自己就有後醫了', 'cmtDate': '2019-03-05 10:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'azopper', 'cmtContent': ':加入中山，賺錢如山', 'cmtDate': '2019-03-05 10:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'anoreader', 'cmtContent': ':高雄是不是轉型成後醫聖地了？', 'cmtDate': '2019-03-05 10:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'justhappily', 'cmtContent': ':和中山醫怎麼分辨?', 'cmtDate': '2019-03-05 10:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'anoreader', 'cmtContent': ':話說真的考後醫還不如去考指考比較快', 'cmtDate': '2019-03-05 10:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Tenging', 'cmtContent': ':高醫:去你媽的', 'cmtDate': '2019-03-05 10:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Lime5566', 'cmtContent': ':中山醫（高雄）', 'cmtDate': '2019-03-05 10:22:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'aditionality', 'cmtContent': ':中山醫醫', 'cmtDate': '2019-03-05 10:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'SP500', 'cmtContent': ':讚讚廣設醫科降國考錄取率', 'cmtDate': '2019-03-05 10:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zergaiur', 'cmtContent': ':當然是，廣設醫科，同時提高錄取率。。過勞的問題才減少', 'cmtDate': '2019-03-05 10:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'nullife', 'cmtContent': ':中山起飛??', 'cmtDate': '2019-03-05 10:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zergaiur', 'cmtContent': ':為啥醫生一定要加班，一天上7小時，一個月5萬也是很棒啊', 'cmtDate': '2019-03-05 10:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'TMG5566', 'cmtContent': ':醫學院設立教育學程沒錢開業可以去國中教健康教育喔>.^*', 'cmtDate': '2019-03-05 10:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cc02040326', 'cmtContent': ':中山醫', 'cmtDate': '2019-03-05 10:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'colchi', 'cmtContent': ':高雄榮總不算國立教學醫院？？', 'cmtDate': '2019-03-05 10:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cc02040326', 'cmtContent': ':加這高雄就有三間後醫了發大財', 'cmtDate': '2019-03-05 10:34:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'WWIII', 'cmtContent': ':哇靠真中大要來了擠升成五大', 'cmtDate': '2019-03-05 10:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'parquet', 'cmtContent': ':推推多設一點這樣才不會過勞', 'cmtDate': '2019-03-05 10:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'littleaoc', 'cmtContent': ':大家都是醫生', 'cmtDate': '2019-03-05 10:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'littleaoc', 'cmtContent': ':廣設大學之後就是廣設醫學院', 'cmtDate': '2019-03-05 10:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'reexamor', 'cmtContent': ':成立之後將成為四中之首！！！', 'cmtDate': '2019-03-05 10:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Tchachavsky', 'cmtContent': ':小魏以後就不用北上了', 'cmtDate': '2019-03-05 10:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'deani', 'cmtContent': ':要上醫學系考指考真的比較快', 'cmtDate': '2019-03-05 10:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'perfects1988', 'cmtContent': ':...請問後醫跟波波哪個可怕?!', 'cmtDate': '2019-03-05 10:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Chirsaka', 'cmtContent': ':中大之首', 'cmtDate': '2019-03-05 10:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ganglia01', 'cmtContent': ':波波也是後醫制的，外國後醫制的。中山和高醫是正宗台', 'cmtDate': '2019-03-05 11:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ganglia01', 'cmtContent': ':台後醫XDDDD', 'cmtDate': '2019-03-05 11:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Busufu', 'cmtContent': ':後醫比一般難考', 'cmtDate': '2019-03-05 11:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'shala', 'cmtContent': ':南部人超愛考醫生der', 'cmtDate': '2019-03-05 11:04:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'n791116', 'cmtContent': ':後醫不是都內定的嗎', 'cmtDate': '2019-03-05 11:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pttsea', 'cmtContent': ':後醫考題難度比指考高', 'cmtDate': '2019-03-05 11:19:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'ZaneTrout', 'cmtContent': ':先噓', 'cmtDate': '2019-03-05 11:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'minigg', 'cmtContent': ':520位中的30位有醫學相關背景??所以後醫學系只要30位就可', 'cmtDate': '2019-03-05 11:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'minigg', 'cmtContent': ':以包辦?真可怕的無知', 'cmtDate': '2019-03-05 11:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bgp895405', 'cmtContent': ':國立中山醫vs私立中山醫XD', 'cmtDate': '2019-03-05 11:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zhangyoulin', 'cmtContent': ':一個中山醫個自表述', 'cmtDate': '2019-03-05 12:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'scoutjack', 'cmtContent': ':北台大南中山', 'cmtDate': '2019-03-05 12:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cheaptool', 'cmtContent': ':後醫不是很難考嗎？', 'cmtDate': '2019-03-05 13:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'comp6118', 'cmtContent': ':中山醫大戰', 'cmtDate': '2019-03-05 13:55:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'colinfeng', 'cmtContent': ':南部不就有成大醫，只敢說高屏地區。', 'cmtDate': '2019-03-05 14:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ctman1228', 'cmtContent': ':往後會有第三家後醫嗎?', 'cmtDate': '2019-03-05 17:53:00+00:00'}]","1.媒體來源:
+自由
+
+2.完整新聞標題:
+第二所學士後醫學系！中山大學報部 最快6月核示
+
+3.完整新聞內文:
+
+〔記者黃旭磊／高雄報導〕中山大學擬在仁武區24公頃校地新建醫學院，校方在今年1月
+將學士後醫學系計畫報請教育部，最快6月核示。
+
+中山大學籌建醫學院進度一波波，校長鄭英耀先於《高教評鑑雙月刊》提出「公私併」概
+念，力倡與私立高雄醫學大學併校，由於需經校方及高醫大董事會同意，變數多，對此，
+鄭英耀說，「將走自己的路」，已於1月向教育報申報學士後醫學系申請計畫，6月將有核
+示結果。
+
+鄭英耀說，高屏地區長久缺乏國立教學醫院，醫療人才往中北部流動，而高雄榮民總醫院
+等區域醫療中心也沒有綜合性大學師資、學生挹注，鄰近仁武區正好有中山校地，結合成
+為高屏區第一家公立教學醫學院具地利之便。
+
+中山大學醫學院將設學士後醫學系、生物醫學及醫藥科技研究所，現有520多名師資中，
+有30多位具醫學相關背景，可望繼高雄醫學大學學士後醫學系，成為全台第二家後醫系所
+（義守大學後醫系所為國外學生專班）。
+
+鄭英耀以美國臨床體系由研發科技團隊支援比喻，認為我國臨床較缺乏與醫材輔具結合，
+校方有工學院、海科院研發能量，「醫療用光學照明技術，對於光電系所師生並不困難。
+」
+
+4.完整新聞連結 (或短網址):
+https://news.ltn.com.tw/news/life/breakingnews/2717013?utm_medium=M&utm_campaign=SHARE&utm_source=LINE
+https://tinyurl.com/y3mzrskr
+5.備註:
+","2019-03-05T02:11:39.000Z",0,"i19890813","[新聞]第二所學士後醫學系！中山大學報部最快6","https://www.ptt.cc/bbs/Gossiping/M.1551781065.A.6A7.html","ptt","140.112.54.87"
+"15",215,"2019-04-18T17:05:57.529Z","5cb8ae75a525820c30ec0333","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'flavorBZ', 'cmtContent': ':有兩個中山醫學系了XD', 'cmtDate': '2019-03-05 12:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS1017', 'cmtContent': ':中山大學起飛', 'cmtDate': '2019-03-05 12:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'duygy952671', 'cmtContent': ':恭喜中山成為四中之首', 'cmtDate': '2019-03-05 12:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'flavorBZ', 'cmtContent': ':等一下。台灣人的身體有這麼差嗎', 'cmtDate': '2019-03-05 12:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'flavorBZ', 'cmtContent': ':還是健保免錢看給它爽', 'cmtDate': '2019-03-05 12:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'flavorBZ', 'cmtContent': ':不會再加三代四代健保吧', 'cmtDate': '2019-03-05 12:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ImBBCALL', 'cmtContent': ':幹中山要井噴了', 'cmtDate': '2019-03-05 12:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Cliffx', 'cmtContent': ':AAAAAAAA', 'cmtDate': '2019-03-05 12:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'minicoke', 'cmtContent': ':直接起飛', 'cmtDate': '2019-03-05 12:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 't81511270', 'cmtContent': ':獸醫系??吱吱福音', 'cmtDate': '2019-03-05 12:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 't81511270', 'cmtContent': ':中山正式成為四中之首', 'cmtDate': '2019-03-05 12:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'louic', 'cmtContent': ':中興：大臺中地區，也沒國立醫學系啊..況且我早已有醫學院', 'cmtDate': '2019-03-05 12:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Nevhir', 'cmtContent': ':機會有很高嗎?他的名額要從哪挖?', 'cmtDate': '2019-03-05 12:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'u9005205', 'cmtContent': ':所以誰又要少名額？', 'cmtDate': '2019-03-05 12:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'faycos', 'cmtContent': ':生源不足還搞新學系？', 'cmtDate': '2019-03-05 12:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'weijidai', 'cmtContent': ':清交中央都還沒有醫學院會讓你中山想太多', 'cmtDate': '2019-03-05 13:11:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'medi5566', 'cmtContent': ':拜託收公費', 'cmtDate': '2019-03-05 13:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'alex00089', 'cmtContent': ':生意難做搞高單價的咩', 'cmtDate': '2019-03-05 13:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'MartianIT', 'cmtContent': ':麻州工專沒有醫學系只有把HSTMD/PhD學程送過河學醫', 'cmtDate': '2019-03-05 14:29:00+00:00'}]","(影)第二所學士後醫學系！中山大學報部 最快6月核示
+https://news.ltn.com.tw/news/life/breakingnews/2717013
+自由，連結有影音
+
+2019-03-05 17:19
+〔記者黃旭磊／高雄報導〕中山大學擬在仁武區24公頃校地新建醫學院，校方在今年1月
+將學士後醫學系計畫報請教育部，最快6月核示。
+
+中山大學籌建醫學院進度一波波，校長鄭英耀先於《高教評鑑雙月刊》提出「公私併」概
+念，力倡與私立高雄醫學大學併校，由於需經校方及高醫大董事會同意，變數多，對此，
+鄭英耀說，「將走自己的路」，已於1月向教育報申報學士後醫學系申請計畫，6月將有核
+示結果。
+
+鄭英耀說，高屏地區長久缺乏國立教學醫院，醫療人才往中北部流動，而高雄榮民總醫院
+等區域醫療中心也沒有綜合性大學師資、學生挹注，鄰近仁武區正好有中山校地，結合成
+為高屏區第一家公立教學醫學院具地利之便。
+
+中山大學醫學院將設學士後醫學系、生物醫學及醫藥科技研究所，現有520多名師資中，
+有30多位具醫學相關背景，可望繼高雄醫學大學學士後醫學系，成為全台第二家後醫系所
+（義守大學後醫系所為國外學生專班）。
+
+鄭英耀以美國臨床體系由研發科技團隊支援比喻，認為我國臨床較缺乏與醫材輔具結合，
+校方有工學院、海科院研發能量，「醫療用光學照明技術，對於光電系所師生並不困難。
+」
+
+.........
+學醫的看過來
+..
+","2019-03-05T04:17:47.000Z",0,"pigoilstand","[新聞]第二所學士後醫學系！中山大學報部最快6","https://www.ptt.cc/bbs/Gossiping/M.1551788630.A.3CE.html","ptt","60.245.65.134"
+"16",226,"2019-04-18T17:05:57.529Z","5cb8ae75a525820c30ec033e","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'Julian9x9x9', 'cmtContent': ':支票開起來反正做不成都是中央的錯', 'cmtDate': '2019-03-21 15:15:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Spinner3', 'cmtContent': ':抓到了民進黨卡韓', 'cmtDate': '2019-03-21 15:16:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'g10', 'cmtContent': ':韓總書記說可以就可以雞雞歪歪什麼', 'cmtDate': '2019-03-21 15:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yyc1217', 'cmtContent': ':沒有做夢的勇氣', 'cmtDate': '2019-03-21 15:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wwf0322', 'cmtContent': ':禿頭嚎洨然後議員當真', 'cmtDate': '2019-03-21 15:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gogoto990', 'cmtContent': ':沒有夢想', 'cmtDate': '2019-03-21 15:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'woodyj', 'cmtContent': ':想不出辦法，那麼辦公地點...', 'cmtDate': '2019-03-21 15:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pchunters123', 'cmtContent': ':沒有唬爛的勇氣，真可撥', 'cmtDate': '2019-03-21 15:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tonyko13', 'cmtContent': ':韓國瑜出來面對！', 'cmtDate': '2019-03-21 15:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'allenatptt', 'cmtContent': ':哈哈哈哈哈高雄人uccu哈哈哈哈哈', 'cmtDate': '2019-03-21 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'steven0503', 'cmtContent': ':都是民進黨派來的打手來擋韓導你們不敢做夢啦', 'cmtDate': '2019-03-21 15:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'doomhammer', 'cmtContent': ':也就是說沒評估過就先放話？？', 'cmtDate': '2019-03-21 15:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'fallinlove15', 'cmtContent': ':翅膀硬了啊市長的面子不給？舉債都要蓋出來啊', 'cmtDate': '2019-03-21 15:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hhnhhnhhn', 'cmtContent': ':做不出來，通通去禮堂辦公', 'cmtDate': '2019-03-21 15:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'silentence', 'cmtContent': ':廢話台灣人都說不出自己上次什麼時候看賽馬吧', 'cmtDate': '2019-03-21 15:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'julia66', 'cmtContent': ':韓導：中央又在卡高雄', 'cmtDate': '2019-03-21 15:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'neverfly', 'cmtContent': ':下禮拜開始市議會改在大禮堂開', 'cmtDate': '2019-03-21 15:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'soarling', 'cmtContent': ':韓總：賽馬沒有沒關係我們還有賽車', 'cmtDate': '2019-03-21 15:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'h73o1012', 'cmtContent': ':韓粉：不管啦發大財法律跟著禿子走', 'cmtDate': '2019-03-21 15:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ssiou', 'cmtContent': ':我知道這個劇本：民進黨卡韓', 'cmtDate': '2019-03-21 15:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'geesegeese', 'cmtContent': ':一定是台灣法律管太多跟不上韓總的腳步', 'cmtDate': '2019-03-21 15:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yutinbabe', 'cmtContent': ':沒有做夢的勇氣', 'cmtDate': '2019-03-21 15:36:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zxzzzzzzzzzz', 'cmtContent': ':曬馬ok噢', 'cmtDate': '2019-03-21 15:38:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'm21423', 'cmtContent': ':民進黨不要再卡喔', 'cmtDate': '2019-03-21 15:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'FreeKnight', 'cmtContent': ':韓選上總統後修改現行法令就解套了', 'cmtDate': '2019-03-21 15:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'subohan', 'cmtContent': ':認真問一下賽馬不行那賽鴿可以合法嗎', 'cmtDate': '2019-03-21 15:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'linhu8883324', 'cmtContent': ':笑死了都沒人說賽馬是可行!看來不可能了', 'cmtDate': '2019-03-21 15:48:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'TWkiller', 'cmtContent': ':民進黨政府不配合高雄市修改法律就算了，香港澳門日本', 'cmtDate': '2019-03-21 15:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'TWkiller', 'cmtContent': ':賽馬也不願意自己關門禮讓高雄，2020補刀', 'cmtDate': '2019-03-21 15:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ob962', 'cmtContent': ':草包會嚴肅就不叫草包了', 'cmtDate': '2019-03-21 15:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'g10', 'cmtContent': ':不行賽馬賽狗或賽豬可以吧', 'cmtDate': '2019-03-21 15:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'c780412', 'cmtContent': ':轉移注意力啊假裝自己有在推政策說真的這招真的很爛', 'cmtDate': '2019-03-21 15:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'c780412', 'cmtContent': ':不過挺還是會盲目挺', 'cmtDate': '2019-03-21 15:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'slayer6603', 'cmtContent': ':賽馬沒有那摩天輪總該開始蓋了吧', 'cmtDate': '2019-03-21 15:55:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Ahao', 'cmtContent': ':對對對先別管賽馬了性專區產業鏈一定要趕快做', 'cmtDate': '2019-03-21 16:07:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ckland', 'cmtContent': ':又要說別人卡他了', 'cmtDate': '2019-03-21 16:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'vipdog0712', 'cmtContent': ':是不是又要說中央卡他了呢', 'cmtDate': '2019-03-21 16:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'btoco', 'cmtContent': ':小聲點，等等嗆你坐沒坐象…', 'cmtDate': '2019-03-21 16:36:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tomandnico', 'cmtContent': ':靠杯打韓阿韓粉進貢囉', 'cmtDate': '2019-03-21 16:38:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cyclohexane', 'cmtContent': ':一定是高雄機場不能降落747賽馬進不來', 'cmtDate': '2019-03-21 16:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'RCFLNS', 'cmtContent': ':咦？是不是沒作夢的勇氣？', 'cmtDate': '2019-03-21 16:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'demo68', 'cmtContent': ':韓流發威', 'cmtDate': '2019-03-21 17:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'g4zoco196', 'cmtContent': ':韓流~~~~發威~~', 'cmtDate': '2019-03-21 17:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'metcc80211', 'cmtContent': ':以為迎來南部柯文哲，結果又是馬英九', 'cmtDate': '2019-03-21 17:45:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'enemyli', 'cmtContent': ':路邊野狗都知道不可能評三小估高雄人智商比狗低可悲', 'cmtDate': '2019-03-21 17:56:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'GPX2020', 'cmtContent': ':馬的台灣連棒球隊都養不起跑個屁馬', 'cmtDate': '2019-03-21 18:09:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Argyris', 'cmtContent': ':改賽跑場就好，韓總跟白賊上去跑給大家下注', 'cmtDate': '2019-03-21 19:16:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rayonwu', 'cmtContent': ':有笑有推', 'cmtDate': '2019-03-21 21:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'heavenkghs', 'cmtContent': ':哈哈哈你看看你', 'cmtDate': '2019-03-21 23:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hellam', 'cmtContent': ':笑死', 'cmtDate': '2019-03-22 00:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'stoneofsea', 'cmtContent': ':高雄人會不會其實都是智障啊', 'cmtDate': '2019-03-22 00:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bluerinoa', 'cmtContent': ':韓導隨便講講是在認真什麼啦！', 'cmtDate': '2019-03-22 01:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tkucuh', 'cmtContent': ':可以鬥雞...', 'cmtDate': '2019-03-22 01:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'XDD', 'cmtContent': ':韓這個草包在練肖話的也要認真？', 'cmtDate': '2019-03-22 02:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'm4tl6', 'cmtContent': ':喜韓兒要出征了嗎？', 'cmtDate': '2019-03-22 03:21:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'imhideji', 'cmtContent': ':韓市長有評估過什麼了', 'cmtDate': '2019-03-22 04:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'evilcherry', 'cmtContent': ':一堆法盲啊，學杜拜就好……', 'cmtDate': '2019-03-22 04:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ryankkk', 'cmtContent': ':草包', 'cmtDate': '2019-03-23 11:17:00+00:00'}]","高市議會公聽會評估賽馬：幾乎不具可行性
+
+〔記者王榮祥／高雄報導〕高市議會今針對市長韓國瑜積極推動的賽馬產業召開公聽會，
+質疑市府內部各項政策風險評估、政策規劃均無明顯方向，且違反現行法令，幾乎不具可
+行性，呼籲高雄市政府要嚴肅、審慎面對。
+
+針對高雄市長韓國瑜多次提出要在高雄發展賽馬產業，並公開透露四月將提交評估報告給
+高市議會審議，為探討市府提出賽馬產業的合法性與可行性，高市議員邱俊憲、簡煥宗、
+何權峰、高閔琳、李柏毅等人，今連袂於議會邀請相關局處、學者專家及民間團體召開公
+聽會。
+
+會中發現，高市府要推動賽馬產業將面臨動保法與刑法（賭博罪）限制，目前是無法突破
+，並不具可行性。
+
+而市府內部雖已召開兩次工作會議，但各項政策風險評估、政策規劃也沒有初步明顯的方
+向；與會者對此多所批判，並建議市府文官同仁應秉持專業、依法行政，要明確讓韓市長
+及決策高層知道，發展賽馬產業是違反現行法令，不具可行性的，請高市府要嚴肅審慎面
+對。
+
+與會學者中山大學教授李予綱指出，從藍海策略觀點來講，現在全世界那麼多賽馬，如果
+高雄真要辦賽馬，要如何吸引客群願意來高雄，高雄與鄰近的香港、澳門甚至日本又有何
+競爭力？樹德科大教授廖冠傑表示，今天韓市府說要人進來高雄，包含外國人和本國人，
+若只是讓國人多一項娛樂，賽馬產業確實可考慮，但對於國外旅客吸引力弱，若要發大財
+，賽馬產業顯然並非高雄需要的首要考量。
+
+民間團體高雄好過日理事李欣翰針也提出相關質疑，包括場地土地從哪來、賭博相關法令
+如何突破、產業權責由誰負責等；台灣動物保護行政監督聯盟執行長何宗勳認為，賽馬產
+業將會是韓國瑜的地雷，強推類博奕產業的行為，將與動保、家長、宗教、環保等等民間
+團體為敵。
+
+在法令無法解套，地方政府不具行政權限的狀況下，何宗勳執行長建議韓市長可能得透過
+選總統、或舉辦全國性公投，才有可能完成他的賽馬夢。
+
+市議員高閔琳表示，反對賽馬產業進入高雄的立場，並質疑賽馬產業是否真能為高雄帶來
+財源？利用既有高雄特色來發展觀光產業無法帶來效益嗎？博弈產業與治安的問題，對整
+個社會有正向影響嗎？要求韓市府團隊應發揮專業精神，誠實地告訴韓市長甚麼能做甚麼
+不能做。
+
+她認為與其推動賽馬，不如好好推動馬術運動以及動物治療，沒有必要透過虐待動物來換
+取我們的財物滿足。
+
+邱俊憲議員表示，今天是透過非常嚴肅、認真的公聽會來釐清討論韓市長的政策主張，不
+可思議的發現，市府局處同仁是很清楚、賽馬產業在適法性和可行性方面，以地方政府權
+限是做不到的，但韓市長仍不斷地要求他們去找辦法。
+
+他質疑，市府雖已開了兩次賽馬產業跨局處工作會議，但相關政策風險評估仍不清晰，更
+遑論市府必須去凝聚社會各界的共識以及消弭不同的疑慮，與會議員們強調，將要求市府
+將相關討論與評估報告公開，讓社會各界能夠清楚高雄市政府的相關主張與規劃，推動公
+共政策的過程必須要更加完備周延，攸關市民權益與市政發展的議題，不能隨口說說都沒
+關係，新市府要更加嚴肅面對各界的質疑與不同聲音。
+
+(自由時報)
+https://news.ltn.com.tw/news/politics/breakingnews/2734776","2019-03-21T07:15:06.000Z",0,"Lime5566","[新聞]高市議會公聽會評估賽馬：幾乎不具可行性","https://www.ptt.cc/bbs/Gossiping/M.1553181669.A.E69.html","ptt","218.173.20.53"
+"17",245,"2019-04-18T17:05:57.565Z","5cb8ae75a525820c30ec0351","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'shiauji', 'cmtContent': ':基礎科學畢業的在台灣只會被歧視好嗎別害人了', 'cmtDate': '2019-03-30 05:12:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DataMaster', 'cmtContent': ':現在少子化名額還是1300個還有廢物考不上醫科嗎', 'cmtDate': '2019-03-30 05:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':基礎科學在美國也是被當糞土啦領糞土薪水', 'cmtDate': '2019-03-30 05:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'maxgopon', 'cmtContent': ':公私立合併難度很高', 'cmtDate': '2019-03-30 05:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'christopherl', 'cmtContent': ':美國生科也是很多失業', 'cmtDate': '2019-03-30 05:14:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'formatted', 'cmtContent': ':美國生科也要看方向啦', 'cmtDate': '2019-03-30 05:15:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'k44754', 'cmtContent': ':懶教啦，高醫背後是高雄陳家喔', 'cmtDate': '2019-03-30 05:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':台灣五大家族之一，想併??', 'cmtDate': '2019-03-30 05:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'formatted', 'cmtContent': ':高醫已經完全是陳家的形狀無誤啊這十年來都在內鬥', 'cmtDate': '2019-03-30 05:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':陳家私人財禪，怎可能讓你政府有插手空間', 'cmtDate': '2019-03-30 05:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':財產', 'cmtDate': '2019-03-30 05:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':杜聰明這創辦人，也被抹滅掉了啦', 'cmtDate': '2019-03-30 05:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mightymouse', 'cmtContent': ':一百個高中生就有一個能讀醫學系，已經是全世界前幾', 'cmtDate': '2019-03-30 05:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mightymouse', 'cmtContent': ':高的了，還要再開放XD', 'cmtDate': '2019-03-30 05:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':學校銅像寫創辦人-陳啟川', 'cmtDate': '2019-03-30 05:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'formatted', 'cmtContent': ':台灣醫藥業要這樣搞就等著跨吧白癡', 'cmtDate': '2019-03-30 05:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'formatted', 'cmtContent': ':杜聰明後人怎麼被高醫鬥走的就不說了', 'cmtDate': '2019-03-30 05:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':那些醫學大學都財團法人，誰鳥你地名大學啊~', 'cmtDate': '2019-03-30 05:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':明明小時候看書是寫杜聰明創的', 'cmtDate': '2019-03-30 05:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':怎進去學校卻是姓陳的~', 'cmtDate': '2019-03-30 05:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ttn851227', 'cmtContent': ':其實醫科也是靠背科啊==', 'cmtDate': '2019-03-30 05:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DataMaster', 'cmtContent': ':為什麼台灣人一直幻想國外基礎科學是最優秀的人在讀', 'cmtDate': '2019-03-30 05:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':的阿', 'cmtDate': '2019-03-30 05:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':事實就是地球上沒有一個國家的基礎科學主要是由最會', 'cmtDate': '2019-03-30 05:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':念書的最優秀的人在做的', 'cmtDate': '2019-03-30 05:28:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':在本星球會去做基礎科學的多是二流人。一流人都是', 'cmtDate': '2019-03-30 05:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':高度產業化的應用科學金融', 'cmtDate': '2019-03-30 05:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'MDCCLXXVI', 'cmtContent': ':陳家醫院賺錢就好學校賠錢貨管他去死', 'cmtDate': '2019-03-30 05:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':一流人腦袋都很聰明多都是選有錢途的領域', 'cmtDate': '2019-03-30 05:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':少拿特例說嘴', 'cmtDate': '2019-03-30 05:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':如果美國最優秀的學生都不當醫生去念基礎科學人類科', 'cmtDate': '2019-03-30 05:32:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':技會比目前進步好幾倍但別傻了', 'cmtDate': '2019-03-30 05:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mightymouse', 'cmtContent': ':幾乎全世界都是一流人才讀醫啊，台灣的醫學研究能力', 'cmtDate': '2019-03-30 05:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'mightymouse', 'cmtContent': ':我覺得以人口比例來看根本超強', 'cmtDate': '2019-03-30 05:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':但人類選擇了資本主義制度沒產值的基礎科學當然要低', 'cmtDate': '2019-03-30 05:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':薪才正常', 'cmtDate': '2019-03-30 05:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':基礎科學要做出成果才有產值在沒成果之前都是沒產值', 'cmtDate': '2019-03-30 05:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':的糞土低薪很正常美國基礎科學也很低薪', 'cmtDate': '2019-03-30 05:35:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dymagic', 'cmtContent': ':不用設立，統一後醫師變成貧戶江湖郎中', 'cmtDate': '2019-03-30 05:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DataMaster', 'cmtContent': ':美國基礎科學薪資是有比醫生高吃屎吧', 'cmtDate': '2019-03-30 05:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':美國博後才領多少屁錢有5萬美金嗎教授更是被主治醫', 'cmtDate': '2019-03-30 05:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DataMaster', 'cmtContent': ':師電爆笑死人才念基礎科學乖乖接受現實世界不跟你', 'cmtDate': '2019-03-30 05:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':玩「發現真理好棒棒」那套啦多數人只想賺錢資本主義', 'cmtDate': '2019-03-30 05:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':也不允許低產值連商業化都談不上的基礎科學領高薪根', 'cmtDate': '2019-03-30 05:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':本就一群沒產值的人還想領跟醫生一樣多lol', 'cmtDate': '2019-03-30 05:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DataMaster', 'cmtContent': ':做基礎科學的真的都很愛自命清高但明明大多數人一輩', 'cmtDate': '2019-03-30 05:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':子都做不出什麼大成果結果每個幻想自己是愛因斯坦lol', 'cmtDate': '2019-03-30 05:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':多數就像物理哥那樣把大學學問學得很熟然後沒了', 'cmtDate': '2019-03-30 05:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':幾篇不太受注目的論文沒了然後還覺得世界虧待他這', 'cmtDate': '2019-03-30 05:54:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DataMaster', 'cmtContent': ':麼努力發掘真理還低薪一副很委屈的樣子lol', 'cmtDate': '2019-03-30 05:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'shown21', 'cmtContent': ':我也覺得法律系應該像美國改成學士後制度', 'cmtDate': '2019-03-30 06:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'uptotheair', 'cmtContent': ':台灣是因為日本統治時期，經際政治大權都要掌握在日人', 'cmtDate': '2019-03-30 06:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uptotheair', 'cmtContent': ':手上，至於醫療,教育等無傷大雅的領域才放給台灣人，', 'cmtDate': '2019-03-30 06:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uptotheair', 'cmtContent': ':也就塑成一流台灣人都擠醫科的現象。其實去細想醫療', 'cmtDate': '2019-03-30 06:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uptotheair', 'cmtContent': ':的本質，需要的其實不是聰明而是熟練，人才擠這裡是真', 'cmtDate': '2019-03-30 06:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uptotheair', 'cmtContent': ':的可惜了', 'cmtDate': '2019-03-30 06:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'uptotheair', 'cmtContent': ':*經濟', 'cmtDate': '2019-03-30 06:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'todao', 'cmtContent': ':醫、法都學士後的話，上品無寒門了', 'cmtDate': '2019-03-30 07:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'todao', 'cmtContent': ':窮人沒辦法撐那麼久唸學士後', 'cmtDate': '2019-03-30 07:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'todao', 'cmtContent': ':而且台灣現制並沒有比較差，不需要搞學士後', 'cmtDate': '2019-03-30 07:22:00+00:00'}]","根本不該讓他們過
+教育部該做的是促成中興、中山醫合併
+                  中山、高雄醫合併
+而不是新設立兩所醫學系
+
+其中中山醫是醫學系裡面的吊車尾，趕快跟國立大學合併才有可能起死回生、逆轉勝
+至於高雄醫則有轉型正義的問題，學生也經常上網爆料學校賣校地、或是宿舍漲價的問題
+那還不如直接接管，跟國立大學合併
+
+並且中山、高雄大、高雄醫合併成兩萬人左右的高雄大學
+
+更重要的是要取消醫學系大學部，所有要讀醫學的從研究所開始讀
+這樣才有可能讓優秀學生讀基礎科學
+
+包含法律系也應該廢除大學部
+
+不應該讓社會、自然組的最高分都跑去搶這種知識末端的科系、靠死背的科系
+優秀的學生就應該讀基礎學科、增加思考力才對
+所以才說不該讓最聰明的學生高中畢業就讀醫學、法律
+就算學生以醫學為目標，至少高中畢業時讀的是基礎科學
+這樣學生續讀基礎科學的機率增加，就算還是轉到醫學，至少可以增加醫生跟基礎科學
+的連結，增加研究時的合作
+你這個結論就太過頭了
+那就讓他們繼續開醫院，但是把醫學系的名額轉移給『新高雄大學』
+台灣到現在沒有半個諾貝爾生理醫學獎得主，強在哪裡？
+中華民國有醫學研究嗎？只是把醫術訓練熟練而已
+你懂甚麼美國？你不是假新加坡人嗎？
+日本時代，台灣的醫療、衛生條件都很差，所以在那個時代將醫療列為發展的第一優先
+是正確的，至於在普遍教育程度低落的情況下，實施義務教育也是正確的
+但是跟著時代的改變，台灣早就沒有大規模的傳染病了，那就應該改變策略了
+
+至於說政治經濟都如何，所以才讓台灣讀醫學、教育等說法
+只是中華民國黨國體系，以一個外來的、跟日本有仇恨的立場角度灌輸的想法
+胡言亂語只是不想改革而已，醫學院讀6、7年跟讀完大學在讀學士後有甚麼差別？","2019-03-29T21:11:24.000Z",0,"oftisa","Re:[新聞]中興、中山申設醫學系6月審議","https://www.ptt.cc/bbs/Gossiping/M.1553923047.A.BDA.html","ptt","219.68.209.51"
+"18",254,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec035a","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'earnformoney', 'cmtContent': ':排版啦', 'cmtDate': '2019-04-09 08:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zerger3546', 'cmtContent': ':中山學店還想併人？？', 'cmtDate': '2019-04-09 08:05:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zerger3546', 'cmtContent': ':至少也要中央等級吧嘻嘻', 'cmtDate': '2019-04-09 08:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Rylix', 'cmtContent': ':可憐', 'cmtDate': '2019-04-09 08:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'daye2012', 'cmtContent': ':台北銀行併富邦阿', 'cmtDate': '2019-04-09 08:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'z0953781935', 'cmtContent': ':說真的，唸國立尾真好，都這樣免費升級的', 'cmtDate': '2019-04-09 08:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 's89029', 'cmtContent': ':我支持併校後校友變多', 'cmtDate': '2019-04-09 08:08:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'einard666', 'cmtContent': ':不然要併什麼你想併人家就要跟你併嗎', 'cmtDate': '2019-04-09 08:09:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS85', 'cmtContent': ':我所認識的高大的都是蠻想併的啦', 'cmtDate': '2019-04-09 08:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'BS85', 'cmtContent': ':中山也沒贏高大多少吧', 'cmtDate': '2019-04-09 08:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'azrael1011', 'cmtContent': ':高山大學！感覺就是會在主角路上的競爭對手大學', 'cmtDate': '2019-04-09 08:22:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'DellSale999', 'cmtContent': ':西子灣跟楠梓哪會很遠，援中港水上摩托車開過去', 'cmtDate': '2019-04-09 08:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'DellSale999', 'cmtContent': ':到時候再蓋一條西援大橋就飛上天了', 'cmtDate': '2019-04-09 08:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'k44754', 'cmtContent': ':啊不是說要吃高醫，笑死', 'cmtDate': '2019-04-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':中山那校長整天幻想併人學校', 'cmtDate': '2019-04-09 08:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':還要搞醫學系', 'cmtDate': '2019-04-09 08:34:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'samitsai', 'cmtContent': ':並中山醫到底要幹嘛', 'cmtDate': '2019-04-09 08:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'samitsai', 'cmtContent': ':兩間都沒地', 'cmtDate': '2019-04-09 08:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'samitsai', 'cmtContent': ':並高大爽拿法律還有用不完的地', 'cmtDate': '2019-04-09 08:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'samitsai', 'cmtContent': ':整間中山搬過來都沒問題', 'cmtDate': '2019-04-09 08:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'samitsai', 'cmtContent': ':*高醫', 'cmtDate': '2019-04-09 08:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS85', 'cmtContent': ':高大校地825197平方公尺中山校地305295平方公尺', 'cmtDate': '2019-04-09 08:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'BS85', 'cmtContent': ':高大只有一個校區', 'cmtDate': '2019-04-09 08:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'BS85', 'cmtContent': ':不過高大硬體設備有點爛除非蓋新建築否則也塞不下那麼多人', 'cmtDate': '2019-04-09 08:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zephyr105', 'cmtContent': ':四中自己發展就好了拉併啥科大', 'cmtDate': '2019-04-09 10:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zephyr105', 'cmtContent': ':研究型大學跟實務型大學併啥?', 'cmtDate': '2019-04-09 10:37:00+00:00'}]","因此我在此貼一串轉自低卡校版的文，文中有學校給我們的併校相關資料及大家的看法
+https://www.dcard.tw/f/nsysu/p/231051652?ref=android
+-
+   從資料當中來看，中山在研究資源、教職員生數量、中央經費來看，方方面面都是高大的二至三倍不等，而兩校均面臨學校規模小、學生人數不足等問題。因此，我真的無法理解為什麼學校要找一間科系重疊性高、具相同發展危機但在研究能量差我們這麼多的學校做為併校的第一候選人？是為了那個高雄唯一法學院嗎？還是比我們大一點的校地？我不知道
+
+    先把數據放一邊，我們來看看交通問題。就我讀了中山大學一年多的觀察，我發現高雄多數的大學在校地的分佈上真的很零散，而即將和我們合併的高雄大學在校地上似乎也有這個問題。學校這邊是希望兩校合併之後可以做到資源整合，但楠梓跟西子灣差這麼遠，還有高雄的建工校區、中山柴山上的文學院、未來可能不確定有的仁武校區…。整個學校光校地就零零落落，是要整合什麼，我是真的看不到啦
+
+    說了這麼多，我還是想問一下到底什麼樣的資料告訴學校高層我們可以在合併一間弊大於利的學校後，還能順行無阻、小魚逆流而上的完成以下這件事？
+http://i.imgur.com/AyrsMuP.jpg
+-
+    如果你是中山學生、校友、老師、家長或關心這個議題的人，歡迎來到4/12的公聽會，把我們的想法、訴求理性的告(ㄉㄚˇ)知(ㄌㄧㄢˇ)學校。
+
+     文微長，謝謝看完。
+
+
+
+","2019-04-09T00:04:53.000Z",0,"mandy174","[問卦]有人知道高大和中山合併後前進世界200大","https://www.ptt.cc/bbs/Gossiping/M.1554797455.A.993.html","ptt","101.14.161.136"
+"19",257,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec035d","Gossiping","[{'cmtStatus': '噓', 'cmtPoster': 'qweetyuid15', 'cmtContent': ':干我屁事', 'cmtDate': '2019-04-10 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'laser789', 'cmtContent': ':都是南部有差嗎', 'cmtDate': '2019-04-10 05:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'leopika', 'cmtContent': ':想搶高海大還搶輸的學校', 'cmtDate': '2019-04-10 05:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'superPaladin', 'cmtContent': ':都是學店有差?', 'cmtDate': '2019-04-10 05:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'rererere147', 'cmtContent': ':錢', 'cmtDate': '2019-04-10 05:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'F16V', 'cmtContent': ':有校園偶像嗎', 'cmtDate': '2019-04-10 05:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hsinvanna', 'cmtContent': ':都拉機有差', 'cmtDate': '2019-04-10 05:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'chengyou66', 'cmtContent': ':確定要併？', 'cmtDate': '2019-04-10 05:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'StarTouching', 'cmtContent': ':政府不敢動私校就一直動國立啊', 'cmtDate': '2019-04-10 05:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'andrewkuo', 'cmtContent': ':最後在跟高科大併', 'cmtDate': '2019-04-10 05:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YCTING', 'cmtContent': ':台灣搞不懂人家世界排名玩什麼像不會念的人去天空競技場', 'cmtDate': '2019-04-10 05:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chter', 'cmtContent': ':校方高層：我看的是$、國家資源，學生？whocares', 'cmtDate': '2019-04-10 05:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dripcoffee', 'cmtContent': ':好醜的簡報', 'cmtDate': '2019-04-10 06:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jocer210', 'cmtContent': ':高雄國立全併一併高雄完美大學', 'cmtDate': '2019-04-10 06:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dddc', 'cmtContent': ':併個垃圾學校難怪學生這麼氣畢業證書上面寫清楚校區好嗎', 'cmtDate': '2019-04-10 06:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zzff92', 'cmtContent': ':不懂高雄大學學生有什麼好反對直接無痛升級耶想想指考', 'cmtDate': '2019-04-10 07:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zzff92', 'cmtContent': ':分數差多少好嗎', 'cmtDate': '2019-04-10 07:11:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS85', 'cmtContent': ':哇賽中山居然可以自視甚高到罵別人垃圾耶這素質堪憂啊', 'cmtDate': '2019-04-11 04:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'BS85', 'cmtContent': ':中山是高高大幾分？可以罵別人這樣', 'cmtDate': '2019-04-11 04:31:00+00:00'}]","聽說猴子大學要跟高雄大學合併拉!
+
+但看完了合併評估覺得哪裡怪怪DER
+
+但我肥宅也感覺不出來
+https://imgur.com/0NCDmkd
+猴子高層根本就是想吃人家校地阿
+
+根本不管其他的，是不是畫大餅阿
+
+在低能卡上可以看到兩邊不一樣的民情
+https://imgur.com/R5GOkGh
+https://imgur.com/sP7UUPC
+是不是坐上高位子都腦袋都怪怪的
+
+真的可以像學校高層說的進到世界200大嗎?(青椒之間)
+
+廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠廠
+https://drive.google.com/file/d/1rypWsul5Xxa7hdHci2Wrs9ObCLw8zySv/view
+記得去公聽會吧!
+","2019-04-09T21:42:20.000Z",0,"a3456727","[問卦]併校的八卦","https://www.ptt.cc/bbs/Gossiping/M.1554875303.A.A33.html","ptt","140.117.58.84"
+"20",258,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec035e","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'steven56138', 'cmtContent': ':115哪間學店', 'cmtDate': '2019-04-10 05:54:09+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dddc', 'cmtContent': ':115地方鳥學生鳥位置髒輸中山中興還敢自稱第一阿', 'cmtDate': '2019-04-10 05:54:09+00:00'}]","我覺得啦 會這麼突然要併
+
+無疑是想吃法學院 想一舉攻上中字輩之首
+
+畢竟115長期霸佔中字首 中山只能當老二
+
+不過即便如此努力
+
+要超過115還是不大可能的唷
+
+好好加油唄
+
+嘻嘻o'_'o
+","2019-04-09T21:54:09.000Z",0,"zerger3546","Re:[問卦]併校的八卦","https://www.ptt.cc/bbs/Gossiping/M.1554876011.A.B75.html","ptt","140.115.139.121"
+"21",259,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec035f","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'james732', 'cmtContent': ':樓下obov我吃屎', 'cmtDate': '2019-04-10 14:20:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'qscxz', 'cmtContent': ':樓上先吃他就出現', 'cmtDate': '2019-04-10 14:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'firemothra', 'cmtContent': ':樓下obov我吃屌', 'cmtDate': '2019-04-10 14:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'a1b2c3d4e5', 'cmtContent': ':哈哈', 'cmtDate': '2019-04-10 14:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'reddot', 'cmtContent': ':宜蘭跟交大啊，蘭交大', 'cmtDate': '2019-04-10 14:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shevchen', 'cmtContent': ':台大併大葉', 'cmtDate': '2019-04-10 14:22:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'idam1983', 'cmtContent': ':中山高雄高師也該併了，雖然高科併的雜音也是很多', 'cmtDate': '2019-04-10 14:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'sponge020', 'cmtContent': ':宜蘭大學跟交通大學，蘭交大', 'cmtDate': '2019-04-10 14:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'final9711', 'cmtContent': ':中山聽說要設醫學院', 'cmtDate': '2019-04-10 15:18:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'm303lover', 'cmtContent': ':南藝大南大成大', 'cmtDate': '2019-04-10 15:25:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'taipeixcity', 'cmtContent': ':台大師大', 'cmtDate': '2019-04-10 15:36:00+00:00'}]","如題
+北部的清大都併了
+南部的中山高大也要了
+下一波會是哪裡呢？
+台中的中興跟中教大嗎
+","2019-04-10T06:19:58.000Z",0,"mowru","[問卦]下一波併校是哪","https://www.ptt.cc/bbs/Gossiping/M.1554906363.A.79A.html","ptt","180.217.176.181"
+"22",261,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0361","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'xvited945', 'cmtContent': ':高大學生賺到了==', 'cmtDate': '2019-04-11 01:43:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'opica', 'cmtContent': ':合併就合併啊', 'cmtDate': '2019-04-11 01:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'deann', 'cmtContent': ':叫中山高大學嗎', 'cmtDate': '2019-04-11 01:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'tchialen', 'cmtContent': ':中山高大與中山高中', 'cmtDate': '2019-04-11 01:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cisbpmtw', 'cmtContent': ':哇台中中山醫跟高雄高醫大合起來超越北醫都有可能', 'cmtDate': '2019-04-11 01:45:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ash9911911', 'cmtContent': ':高完大何時要出現', 'cmtDate': '2019-04-11 01:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'WeAntiTVBS', 'cmtContent': ':高中山大！！', 'cmtDate': '2019-04-11 01:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'redDest', 'cmtContent': ':學店起飛', 'cmtDate': '2019-04-11 01:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'linyoyo', 'cmtContent': ':在校生證書還是會註記原校沒有甚麼學生沒有賺不賺到的', 'cmtDate': '2019-04-11 01:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'linyoyo', 'cmtContent': ':問題吧', 'cmtDate': '2019-04-11 01:51:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'DaiRiT', 'cmtContent': ':是中山不是中山醫', 'cmtDate': '2019-04-11 01:52:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'sowgotoHELL', 'cmtContent': ':中山不是要申請醫學系又要併校到底要怎樣', 'cmtDate': '2019-04-11 01:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sowgotoHELL', 'cmtContent': ':喔看錯以為要跟高醫併', 'cmtDate': '2019-04-11 01:53:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'swearflycc', 'cmtContent': ':高醫很難併啦私立有董事會中山自己申請醫學院比較', 'cmtDate': '2019-04-11 02:00:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'swearflycc', 'cmtContent': ':實在', 'cmtDate': '2019-04-11 02:00:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jackie1115', 'cmtContent': ':醫學院是有限額的不是嗎？', 'cmtDate': '2019-04-11 02:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jackie1115', 'cmtContent': ':就我聽到的高大學生好像沒啥想法，中山就有點意見了', 'cmtDate': '2019-04-11 02:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'playerunknow', 'cmtContent': ':高大學店生簽到', 'cmtDate': '2019-04-11 02:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'askzz', 'cmtContent': ':叫雄中大學啦', 'cmtDate': '2019-04-11 02:16:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'final9711', 'cmtContent': ':中山都買地了應該要自設醫學院了', 'cmtDate': '2019-04-11 04:22:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dawnny', 'cmtContent': ':高雄完全大學終於要重出江湖囉!!', 'cmtDate': '2019-04-11 04:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'erre', 'cmtContent': ':表弟念高大，現在靠延畢拖，希望可以拿到中山大學學歷，加油', 'cmtDate': '2019-04-13 06:02:00+00:00'}]","如題
+
+最近兩校看起來校務會議都偏向要合併的結果
+
+公聽會也要開了
+
+
+學生要擋好像也擋不住
+
+
+在上面的人想合併的情況下
+
+目前草案規劃看起來
+109年9月就合併成功
+
+
+
+
+合併已經是既定事實了嗎？
+
+
+
+有沒有八卦
+","2019-04-10T17:43:23.000Z",0,"sunine6488","[問卦]中山跟高大確定會合併嗎","https://www.ptt.cc/bbs/Gossiping/M.1554947367.A.B68.html","ptt","101.137.255.116"
+"23",262,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0362","Gossiping","[{'cmtStatus': '噓', 'cmtPoster': 'DaiRiT', 'cmtContent': ':高雄跟中山同個水平啊', 'cmtDate': '2019-04-11 02:01:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'wake7078', 'cmtContent': ':大葉:他們在爭什麼?', 'cmtDate': '2019-04-11 02:02:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sowgotoHELL', 'cmtContent': ':韓流外溢', 'cmtDate': '2019-04-11 02:02:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'z0953781935', 'cmtContent': ':竹教才爽好嗎……', 'cmtDate': '2019-04-11 02:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'koxinga', 'cmtContent': ':高雄哪裡跟中山同水平了？', 'cmtDate': '2019-04-11 03:01:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'vic9503', 'cmtContent': ':早知道就滯留高雄ㄌ==', 'cmtDate': '2019-04-11 03:39:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'k18535318', 'cmtContent': ':都是學店有差嗎', 'cmtDate': '2019-04-11 03:49:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'xvited945', 'cmtContent': ':高雄跟中山同水平？？？一個地名大學，一個中字輩，差', 'cmtDate': '2019-04-11 04:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'xvited945', 'cmtContent': ':很多好嗎', 'cmtDate': '2019-04-11 04:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'M1004218', 'cmtContent': ':高雄大學路過，真的是地名國立，比不上中山（雖然系上一', 'cmtDate': '2019-04-11 04:43:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'M1004218', 'cmtContent': ':堆人研究所去中山）', 'cmtDate': '2019-04-11 04:43:00+00:00'}]","油油覺得這樣當初分數不夠高只能下放高雄的學生超賺
+
+國立好遠學店生直接晉升117大學生也太爽
+
+如果真的合併了
+
+高雄不就真的起飛
+
+油油相信很多人不願看見這種事
+","2019-04-10T18:00:24.000Z",0,"redDest","Re:[問卦]中山跟高大確定會合併嗎","https://www.ptt.cc/bbs/Gossiping/M.1554948386.A.822.html","ptt","42.77.217.142"
+"24",263,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0363","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'GSHARP', 'cmtContent': ':應該...改作...國瑜...大學...', 'cmtDate': '2019-04-11 04:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cisbpmtw', 'cmtContent': ':高醫應該去跟中山醫合併超越北醫長庚成為私立第一', 'cmtDate': '2019-04-11 04:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'stayawesome', 'cmtContent': ':世界偉人國瑜大學觀光醫療產學合作學院', 'cmtDate': '2019-04-11 04:31:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'redDest', 'cmtContent': ':義守咧', 'cmtDate': '2019-04-11 04:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'shotgun31239', 'cmtContent': ':高山大', 'cmtDate': '2019-04-11 05:03:00+00:00'}]","早就該合併了
+不但中山跟高大並聯高醫大也應該合併
+有人說高醫大是私立的，政府應該推一把
+畢竟高醫大有轉型正義的問題，政府應該主動介入解決問題
+到時候就可以合併了
+
+到時候三校合併成兩萬人左右的頂尖大學
+問題就是校名要叫甚麼，最直覺、最合理的就是高雄大學
+國立大學就應該用地名命名
+
+但是中華民國教育部為了打壓台灣，所以禁止私立學校使用地名(除了部分醫學大學以外)
+理由是為了保留給國立大學，但是國立大學又普遍不用地名
+很顯然只是打壓、避免台灣人對自己的認同
+
+既然要併校，就應該用地名才是最合理的","2019-04-10T20:26:58.000Z",0,"oftisa","Re:[問卦]中山跟高大確定會合併嗎","https://www.ptt.cc/bbs/Gossiping/M.1554957180.A.7F6.html","ptt","219.68.209.51"
+"25",264,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0364","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'BITMajo', 'cmtContent': ':高中大學喇', 'cmtDate': '2019-04-11 15:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ousapas', 'cmtContent': ':要變地名大學了幫QQ', 'cmtDate': '2019-04-11 15:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pp9960', 'cmtContent': ':韓流', 'cmtDate': '2019-04-11 15:19:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'qq05', 'cmtContent': ':記者水準……', 'cmtDate': '2019-04-11 15:19:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'syntax123', 'cmtContent': ':韓國瑜大學???', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'https', 'cmtContent': ':台灣學歷至上一直合併一堆人會氣噗噗', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pikakami', 'cmtContent': ':韓流發威', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'morichi', 'cmtContent': ':中大', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'taso5566', 'cmtContent': ':雙方應該都支持維持中山', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'aj7dfe86', 'cmtContent': ':合併吧，沒學生念了', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Leoncheng', 'cmtContent': ':高山大學...聽起來想糞校', 'cmtDate': '2019-04-11 15:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Leoncheng', 'cmtContent': ':像', 'cmtDate': '2019-04-11 15:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'TaiwanKimchi', 'cmtContent': ':臺大應該南向的', 'cmtDate': '2019-04-11 15:21:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hyscout', 'cmtContent': ':併成高雄中山大學', 'cmtDate': '2019-04-11 15:22:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'akway', 'cmtContent': ':加起來還不是輸成大', 'cmtDate': '2019-04-11 15:22:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'OGCOGCOGCOGC', 'cmtContent': ':還好啦教育大學都能變清大了', 'cmtDate': '2019-04-11 15:23:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'now99', 'cmtContent': ':高山大', 'cmtDate': '2019-04-11 15:23:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wglhe', 'cmtContent': ':高雄完全大學', 'cmtDate': '2019-04-11 15:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kisweet999', 'cmtContent': ':早知道就去考高雄大學的研究所了', 'cmtDate': '2019-04-11 15:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'antigidu', 'cmtContent': ':國瑜大學', 'cmtDate': '2019-04-11 15:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'iocal', 'cmtContent': ':一堆快沒人的私立不併一併，反倒是國立在併', 'cmtDate': '2019-04-11 15:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'incandescent', 'cmtContent': ':高山大學聽起來超威', 'cmtDate': '2019-04-11 15:27:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'atpx', 'cmtContent': ':併來幹嘛?高醫等級幹嘛跟你併.高雄大學什麼咖沒併的價值', 'cmtDate': '2019-04-11 15:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mack860120', 'cmtContent': ':中山又沒法律系.....', 'cmtDate': '2019-04-11 15:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wangdon', 'cmtContent': ':高中大、中山高大、雄中大、高山大、中高大、中雄大！', 'cmtDate': '2019-04-11 15:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'joj4211', 'cmtContent': ':我倒想知道高醫除了醫藥系以外是什麼水平可以這麼秋', 'cmtDate': '2019-04-11 15:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kayhung8211', 'cmtContent': ':先把那些8+9在唸得私立糞校收一收出來整天怪政府', 'cmtDate': '2019-04-11 15:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'h73o1012', 'cmtContent': ':高雄超級大學', 'cmtDate': '2019-04-11 15:33:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'k44754', 'cmtContent': ':嘻嘻，高醫光醫學中心就屌打中山啦', 'cmtDate': '2019-04-11 15:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'k44754', 'cmtContent': ':以為高雄陳家是87喔', 'cmtDate': '2019-04-11 15:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dog990999', 'cmtContent': ':首富大學', 'cmtDate': '2019-04-11 15:34:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pkking5566', 'cmtContent': ':國立當然要併啦不然一堆廢物不讀私立去讀國立怎行', 'cmtDate': '2019-04-11 15:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'stayawesome', 'cmtContent': ':世界偉人國瑜大學觀光醫療產學合作學院', 'cmtDate': '2019-04-11 15:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'atpx', 'cmtContent': ':直接pk錄取分數,關閉後段50%國立大學,保證留下來的都菁英', 'cmtDate': '2019-04-11 15:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Retangle', 'cmtContent': ':國立發財大學', 'cmtDate': '2019-04-11 15:38:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hank7218', 'cmtContent': ':中雄大學', 'cmtDate': '2019-04-11 15:43:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'devers', 'cmtContent': ':國立首富大學、國立發大財大學！', 'cmtDate': '2019-04-11 15:46:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':其實就算高醫非醫牙藥等級也是接近等於高於中山，這', 'cmtDate': '2019-04-11 15:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':才是高醫能這麼秋的原因好嗎，雖然高醫爛系確實不怎', 'cmtDate': '2019-04-11 15:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':麼樣，', 'cmtDate': '2019-04-11 15:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':學測五科快60級分而已，不過中等科系確實跟中山中等', 'cmtDate': '2019-04-11 15:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':的熱門系差不多，某樓', 'cmtDate': '2019-04-11 15:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':看醫牙藥的人數大概總平均會>>>>中山，不過爛系確實', 'cmtDate': '2019-04-11 15:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':分數不高（社工、公衛、口衛等）', 'cmtDate': '2019-04-11 15:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':真正跟中山熱門系能比的中等科系是物治職治那種', 'cmtDate': '2019-04-11 15:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'teddyduck16', 'cmtContent': ':一般執照系跟心理系則跟中山中等系差不多大概都在63', 'cmtDate': '2019-04-11 15:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':~67', 'cmtDate': '2019-04-11 15:55:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':當你下線只比人家高一點，', 'cmtDate': '2019-04-11 15:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':上線被屌打的時候，人家應該是有機會跟你爭誰是主導', 'cmtDate': '2019-04-11 15:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':權', 'cmtDate': '2019-04-11 15:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chungkai', 'cmtContent': ':拿相近系相比較有價值拿醫牙比就跟郭董比平均一樣', 'cmtDate': '2019-04-11 16:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ccharles', 'cmtContent': ':中雄大', 'cmtDate': '2019-04-11 16:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ccharles', 'cmtContent': ':吉祥物棕熊', 'cmtDate': '2019-04-11 16:13:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':幹你他媽中山高醫就幾乎沒有相近系是要比三小，而且', 'cmtDate': '2019-04-11 16:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':醫牙藥人這麼多，算平均分數也會被他們洗到快70左右', 'cmtDate': '2019-04-11 16:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':而且我上面也給你看非醫牙藥的分數兼具，物職治超篩', 'cmtDate': '2019-04-11 16:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':66', 'cmtDate': '2019-04-11 16:30:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':＊間距', 'cmtDate': '2019-04-11 16:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YuXun2021', 'cmtContent': ':高中大學', 'cmtDate': '2019-04-11 16:34:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'chungkai', 'cmtContent': ':幹你它媽的我管你學店級分幹嘛你拿聯考分數來跟我說', 'cmtDate': '2019-04-11 17:13:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'chungkai', 'cmtContent': ':小屁孩你是哪間學店畢業的?動不動就髒話', 'cmtDate': '2019-04-11 17:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'QBRoboT', 'cmtContent': ':高雄大學被併後就直接叫中山大學楠梓校區就好該該叫', 'cmtDate': '2019-04-11 17:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'muscle1069', 'cmtContent': ':地名大學被併剛好', 'cmtDate': '2019-04-11 18:54:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jcwang', 'cmtContent': ':雄中大學', 'cmtDate': '2019-04-11 20:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'iminpain', 'cmtContent': ':高醫非醫牙分數跟中山差不多！？孩子你被騙了吧XD', 'cmtDate': '2019-04-11 20:50:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'laukun', 'cmtContent': ':山高山雄中高中雄高山雄山高中雄中來挑個', 'cmtDate': '2019-04-12 00:39:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'laukun', 'cmtContent': ':中山學生現在爆氣中吧入學分數不在同個檔次', 'cmtDate': '2019-04-12 00:40:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'hao', 'cmtContent': ':雄中plus', 'cmtDate': '2019-04-12 00:47:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dannyzzz', 'cmtContent': ':中山近來很積極要超越中字輩排名.後醫系跟仁武分校設立', 'cmtDate': '2019-04-12 00:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dannyzzz', 'cmtContent': ':後加上併校一定起飛', 'cmtDate': '2019-04-12 00:51:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dannyzzz', 'cmtContent': ':中山目前學生數還有很大成長空間', 'cmtDate': '2019-04-12 00:51:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':笑死，你他媽我就是高醫學生，我怎麼可能不知道我們', 'cmtDate': '2019-04-13 02:11:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':學校的級分', 'cmtDate': '2019-04-13 02:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':對高醫是學店，沒台成陽的醫學系都是學店', 'cmtDate': '2019-04-13 02:13:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':沒啦，我也是罵爽的，至少不像有些人什麼都不知道就', 'cmtDate': '2019-04-13 02:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':一直講', 'cmtDate': '2019-04-13 02:16:00+00:00'}]","中山、高雄大學吹併校號角 互訪舉辦公聽會
+
+2019-04-11 21:49
+
+〔記者黃旭磊／高雄報導〕中山大學擴校動作頻頻，校長鄭英耀日前拋出與公、私校合併
+構想，本月於校內舉辦公聽會，討論與高雄大學併校可能。
+
+中山大學本月在校園召開15場公聽會，廣泛收集包含校友意見，討論不變名稱前提，與國
+立高雄大學合校可能性，繼與高雄醫學大學「公私併」構想後，又吹響「公公併」號角。
+
+中山大學副校長蔡秀芬說，先前提及與高醫大合併涉及私校董事會，複雜度高，公校合併
+由雙方教職員工、師生先達成共識，報請教育部審核，相對單純。
+
+蔡秀芬說，廣泛收集意見，不單由行政立場考量，若意見認為弊大於利，會另做考量。
+
+除了舉辦「國立中山大學與國立高雄大學合校評估」公聽會，2校行政主管也積極互訪，3
+月6日由高雄大學校長王學亮率副校長莊寶鵬、連興隆拜訪中山，5月則由鄭英耀回訪高雄
+大學建立行政溝通管道。
+
+併校一事在PTT高雄版、Dcard及臉書社團中山大小事引發討論。中山大學被認為是「中字
+輩」國立大學，學測分數平均高於高雄大學，高雄大學則被認為是「小國立」，僅只法律
+系等熱門科系分數贏過中山，不少學生及校友界認為等級不同，也不滿併校校名。
+
+10多年前併校議題曾引起討論，中山位於西子灣校地發展有侷限，因學生反彈聲浪大做罷
+，至於併校名稱也有「高山大學」或搭市長人氣稱「韓國瑜大學」等建議。
+https://news.ltn.com.tw/news/life/breakingnews/2756170","2019-04-11T07:18:38.000Z",0,"zkow","[新聞]中山、高雄大學吹併校號角互訪舉辦公聽","https://www.ptt.cc/bbs/Gossiping/M.1554996280.A.54B.html","ptt","123.192.113.200"
+"26",265,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0365","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'aleezible', 'cmtContent': ':op', 'cmtDate': '2019-04-11 15:44:00+00:00'}]","中山、高雄大學吹併校號角 互訪舉辦公聽會
+https://news.ltn.com.tw/news/life/breakingnews/2756170
+豬油，連結有現場
+
+2019-04-11 21:49
+〔記者黃旭磊／高雄報導〕中山大學擴校動作頻頻，校長鄭英耀日前拋出與公、私校合併
+構想，本月於校內舉辦公聽會，討論與高雄大學併校可能。
+
+中山大學本月在校園召開15場公聽會，廣泛收集包含校友意見，討論不變名稱前提，與國
+立高雄大學合校可能性，繼與高雄醫學大學「公私併」構想後，又吹響「公公併」號角。
+
+中山大學副校長蔡秀芬說，先前提及與高醫大合併涉及私校董事會，複雜度高，公校合併
+由雙方教職員工、師生先達成共識，報請教育部審核，相對單純。
+
+蔡秀芬說，廣泛收集意見，不單由行政立場考量，若意見認為弊大於利，會另做考量。
+
+除了舉辦「國立中山大學與國立高雄大學合校評估」公聽會，2校行政主管也積極互訪，3
+月6日由高雄大學校長王學亮率副校長莊寶鵬、連興隆拜訪中山，5月則由鄭英耀回訪高雄
+大學建立行政溝通管道。
+
+併校一事在PTT高雄版、Dcard及臉書社團中山大小事引發討論。
+中山大學被認為是「中字
+輩」國立大學
+，學測分數平均高於高雄大學，高雄大學則被認為是「小國立」，僅只法律
+系等熱門科系分數贏過中山，
+不少學生及校友界認為等級不同，也不滿併校校名。
+10多年前併校議題曾引起討論，中山位於西子灣校地發展有侷限，因學生反彈聲浪大做罷
+，至於併校名稱也有
+「高山大學」或搭市長人氣稱「韓國瑜大學」
+等建議。
+
+…
+中字輩被小國立併成韓國瑜大學
+？這個好
+","2019-04-11T07:42:28.000Z",0,"pigoilstand","[新聞]中山、高雄大學吹併校號角互訪舉辦公聽","https://www.ptt.cc/bbs/Gossiping/M.1554997710.A.477.html","ptt","220.132.9.130"
+"27",266,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0366","Gossiping","[{'cmtStatus': '推', 'cmtPoster': 'Metallicat', 'cmtContent': ':韓流大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'joj4211', 'cmtContent': ':南部大學店', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'HateAnus', 'cmtContent': ':高中大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'KangSuat', 'cmtContent': ':高中', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'hipab', 'cmtContent': ':高中大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'showdoggy', 'cmtContent': ':高山大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Yamapi5566', 'cmtContent': ':國瑜大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'aquariuschi', 'cmtContent': ':睡魚大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'cc02040326', 'cmtContent': ':高完', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'lunRUSSELL', 'cmtContent': ':國瑜大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'farmoos', 'cmtContent': ':就高雄大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ReiTukisima', 'cmtContent': ':九二大學', 'cmtDate': '2019-04-11 16:24:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'solomonABC', 'cmtContent': ':中山高', 'cmtDate': '2019-04-11 16:25:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'XXXXLAY', 'cmtContent': ':高雄猴子大學', 'cmtDate': '2019-04-11 16:25:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'farmoos', 'cmtContent': ':交通和清華合併是新竹大學', 'cmtDate': '2019-04-11 16:25:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'farmoos', 'cmtContent': ':成功大學改成台南大學', 'cmtDate': '2019-04-11 16:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ht91008', 'cmtContent': ':心痛推', 'cmtDate': '2019-04-11 16:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'farmoos', 'cmtContent': ':中興改成台中大學', 'cmtDate': '2019-04-11 16:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'pipi8696044', 'cmtContent': ':國立高雄中山大學', 'cmtDate': '2019-04-11 16:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'candysagaboy', 'cmtContent': ':gp心痛大學', 'cmtDate': '2019-04-11 16:29:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'sdbb', 'cmtContent': ':雄中大學', 'cmtDate': '2019-04-11 16:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'JEWH', 'cmtContent': ':山高大學', 'cmtDate': '2019-04-11 16:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'vincevan', 'cmtContent': ':中嵩雄大學', 'cmtDate': '2019-04-11 16:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'akeji', 'cmtContent': ':中山高大學', 'cmtDate': '2019-04-11 16:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'taot917', 'cmtContent': ':改中山就好了，高大沒意見', 'cmtDate': '2019-04-11 16:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'taleschia', 'cmtContent': ':高山大學校', 'cmtDate': '2019-04-11 16:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'azrael1011', 'cmtContent': ':知高飯大學', 'cmtDate': '2019-04-11 16:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'sm999222', 'cmtContent': ':山高啊不然哩', 'cmtDate': '2019-04-11 16:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Kootinlok', 'cmtContent': ':中山高', 'cmtDate': '2019-04-11 16:34:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'JEWH', 'cmtContent': ':首富大學也是好選擇', 'cmtDate': '2019-04-11 16:35:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bybe', 'cmtContent': ':中高大學', 'cmtDate': '2019-04-11 16:36:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'haha7456', 'cmtContent': ':吹牛大學', 'cmtDate': '2019-04-11 16:36:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'allenwu79', 'cmtContent': ':發財大學', 'cmtDate': '2019-04-11 16:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'holybless', 'cmtContent': ':海原雄山傲嬌大學', 'cmtDate': '2019-04-11 16:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'allenatptt', 'cmtContent': ':低端人口大學', 'cmtDate': '2019-04-11 16:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'now99', 'cmtContent': ':中雄大學', 'cmtDate': '2019-04-11 16:38:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jackie1115', 'cmtContent': ':高雄大學阿，符合他們想搞高雄最大國立的願望', 'cmtDate': '2019-04-11 16:39:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'JEWH', 'cmtContent': ':高富大學', 'cmtDate': '2019-04-11 16:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'zzz499', 'cmtContent': ':韓大學', 'cmtDate': '2019-04-11 16:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jy75123', 'cmtContent': ':不知道併了之後高大會不會出現猴子嘻嘻', 'cmtDate': '2019-04-11 16:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'mack860120', 'cmtContent': ':發財大學', 'cmtDate': '2019-04-11 16:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gnehgneh', 'cmtContent': ':再加上高科大三校共組高雄完全大學簡稱：高完大', 'cmtDate': '2019-04-11 16:43:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'luckysafe', 'cmtContent': ':智障大學', 'cmtDate': '2019-04-11 16:46:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ui5550', 'cmtContent': ':中山高', 'cmtDate': '2019-04-11 16:46:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'ccharles', 'cmtContent': ':', 'cmtDate': '2019-04-11 16:47:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'eDrifter', 'cmtContent': ':打狗大學', 'cmtDate': '2019-04-11 16:48:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'opengaydoor', 'cmtContent': ':發財大學', 'cmtDate': '2019-04-11 16:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Argyris', 'cmtContent': ':中國高雄大學', 'cmtDate': '2019-04-11 16:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'm9o2o', 'cmtContent': ':雄中大學', 'cmtDate': '2019-04-11 16:51:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bgfa9728', 'cmtContent': ':三高大學XD', 'cmtDate': '2019-04-11 16:57:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'a16625t', 'cmtContent': ':高中大學', 'cmtDate': '2019-04-11 16:59:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'immosha', 'cmtContent': ':高中大學', 'cmtDate': '2019-04-11 17:04:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'q14721472', 'cmtContent': ':西子灣大學阿', 'cmtDate': '2019-04-11 17:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Alcor', 'cmtContent': ':中山高雄大學簡稱中山高', 'cmtDate': '2019-04-11 17:08:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Hsinxyzzyx', 'cmtContent': ':喜韓兒大學', 'cmtDate': '2019-04-11 17:10:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yangboxx', 'cmtContent': ':雄中大學聽起來就超威', 'cmtDate': '2019-04-11 17:11:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'HotHot', 'cmtContent': ':西南大學', 'cmtDate': '2019-04-11 17:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'bullace', 'cmtContent': ':金銀大學', 'cmtDate': '2019-04-11 17:27:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ackes', 'cmtContent': ':高中大學兩個願望一次滿足', 'cmtDate': '2019-04-11 17:30:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'leon1757tw', 'cmtContent': ':國瑜大學', 'cmtDate': '2019-04-11 17:36:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Luffi', 'cmtContent': ':中雄大學感覺滿討喜的', 'cmtDate': '2019-04-11 17:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'zeugen', 'cmtContent': ':中出大學', 'cmtDate': '2019-04-11 17:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'PoltPrimeWe', 'cmtContent': ':合弗大學呀，這樣某人就不用出國了', 'cmtDate': '2019-04-11 17:50:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'r34796a', 'cmtContent': ':中山高大學', 'cmtDate': '2019-04-11 17:52:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YuzanJhang', 'cmtContent': ':中山高', 'cmtDate': '2019-04-11 17:53:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'wwckchen', 'cmtContent': ':猴子大學', 'cmtDate': '2019-04-11 18:10:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'asecw', 'cmtContent': ':吱吱大學', 'cmtDate': '2019-04-11 18:12:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'soria', 'cmtContent': ':鏡子看華府那群智庫想不想跟你講話', 'cmtDate': '2019-04-11 18:17:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'YALEMY', 'cmtContent': ':高雄大學糞校要跟中山合併喔', 'cmtDate': '2019-04-11 18:19:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'OverInfinity', 'cmtContent': ':高雄完全大學簡稱高完大', 'cmtDate': '2019-04-11 18:44:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'dondothat', 'cmtContent': ':西子灣高級中學', 'cmtDate': '2019-04-11 19:13:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cokepd', 'cmtContent': ':高山', 'cmtDate': '2019-04-11 19:29:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'retardate', 'cmtContent': ':中出大', 'cmtDate': '2019-04-11 19:42:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'bird0603136', 'cmtContent': ':棕熊大學', 'cmtDate': '2019-04-11 19:56:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Informatik', 'cmtContent': ':發財大學', 'cmtDate': '2019-04-11 20:02:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'jenqhau', 'cmtContent': ':公立大學多開好幾間、又升格幾間，然後現在一直併', 'cmtDate': '2019-04-11 20:10:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'uilmas1', 'cmtContent': ':國立雄山大學', 'cmtDate': '2019-04-11 21:59:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'space20021', 'cmtContent': ':國瑜大學', 'cmtDate': '2019-04-11 22:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'yangchisheng', 'cmtContent': ':中山是和高醫大吧…還是你有其他掛？', 'cmtDate': '2019-04-11 23:06:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yangchisheng', 'cmtContent': ':伊珊大學（醫山大學）聽起來很正', 'cmtDate': '2019-04-11 23:07:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'gn0502900', 'cmtContent': ':發財大學', 'cmtDate': '2019-04-11 23:08:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'apple7685', 'cmtContent': ':雄中大學', 'cmtDate': '2019-04-11 23:26:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Liberty0816', 'cmtContent': ':高山大', 'cmtDate': '2019-04-11 23:44:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'Liberty0816', 'cmtContent': ':中熊大', 'cmtDate': '2019-04-11 23:45:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 's4300026', 'cmtContent': ':山高大學', 'cmtDate': '2019-04-11 23:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'liudwan', 'cmtContent': ':雄立中山大學', 'cmtDate': '2019-04-12 00:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ohcomeplz', 'cmtContent': ':熊山大學', 'cmtDate': '2019-04-12 00:33:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'yesyesyesyes', 'cmtContent': ':睪丸大', 'cmtDate': '2019-04-12 00:41:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'a904472000', 'cmtContent': ':中雄大學感覺有點可愛', 'cmtDate': '2019-04-12 00:42:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'xianyuyu', 'cmtContent': ':早該叫西子灣、壽山或打狗大學這些臺灣在地的名字，中', 'cmtDate': '2019-04-12 00:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'xianyuyu', 'cmtContent': ':山只是過渡', 'cmtDate': '2019-04-12 00:58:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'p2p8ppp', 'cmtContent': ':雄中大學', 'cmtDate': '2019-04-12 01:31:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ramirez', 'cmtContent': ':西灣大學', 'cmtDate': '2019-04-12 01:37:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'ogami', 'cmtContent': ':賣菜郎大學', 'cmtDate': '2019-04-12 01:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'YilanRay', 'cmtContent': ':雄山', 'cmtDate': '2019-04-12 01:52:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'nekoares', 'cmtContent': ':中山高', 'cmtDate': '2019-04-12 01:56:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'awoorog', 'cmtContent': ':把中山拿掉會有一群人氣到不行說去支那化喔', 'cmtDate': '2019-04-12 02:28:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kevin926', 'cmtContent': ':雄山選我正解', 'cmtDate': '2019-04-12 02:32:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'coaka', 'cmtContent': ':心痛大學', 'cmtDate': '2019-04-12 03:05:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'xiangbudao', 'cmtContent': ':高雄完全大學', 'cmtDate': '2019-04-12 04:04:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'asole', 'cmtContent': ':高山大學', 'cmtDate': '2019-04-12 04:06:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'g4zoco196', 'cmtContent': ':中雄大學', 'cmtDate': '2019-04-12 04:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'jy75123', 'cmtContent': ':中山高大學', 'cmtDate': '2019-04-12 04:33:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'Kaede5908', 'cmtContent': ':雄山', 'cmtDate': '2019-04-12 04:40:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'phycheout', 'cmtContent': ':棕熊大學', 'cmtDate': '2019-04-12 04:48:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'smalldata', 'cmtContent': ':幸福大學', 'cmtDate': '2019-04-12 05:41:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'xhung', 'cmtContent': ':國立高中大學', 'cmtDate': '2019-04-12 07:04:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS85', 'cmtContent': ':小龐與詹姆士大學中山猴子、高大狗', 'cmtDate': '2019-04-12 09:20:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'neoa01', 'cmtContent': ':國立高中大學', 'cmtDate': '2019-04-12 12:20:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'antigidu', 'cmtContent': ':高雄獼猴大學', 'cmtDate': '2019-04-12 12:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'AioTakumi', 'cmtContent': ':高灣大', 'cmtDate': '2019-04-12 13:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'cora0323', 'cmtContent': ':高山=猴子台語，很速配', 'cmtDate': '2019-04-12 14:49:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'alembert', 'cmtContent': ':高雄中山大學', 'cmtDate': '2019-04-13 00:13:00+00:00'}]","「國立中山大學與國立高雄大學合校評估」公聽會已經招開許久
+雖然高雄人口應該會增多
+但學校還是得合併
+
+這兩所高雄的學校合併後 要改名為什麼比較適合呢?
+","2019-04-11T08:24:06.000Z",0,"dozier","[問卦]中山、高雄大學合併之後要叫什麼?","https://www.ptt.cc/bbs/Gossiping/M.1555000208.A.A6C.html","ptt","1.169.198.106"
+"28",267,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec0367","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'qekezfeed', 'cmtContent': ':高雄發大學', 'cmtDate': '2019-04-12 12:16:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'linyoyo', 'cmtContent': ':高醫是私立的不太好搞吧之前彼此合的也都是國立的', 'cmtDate': '2019-04-12 12:17:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'morichi', 'cmtContent': ':阿哈哈哈中字變地名', 'cmtDate': '2019-04-12 12:18:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'antonny', 'cmtContent': ':老實說高雄也沒很差啦去看指考成績', 'cmtDate': '2019-04-12 12:21:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'qekezfeed', 'cmtContent': ':彰化大學在哪裡', 'cmtDate': '2019-04-12 12:24:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'teddyduck16', 'cmtContent': ':樓上是覺得同科系差7分叫沒差？', 'cmtDate': '2019-04-12 12:26:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':更別說生科平均差了16分', 'cmtDate': '2019-04-12 12:27:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'teddyduck16', 'cmtContent': ':16*5~7(加權）=80~112', 'cmtDate': '2019-04-12 12:27:00+00:00'}, {'cmtStatus': '噓', 'cmtPoster': 'jazzutahsam', 'cmtContent': ':夜市大學？猴子大學？鳳梨大學？', 'cmtDate': '2019-04-12 12:39:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'shelq', 'cmtContent': ':他是說沒很差不是差不多', 'cmtDate': '2019-04-12 19:14:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'erre', 'cmtContent': ':為什麼沒人提打狗大學，覺得字不好看，可以叫妲苟', 'cmtDate': '2019-04-13 06:05:00+00:00'}]","唯一的選擇就只有高雄大學而已，沒什麼好討論的
+要討論的是台灣幾十年來用「復校」名義開設的大學，到底有多荒謬
+
+中山大學的校史又不知道要被牽拖到中國的哪間大學、哪個年代了
+正確的歷史只要知道在高雄創校的時間點
+並且說明在那個黨國獨裁的年代，使用了這樣荒謬的名義
+
+台灣人不像中國人會竄改歷史，所以不要不提
+但是要說清楚講明白，這樣荒謬的作法的時代背景
+
+
+當然中央大學應該正名為中壢大學，使用客家話拼音
+清華、交通應該合併，稱為新竹大學，使用客家話拼音
+中興大學應該正名為台中大學
+暨南大學應該正名為埔里大學
+中正大學應該正名為民雄大學
+東華大學應該正名為花蓮大學
+
+臺灣要搞清楚策劃「復校」名義的人員、流程是什麼
+尤其是解嚴後都還有造神蔣介石的中正大學、「復校」的暨南大學
+非常的荒謬
+
+不只中山、高大合併，應該連同高醫大一同合併
+成為兩萬人左右的頂尖研究型大學才對","2019-04-12T04:16:01.000Z",0,"oftisa","Re:[問卦]中山、高雄大學合併之後要叫什麼?","https://www.ptt.cc/bbs/Gossiping/M.1555071723.A.2EA.html","ptt","219.68.209.51"
+"29",272,"2019-04-18T17:05:57.601Z","5cb8ae75a525820c30ec036c","Gossiping","[{'cmtStatus': '→', 'cmtPoster': 'kent', 'cmtContent': ':不併就有學校要倒了', 'cmtDate': '2019-04-17 08:57:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'dddc', 'cmtContent': ':高大垃圾想沾光ㄅ', 'cmtDate': '2019-04-17 08:58:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'F16V', 'cmtContent': ':成立偶像拯救併校危機', 'cmtDate': '2019-04-17 09:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'kbten', 'cmtContent': ':少子化，私校挫著等', 'cmtDate': '2019-04-17 09:03:00+00:00'}, {'cmtStatus': '推', 'cmtPoster': 'BS1017', 'cmtContent': ':其實沒差，反正也是高學歷底薪族', 'cmtDate': '2019-04-17 09:37:00+00:00'}, {'cmtStatus': '→', 'cmtPoster': 'howardchung', 'cmtContent': ':越晚併越吃虧', 'cmtDate': '2019-04-17 11:46:00+00:00'}]","安安，小妹我來自花果山大學喇
+最近學校說想和高大合併
+我是沒什麼意見啦
+覺得併也還行
+但維持現狀也挺好
+因為併校很麻煩
+如果我來決定可能會不併吧？
+(我廢物我道歉>////<
+
+身邊確實有出現兩派聲音
+有覺得併校很讚讚的
+也有覺得才不要跟高大併的
+我上網查了一下
+才發現中央也曾傳出想併校的意思
+感覺近幾年併校消息頻傳耶
+
+聽說教育部開出誘因讓學校去談併校？
+真的那麼好咪？
+副校長的理由說規模大才有成長空間，
+不否認啦，這確實聽起來很合理，
+但維持原狀好像沒很糟啊？
+給我一個很有說服力的理由併校~~
+","2019-04-17T00:56:45.000Z",0,"loveanpu0721","[問卦]為何要併校？為何？","https://www.ptt.cc/bbs/Gossiping/M.1555491767.A.B55.html","ptt","140.117.248.2"
