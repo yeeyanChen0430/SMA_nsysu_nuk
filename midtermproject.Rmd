@@ -11,6 +11,24 @@ existing = as.character(installed.packages()[,1])
 for(pkg in packages[!(packages %in% existing)]) install.packages(pkg)
 ```
 
+```{r message=FALSE, warning=FALSE} 
+library(dplyr)
+library(stringr)
+require(tidytext)
+library(sentimentr)
+library(wordcloud2)
+require(data.table)
+require(ggplot2)
+require(reshape2)
+require(wordcloud)
+require(tidyr)
+require(readr)
+require(scales)
+library(jiebaR)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
 
 # load the dcard data
 ```{r}
