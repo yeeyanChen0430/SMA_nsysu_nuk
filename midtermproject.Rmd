@@ -23,6 +23,7 @@ ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
 # apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
 ```
 
+## 整理文章資料
 ```{r}
 nsysu_data = nsysu_data %>%
   filter(grepl("高大|併校|合併|合校|高雄大學|公聽會",content)|grepl("高大|併校|合併|合校|高雄大學|公聽會",title))
@@ -41,15 +42,34 @@ ptt_data = ptt_data %>%
 
 
 ```
-
+總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
 
 ```{r}
-nsysu_comment = nsysu_comment %>%
-  filter(nchar(nsysu_comment$content)>10) #481
- nuk_comment = nuk_comment %>%
-  filter(nchar(nuk_comment$content)>10) #639
-ptt_comment = ptt_comment %>%
-  filter(nchar(ptt_comment$content)>10) #601
+head(nuk_data,10)
+head(exam_data,10)
+head(ptt_data,10)
 ```
 
+
+## 整理留言資料
+```{r}
+nsysu_comment = nsysu_comment %>%
+  filter(nchar(nsysu_comment$content)>15) #412
+ nuk_comment = nuk_comment %>%
+  filter(nchar(nuk_comment$content)>15) #501
+ptt_comment = ptt_comment %>%
+  filter(nchar(ptt_comment$content)>15) #386
+```
+
+```{r}
+head(nsysu_comment,10)
+head(nuk_comment,10)
+head(ptt_comment,10)
+```
+
+```{r}
+data <- csv %>% 
+  select(artDate, artUrl) %>% 
+  distinct()
+```
 
