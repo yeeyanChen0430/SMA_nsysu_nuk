@@ -47,6 +47,7 @@ ptt_data = ptt_data %>%
  
 ```{r}
 head(nuk_data,10)
+head(nuk_data,10)
 head(exam_data,10)
 head(ptt_data,10)
 ``` 
@@ -77,7 +78,7 @@ nsysu_comment = nsysu_comment %>%
    mutate(source="nuk_dcard")
  exam_comment = exam_comment %>%
   filter(nchar(exam_comment$content)>15)%>% #978
-  mutate(source="ptt")
+  mutate(source="exam_dcard")
 ptt_comment = ptt_comment %>%
   filter(nchar(ptt_comment$content)>15)%>% #386
   mutate(source="ptt")
@@ -86,6 +87,7 @@ ptt_comment = ptt_comment %>%
 ```{r}
 head(nsysu_comment,10)
 head(nuk_comment,10)
+head(exam_comment,10)
 head(ptt_comment,10)
 ```
 
@@ -95,7 +97,7 @@ comment = nsysu_comment %>%
    rbind(nuk_comment %>% select(id,Date ,source ,content))%>%
   rbind(exam_comment %>% select(id,Date ,source ,content))
 
-comment %>%
+comment =comment %>%
   rbind(ptt_comment %>% select(id,Date ,source ,source,content))
 colname = c("id", "artDate","source","artContent")
 colnames(comment) <- colname
@@ -143,19 +145,25 @@ plot_date <-
 
 plot_date
 
+
+plot_date <- 
+  comment_count_by_date %>% 
+  ggplot(aes(x = artDate, y = count,colour=source)) +
+  geom_line(size = 0.5) + 
+  geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
+  scale_x_date(labels = date_format("%Y/%m/%d" )) +
+  ggtitle("高大與中山併校 討論文章數") + 
+  xlab("日期") + 
+  ylab("數量") + 
+  theme(text = element_text(family = "Heiti TC Light")) #加入中文字型設定，避免中文字顯示錯誤。
+
+plot_date
+
 ```
 
-```{r}
-comment = nsysu_data %>%
-   select(id,createdAt ,source ,title,content)%>% 
-   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
-   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
-   rbind(exam_data %>% select(id,createdAt ,source ,title,content))
-colname = c("id", "artDate","source","artTitle","artContent")
-colnames(article) <- colname
-article %>%
-  rbind(ptt_data %>% select(id,artDate ,source ,artTitle,artContent))
 
-article$artDate = as.Date(article$artDate)
+
+```{r}
+
 ```
 
