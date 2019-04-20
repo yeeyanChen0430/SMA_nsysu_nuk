@@ -26,31 +26,47 @@ ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
 ## 整理文章資料
 ```{r}
 nsysu_data = nsysu_data %>%
-  filter(grepl("高大|併校|合併|合校|高雄大學|公聽會",content)|grepl("高大|併校|合併|合校|高雄大學|公聽會",title))
-# nsysu_comment = nsysu %>%
-#   select(comments) %>%
-#   filter(grepl("中山|併校|合併|合校|中山大學|公聽會",comments))  
+  filter(grepl("高大|併校|合併|合校|高雄大學|公聽會",content)|grepl("高大|併校|合併|合校|高雄大學|公聽會",title))%>%
+  mutate(source = "nsysu_dcard")
+nuk_data = nuk_data %>%
+   filter(grepl("中山|併校|合併|合校|中山大學|公聽會",content)|grepl("中山|併校|合併|合校|中山大學|公聽會",title)) %>%
+  mutate(source = "nuk_dcard")
 
- nuk_data = nuk_data %>%
-   filter(grepl("中山|併校|合併|合校|中山大學|公聽會",content)|grepl("中山|併校|合併|合校|中山大學|公聽會",title)) 
 exam_data = exam_data %>%
    filter(grepl("併校|合併|合校|公聽會",content)|grepl("併校|合併|合校|公聽會",title)) %>%
-   filter(grepl("高大|中山|高雄大學",content)|grepl("高大|中山|高雄大學",title)) 
+   filter(grepl("高大|中山|高雄大學",content)|grepl("高大|中山|高雄大學",title)) %>%
+  mutate(source = "exam_dcard")
 ptt_data = ptt_data %>%
    filter(grepl("併校|合併|合校|公聽會",artTitle)|grepl("併校|合併|合校|公聽會",artContent)) %>%
-   filter(grepl("高大|中山|高雄大學",artTitle)|grepl("高大|中山|高雄大學",artContent)) 
-
-
+   filter(grepl("高大|中山|高雄大學",artTitle)|grepl("高大|中山|高雄大學",artContent)) %>%
+  mutate(source = "ptt")
+ colnames(ptt_data)[which(names(ptt_data) == "_id")] <- "id"
 ```
-總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
+ 總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
 
+ 
+ 
 ```{r}
 head(nuk_data,10)
 head(exam_data,10)
 head(ptt_data,10)
+``` 
+ 
+ 
+ 
+```{r}
+article = nsysu_data %>%
+   select(id,createdAt ,source ,title,content)%>% 
+   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
+   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
+   rbind(exam_data %>% select(id,createdAt ,source ,title,content))
+colname = c("id", "artDate","source","artTitle","artContent")
+colnames(article) <- colname
+article %>%
+  rbind(ptt_data %>% select(id,artDate ,source ,artTitle,artContent))
+
+article$artDate = as.Date(article$artDate)
 ```
-
-
 ## 整理留言資料
 ```{r}
 nsysu_comment = nsysu_comment %>%
@@ -68,8 +84,38 @@ head(ptt_comment,10)
 ```
 
 ```{r}
-data <- csv %>% 
-  select(artDate, artUrl) %>% 
+data <- article %>% 
+  select(artDate, id) %>% 
   distinct()
+```
+
+
+```{r}
+article_count_by_date <- data %>% 
+  group_by(artDate) %>% 
+  summarise(count = n()) %>% 
+  arrange(desc(count))
+
+head(article_count_by_date, 20)
+```
+
+```{r}
+plot_date <- 
+  # data
+  article_count_by_date %>% 
+  # aesthetics
+  ggplot(aes(x = artDate, y = count)) +
+  # geometrics
+  geom_line(color = "#00AFBB", size = 2) + 
+  geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
+  # coordinates
+  scale_x_date(labels = date_format("%Y/%m/%d")) +
+  ggtitle("高大與中山併校 討論文章數") + 
+  xlab("日期") + 
+  ylab("數量") + 
+  # theme
+  theme(text = element_text(family = "Heiti TC Light")) #加入中文字型設定，避免中文字顯示錯誤。
+
+plot_date
 ```
 
