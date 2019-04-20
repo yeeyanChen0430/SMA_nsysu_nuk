@@ -8,6 +8,13 @@ load library
 ```{r}
 library(data.table)
 library(dplyr)
+require(tidytext)
+require(jiebaR)
+library(stringr)
+library(wordcloud2)
+library(ggplot2)
+library(tidyr)
+library(scales)
 ```
 
 
@@ -18,7 +25,7 @@ nuk_data =fread("my_csv_nuk.csv",encoding = 'UTF-8')
 exam_data =fread("my_csv_exam.csv",encoding = 'UTF-8')
 ptt_data =fread("ptt.csv",encoding = 'UTF-8')
 nsysu_comment =fread("comment_nsysu.csv",encoding = 'UTF-8') #552
-nuk_comment =fread("comment_nuk_.csv",encoding = 'UTF-8') #818
+nuk_comment =fread("comment_nuk.csv",encoding = 'UTF-8') #818
 ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
 exam_comment =fread("comment_exam.csv",encoding = 'UTF-8') #1024
 # apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
@@ -44,6 +51,9 @@ ptt_data = ptt_data %>%
  colnames(ptt_data)[which(names(ptt_data) == "_id")] <- "id"
 ```
  總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
+ 
+ 
+ 
  
 ```{r}
 head(nuk_data,10)
@@ -136,7 +146,7 @@ plot_date <-
   article_count_by_date %>% 
   ggplot(aes(x = artDate, y = count,colour=source)) +
   geom_line(size = 0.5) + 
-  geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
+  # geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
   scale_x_date(labels = date_format("%Y/%m/%d" )) +
   ggtitle("高大與中山併校 討論文章數") + 
   xlab("日期") + 
@@ -150,7 +160,7 @@ plot_date <-
   comment_count_by_date %>% 
   ggplot(aes(x = artDate, y = count,colour=source)) +
   geom_line(size = 0.5) + 
-  geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
+  # geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
   scale_x_date(labels = date_format("%Y/%m/%d" )) +
   ggtitle("高大與中山併校 討論文章數") + 
   xlab("日期") + 
@@ -164,6 +174,10 @@ plot_date
 
 
 ```{r}
+jieba_tokenizer <- worker(user="user_dict.txt", stop_word = "stop_words.txt")
+segment(article$artContent, jieba_tokenizer)
+
+
 
 ```
 
