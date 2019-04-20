@@ -17,9 +17,10 @@ nsysu_data = fread("my_csv_nsysu.csv",encoding = 'UTF-8')
 nuk_data =fread("my_csv_nuk.csv",encoding = 'UTF-8')
 exam_data =fread("my_csv_exam.csv",encoding = 'UTF-8')
 ptt_data =fread("ptt.csv",encoding = 'UTF-8')
-nsysu_comment =fread("comment_nsysu_.csv",encoding = 'UTF-8') #552
+nsysu_comment =fread("comment_nsysu.csv",encoding = 'UTF-8') #552
 nuk_comment =fread("comment_nuk_.csv",encoding = 'UTF-8') #818
 ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
+exam_comment =fread("comment_exam.csv",encoding = 'UTF-8') #1024
 # apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
 ```
 
@@ -43,8 +44,6 @@ ptt_data = ptt_data %>%
  colnames(ptt_data)[which(names(ptt_data) == "_id")] <- "id"
 ```
  總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
-
- 
  
 ```{r}
 head(nuk_data,10)
@@ -62,19 +61,26 @@ article = nsysu_data %>%
    rbind(exam_data %>% select(id,createdAt ,source ,title,content))
 colname = c("id", "artDate","source","artTitle","artContent")
 colnames(article) <- colname
-article %>%
+article = article %>%
   rbind(ptt_data %>% select(id,artDate ,source ,artTitle,artContent))
 
 article$artDate = as.Date(article$artDate)
+article
 ```
 ## 整理留言資料
 ```{r}
 nsysu_comment = nsysu_comment %>%
-  filter(nchar(nsysu_comment$content)>15) #412
+  filter(nchar(nsysu_comment$content)>15)%>% #412
+  mutate(source="nsysu_dcard")
  nuk_comment = nuk_comment %>%
-  filter(nchar(nuk_comment$content)>15) #501
+  filter(nchar(nuk_comment$content)>15)%>% #501
+   mutate(source="nuk_dcard")
+ exam_comment = exam_comment %>%
+  filter(nchar(exam_comment$content)>15)%>% #978
+  mutate(source="ptt")
 ptt_comment = ptt_comment %>%
-  filter(nchar(ptt_comment$content)>15) #386
+  filter(nchar(ptt_comment$content)>15)%>% #386
+  mutate(source="ptt")
 ```
 
 ```{r}
@@ -84,38 +90,72 @@ head(ptt_comment,10)
 ```
 
 ```{r}
-data <- article %>% 
-  select(artDate, id) %>% 
+comment = nsysu_comment %>%
+   select(id,Date ,source ,source,content)%>% 
+   rbind(nuk_comment %>% select(id,Date ,source ,content))%>%
+  rbind(exam_comment %>% select(id,Date ,source ,content))
+
+comment %>%
+  rbind(ptt_comment %>% select(id,Date ,source ,source,content))
+colname = c("id", "artDate","source","artContent")
+colnames(comment) <- colname
+comment$artDate = as.Date(comment$artDate)
+comment
+```
+
+
+
+```{r}
+data_article <- article %>% 
+  select(artDate, id,source) %>% 
+  distinct()
+data_comment <- comment %>% 
+  select(artDate, id,source) %>% 
   distinct()
 ```
 
 
 ```{r}
-article_count_by_date <- data %>% 
-  group_by(artDate) %>% 
+article_count_by_date <- data_article %>% 
+  group_by(artDate,source) %>% 
+  summarise(count = n()) %>% 
+  arrange(desc(count))
+comment_count_by_date <- data_comment %>% 
+  group_by(artDate,source) %>% 
   summarise(count = n()) %>% 
   arrange(desc(count))
 
 head(article_count_by_date, 20)
+head(comment_count_by_date, 20)
 ```
 
 ```{r}
 plot_date <- 
-  # data
   article_count_by_date %>% 
-  # aesthetics
-  ggplot(aes(x = artDate, y = count)) +
-  # geometrics
-  geom_line(color = "#00AFBB", size = 2) + 
+  ggplot(aes(x = artDate, y = count,colour=source)) +
+  geom_line(size = 0.5) + 
   geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
-  # coordinates
-  scale_x_date(labels = date_format("%Y/%m/%d")) +
+  scale_x_date(labels = date_format("%Y/%m/%d" )) +
   ggtitle("高大與中山併校 討論文章數") + 
   xlab("日期") + 
   ylab("數量") + 
-  # theme
   theme(text = element_text(family = "Heiti TC Light")) #加入中文字型設定，避免中文字顯示錯誤。
 
 plot_date
+
+```
+
+```{r}
+comment = nsysu_data %>%
+   select(id,createdAt ,source ,title,content)%>% 
+   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
+   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
+   rbind(exam_data %>% select(id,createdAt ,source ,title,content))
+colname = c("id", "artDate","source","artTitle","artContent")
+colnames(article) <- colname
+article %>%
+  rbind(ptt_data %>% select(id,artDate ,source ,artTitle,artContent))
+
+article$artDate = as.Date(article$artDate)
 ```
 
