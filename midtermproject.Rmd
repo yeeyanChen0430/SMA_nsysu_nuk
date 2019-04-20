@@ -5,6 +5,7 @@ date: "2019年4月19日"
 output: html_document
 ---
 load library
+<<<<<<< HEAD
 ```{r}
 library(data.table)
 library(dplyr)
@@ -15,8 +16,32 @@ library(wordcloud2)
 library(ggplot2)
 library(tidyr)
 library(scales)
+=======
+```{r message=FALSE, warning=FALSE} 
+packages = c("dplyr", "tidytext", "stringr", "wordcloud2","tidyverse",'knitr','kableExtra', "ggplot2",'readr','data.table','reshape2','wordcloud','tidyr','scales','jiebaR','sentimentr','htmltools')
+existing = as.character(installed.packages()[,1])
+for(pkg in packages[!(packages %in% existing)]) install.packages(pkg)
+>>>>>>> 01ed421c2226839154d0ae3573564f0c09b0a67b
 ```
 
+```{r message=FALSE, warning=FALSE} 
+library(dplyr)
+library(stringr)
+require(tidytext)
+library(sentimentr)
+library(wordcloud2)
+require(data.table)
+require(ggplot2)
+require(reshape2)
+require(wordcloud)
+require(tidyr)
+require(readr)
+require(scales)
+library(jiebaR)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
 
 # load the dcard data
 ```{r}
