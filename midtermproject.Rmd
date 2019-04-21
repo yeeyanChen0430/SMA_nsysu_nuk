@@ -188,7 +188,7 @@ plot_date <-
   geom_line(size = 0.5) + 
   # geom_vline(xintercept = as.numeric(as.Date("2019-03-30")), col='red') + 
   scale_x_date(labels = date_format("%Y/%m/%d" )) +
-  ggtitle("高大與中山併校 討論文章數") + 
+  ggtitle("高大與中山併校 討論留言數") + 
   xlab("日期") + 
   ylab("數量") + 
   theme(text = element_text(family = "Heiti TC Light")) #加入中文字型設定，避免中文字顯示錯誤。
@@ -253,4 +253,15 @@ article_tokens_count %>% wordcloud2()
 comment_tokens_count %>% wordcloud2()
 ```
 
+探討dcar上高大同學以及中山同學對於併校的看法
+```{r}
+library(gtools)
+student_dcard =artilce_tokens %>%
+  smartbind(comment_tokens)
+student_dcard%>%
+  filter(source %in% c("nsysu_dcard","nuk_dcard"))%>%
+  ggplot(aes(source)) + 
+  geom_bar()
+
+```
 
