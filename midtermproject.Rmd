@@ -94,7 +94,6 @@ head(ptt_data,10)
 article = nsysu_data %>%
    select(id,createdAt ,source ,title,content)%>% 
    rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
-   rbind(nuk_data %>% select(id,createdAt ,source ,title,content))%>%
    rbind(exam_data %>% select(id,createdAt ,source ,title,content))
 colname = c("id", "artDate","source","artTitle","artContent")
 colnames(article) <- colname
@@ -258,10 +257,45 @@ comment_tokens_count %>% wordcloud2()
 library(gtools)
 student_dcard =artilce_tokens %>%
   smartbind(comment_tokens)
+student_dcard = student_dcard%>%
+  filter(source %in% c("nsysu_dcard","nuk_dcard"))
+  
 student_dcard%>%
-  filter(source %in% c("nsysu_dcard","nuk_dcard"))%>%
-  ggplot(aes(source)) + 
-  geom_bar()
+  group_by(source) %>% 
+  summarise(sum = n()) %>%
+  ggplot(aes(source,
+             sum))+ 
+  geom_bar(stat="identity", width=0.5,fill="steelblue")+
+  geom_text(aes(label=sum), vjust=-0.3, size=3.5)
+```
+```{r}
+frequency <- student_dcard%>%
+  dplyr::count(source, word)%>%
+  group_by(source) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  spread(source, proportion) %>% 
+  gather(source, proportion, `nuk_dcard`)
+frequency
 
 ```
+
+```{r}
+ggplot(frequency, aes(x = proportion, y = `nsysu_dcard`, color = abs(`nsysu_dcard` - proportion))) +
+  geom_abline(color = "gray40", lty = 2) +
+  geom_jitter(alpha = 0.2, size = 2.5, width = 0.3, height = 0.3) +
+  geom_text(aes(label = word), check_overlap = TRUE, vjust = 1.5) +
+  scale_x_log10(labels = percent_format()) +
+  scale_y_log10(labels = percent_format()) +
+  scale_color_gradient(limits = c(0, 0.001), low = "darkslategray4", high = "gray75")+
+  theme(legend.position="none") +
+  labs(y = "nsysu_dcard", x = "nuk_dcard")
+```
+```
+
+
+
+
+
+
 
