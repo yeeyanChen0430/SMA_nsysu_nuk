@@ -320,9 +320,25 @@ sentiment_dcard = student_dcard %>%
   filter(sum>1) %>%
   arrange(desc(sum))%>%
   inner_join(LIWC_ch)
-sentiment_dcard
 student_dcard %>%
   inner_join(LIWC_ch)
+
+
+ student_dcard %>%
+   filter(nchar(.$word)>1) %>%
+  group_by(source,word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum)) %>%
+   filter(source =="nsysu_dcard")
+ student_dcard %>%
+   filter(nchar(.$word)>1) %>%
+  group_by(source,word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum)) %>%
+   filter(source =="nuk_dcard")
+
 ```
 
 
@@ -337,13 +353,78 @@ plot_table %>%
   geom_bar(stat="identity", width=0.5)+
   facet_grid(~source)
 ```
+
 看不出差異，手動增加字典
 
-```{r}
 
+
+
+
+```{r}
+p <- read_file("dict/nsysu_positive.txt")
+n <- read_file("dict/nsysu_negative.txt")
+
+positive <- strsplit(p, "[,]")[[1]]
+negative <- strsplit(n, "[,]")[[1]]
+positive <- data.frame(word = positive, sentiments = "positive")
+negative <- data.frame(word = negative, sentiemtns = "negative")
+colnames(negative) = c("word","sentiment")
+colnames(positive) = c("word","sentiment")
+nsysu_ch <- rbind(positive, negative)
+nsysu_ch
+```
+```{r}
+sentiment_dcard = student_dcard %>%
+   filter(nchar(.$word)>1) %>%
+  group_by(source,word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum))%>%
+  inner_join(nsysu_ch)
+student_dcard %>%
+  inner_join(nsysu_ch)
 ```
 
 
+```{r}
+plot_table<-sentiment_dcard %>%
+  group_by(source,sentiment) %>%
+  summarise(count=sum(sum)) 
+plot_table %>%
+  ggplot(aes( sentiment,count,fill=sentiment))+
+  geom_bar(stat="identity", width=0.5)
+```
 
+```{r}
+p <- read_file("dict/nuk_positive.txt")
+n <- read_file("dict/nuk_negative.txt")
 
+positive <- strsplit(p, "[,]")[[1]]
+negative <- strsplit(n, "[,]")[[1]]
+positive <- data.frame(word = positive, sentiments = "positive")
+negative <- data.frame(word = negative, sentiemtns = "negative")
+colnames(negative) = c("word","sentiment")
+colnames(positive) = c("word","sentiment")
+nuk_ch <- rbind(positive, negative)
+nuk_ch
+```
+```{r}
+sentiment_dcard = student_dcard %>%
+   filter(nchar(.$word)>1) %>%
+  group_by(source,word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum))%>%
+  inner_join(nuk_ch)
+student_dcard %>%
+  inner_join(nuk_ch)
+```
 
+```{r}
+plot_table<-sentiment_dcard %>%
+  group_by(source,sentiment) %>%
+  summarise(count=sum(sum)) 
+plot_table %>%
+  ggplot(aes( sentiment,count,fill=sentiment))+
+  geom_bar(stat="identity", width=0.5)
+```
