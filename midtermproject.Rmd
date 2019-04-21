@@ -4,28 +4,16 @@ author: "Bolun Lin"
 date: "2019年4月19日"
 output: html_document
 ---
-load library
-<<<<<<< HEAD
-```{r}
-library(data.table)
-library(dplyr)
-require(tidytext)
-require(jiebaR)
-library(stringr)
-library(wordcloud2)
-library(ggplot2)
-library(tidyr)
-library(scales)
-```
 
-
+### 準備所需要的library
 ```{r message=FALSE, warning=FALSE}
 packages = c("dplyr", "tidytext", "stringr", "wordcloud2","tidyverse",'knitr','kableExtra', "ggplot2",'readr','data.table','reshape2','wordcloud','tidyr','scales','jiebaR','sentimentr','htmltools')
 existing = as.character(installed.packages()[,1])
 for(pkg in packages[!(packages %in% existing)]) install.packages(pkg)
 ```
-
+### 載入 library
 ```{r message=FALSE, warning=FALSE} 
+
 library(dplyr)
 library(stringr)
 require(tidytext)
@@ -44,20 +32,20 @@ library(knitr)
 library(kableExtra)
 ```
 
-# load the dcard data
+### 載入文章及留言
 ```{r}
-nsysu_data = fread("my_csv_nsysu.csv",encoding = 'UTF-8')
-nuk_data =fread("my_csv_nuk.csv",encoding = 'UTF-8')
-exam_data =fread("my_csv_exam.csv",encoding = 'UTF-8')
-ptt_data =fread("ptt.csv",encoding = 'UTF-8')
-nsysu_comment =fread("comment_nsysu.csv",encoding = 'UTF-8') #552
-nuk_comment =fread("comment_nuk.csv",encoding = 'UTF-8') #818
-ptt_comment =fread("comment_ptt.csv",encoding = 'UTF-8') #1024
-exam_comment =fread("comment_exam.csv",encoding = 'UTF-8') #1024
-# apple_data =fread("merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
+nsysu_data = fread("data/my_csv_nsysu.csv",encoding = 'UTF-8')
+nuk_data =fread("data/my_csv_nuk.csv",encoding = 'UTF-8')
+exam_data =fread("data/my_csv_exam.csv",encoding = 'UTF-8')
+ptt_data =fread("data/ptt.csv",encoding = 'UTF-8')
+nsysu_comment =fread("data/comment_nsysu.csv",encoding = 'UTF-8') #552
+nuk_comment =fread("data/comment_nuk.csv",encoding = 'UTF-8') #818
+ptt_comment =fread("data/comment_ptt.csv",encoding = 'UTF-8') #1024
+exam_comment =fread("data/comment_exam.csv",encoding = 'UTF-8') #1024
+# apple_data =fread("data/merge_apple_articleMetaData.csv",encoding = 'UTF-8') #蘋果資料不佳
 ```
 
-## 整理文章資料
+### 整理文章資料
 ```{r}
 nsysu_data = nsysu_data %>%
   filter(grepl("高大|併校|合併|合校|高雄大學|公聽會",content)|grepl("高大|併校|合併|合校|高雄大學|公聽會",title))%>%
@@ -74,22 +62,15 @@ ptt_data = ptt_data %>%
    filter(grepl("併校|合併|合校|公聽會",artTitle)|grepl("併校|合併|合校|公聽會",artContent)) %>%
    filter(grepl("高大|中山|高雄大學",artTitle)|grepl("高大|中山|高雄大學",artContent)) %>%
   mutate(source = "ptt")
- colnames(ptt_data)[which(names(ptt_data) == "_id")] <- "id"
-```
- 總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
- 
- 
- 
- 
-```{r}
+colnames(ptt_data)[which(names(ptt_data) == "_id")] <- "id"
+
 head(nuk_data,10)
 head(nuk_data,10)
 head(exam_data,10)
 head(ptt_data,10)
-``` 
- 
- 
- 
+```
+ 總共有 30篇dcard中山板的文、30篇高大板的文章、29篇ptt板的文章
+### 將文章資料合在一起
 ```{r}
 article = nsysu_data %>%
    select(id,createdAt ,source ,title,content)%>% 
@@ -103,29 +84,26 @@ article = article %>%
 article$artDate = as.Date(article$artDate)
 article
 ```
-## 整理留言資料
+### 整理留言資料
 ```{r}
 nsysu_comment = nsysu_comment %>%
-  filter(nchar(nsysu_comment$content)>15)%>% #412
+  filter(nchar(nsysu_comment$content)>5)%>% #412
   mutate(source="nsysu_dcard")
  nuk_comment = nuk_comment %>%
-  filter(nchar(nuk_comment$content)>15)%>% #501
+  filter(nchar(nuk_comment$content)>5)%>% #501
    mutate(source="nuk_dcard")
  exam_comment = exam_comment %>%
-  filter(nchar(exam_comment$content)>15)%>% #978
+  filter(nchar(exam_comment$content)>5)%>% #978
   mutate(source="exam_dcard")
 ptt_comment = ptt_comment %>%
-  filter(nchar(ptt_comment$content)>15)%>% #386
+  filter(nchar(ptt_comment$content)>5)%>% #386
   mutate(source="ptt")
-```
-
-```{r}
 head(nsysu_comment,10)
 head(nuk_comment,10)
 head(exam_comment,10)
 head(ptt_comment,10)
 ```
-
+### 將留言資料合在一起
 ```{r}
 comment = nsysu_comment %>%
    select(id,Date ,source ,source,content)%>% 
@@ -139,8 +117,6 @@ colnames(comment) <- colname
 comment$artDate = as.Date(comment$artDate)
 comment
 ```
-
-
 
 ```{r}
 data_article <- article %>% 
@@ -199,7 +175,7 @@ plot_date
 
 
 ```{r}
-jieba_tokenizer <- worker(user="user_dict.txt", stop_word = "stop_words.txt")
+jieba_tokenizer <- worker(user="dict/user_dict.txt", stop_word = "dict/stop_words.txt")
 clean = function(txt) {
   txt = gsub("B\\w+", "", txt) #去除@或#後有數字,字母,底線 (標記人名或hashtag)
   txt = gsub("(http|https)://.*", "", txt) #去除網址
@@ -247,9 +223,32 @@ comment_tokens_count <- comment_tokens %>%
 # 印出最常見的20個詞彙
 head(article_tokens_count, 20)
 head(comment_tokens_count, 20)
+
+```
+```{r}
+
 article_tokens_count %>% wordcloud2()
 
 comment_tokens_count %>% wordcloud2()
+
+article_tokens_count %>%
+  filter(!word %in% c("中山","大學","中山大學","高大","學校","高雄大學","國立","合校"))%>%
+  mutate(word = reorder(word, sum)) %>%
+  top_n(25,sum) %>%
+  ggplot(aes(word, sum)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+comment_tokens_count %>%
+  filter(!word %in% c("中山","大學","中山大學","高大","學校","高雄大學","國立","合校"))%>%
+  mutate(word = reorder(word, sum)) %>%
+  top_n(25,sum) %>%
+  ggplot(aes(word, sum)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+
+
 ```
 
 探討dcar上高大同學以及中山同學對於併校的看法
@@ -291,9 +290,58 @@ ggplot(frequency, aes(x = proportion, y = `nsysu_dcard`, color = abs(`nsysu_dcar
   theme(legend.position="none") +
   labs(y = "nsysu_dcard", x = "nuk_dcard")
 ```
+
+```{r}
+cor.test(data = frequency[frequency$source == "nuk_dcard",],
+         ~ proportion + `nsysu_dcard`)
+```
+#準備LIWC字典 
+```{r}
+p <- read_file("dict/positive.txt")
+n <- read_file("dict/negative.txt")
+
+positive <- strsplit(p, "[,]")[[1]]
+negative <- strsplit(n, "[,]")[[1]]
+positive <- data.frame(word = positive, sentiments = "positive")
+negative <- data.frame(word = negative, sentiemtns = "negative")
+colnames(negative) = c("word","sentiment")
+colnames(positive) = c("word","sentiment")
+LIWC_ch <- rbind(positive, negative)
+LIWC_ch
 ```
 
 
+## 情緒字典
+```{r}
+sentiment_dcard = student_dcard %>%
+   filter(nchar(.$word)>1) %>%
+  group_by(source,word) %>% 
+  summarise(sum = n()) %>% 
+  filter(sum>1) %>%
+  arrange(desc(sum))%>%
+  inner_join(LIWC_ch)
+sentiment_dcard
+student_dcard %>%
+  inner_join(LIWC_ch)
+```
+
+
+```{r}
+plot_table<-sentiment_dcard %>%
+  group_by(source,sentiment) %>%
+  summarise(count=sum(sum)) 
+
+# interaction(source, sentiment)
+plot_table %>%
+  ggplot(aes( sentiment,count,fill=sentiment))+
+  geom_bar(stat="identity", width=0.5)+
+  facet_grid(~source)
+```
+看不出差異，手動增加字典
+
+```{r}
+
+```
 
 
 
